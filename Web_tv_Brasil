@@ -379,278 +379,412 @@ https://play.prod.gcp.vix.services/fair-play_pt/fair-play_pt_1-1/hls_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2bb0aa40-ef03-11ea-92f2-d1bf59f9f7f3ariel-1.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ARIEL
 https://vdn.libreflix.org/video/ariel/ariel.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/92737f10-c42b-11e7-86ea-757cc16b3dabthumbnail_aimores.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬AIMORES
 https://vdn.libreflix.org/video/aimores/aimores.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/9844d6d0-ce4e-11e9-98fd-3d67619a6e98cover-antiga-amazonia-presente.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ANTIGA AMAZôNIA PRESENTE
 https://vdn.libreflix.org/video/antiga-amazonia-presente/antiga-amazonia-presente.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/726bf5b0-cdea-11e9-98fd-3d67619a6e98amazonia-concilicao.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬Amazônia da impertinência à conciliação
 https://vdn.libreflix.org/video/amazonia-da-impertinencia-a-conciliacao/amazonia-da-impertinencia-a-conciliacao.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2611c720-f2c1-11e9-a031-d3cc8cc58259amor-e-revolucao.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬AMOR E REVOLUÇÃO
 https://vdn.libreflix.org/video/amouretlarevolution/amouretlarevolution.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/life-in-a-day/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬A VIDA EM UM DIA
 https://vdn.libreflix.org/video/life-in-a-day/life-in-a-day.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/81f8fab0-a190-11e7-b002-23d76a2b08f9educacao_proibida_tb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",A EDUCAÇÃO PROIBIDA
 https://vdn.libreflix.org/video/a-educacao-proibida/a-educacao-proibida.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/3a9ed5d0-b36b-11e7-b2e7-a99c543cd37eCAPA_Thumbnail-01-01.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬A CAUSA É LEGÍTIMA
 https://vdn.libreflix.org/video/a-causa-e-legitima/a-causa-e-legitima.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2828b440-bcdd-11e7-b2e7-a99c543cd37ea-ponte-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬A PONTE
 https://vdn.libreflix.org/video/a-ponte/a-ponte.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/9e7455c0-50bf-11e8-ba38-9bd0820aa2aaamargemdoconcreto.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬À MARGEM DO CONCRETO
 https://vdn.libreflix.org/video/amargemdoconcreto/amargemdoconcreto.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/507c4260-50ba-11e8-ba38-9bd0820aa2aaatrasdaporta-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ATRAS DA PORTA
 https://vdn.libreflix.org/video/atrasdaporta/atrasdaporta.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2611c720-f2c1-11e9-a031-d3cc8cc58259amor-e-revolucao.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬AMOR E REVOLUÇÃO
 https://vdn.libreflix.org/video/amouretlarevolution/amouretlarevolution.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/19b6a730-a3aa-11ea-ae8a-a93c68599017acabou-a-paz.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ACABOU A PAZ
 https://vdn.libreflix.org/video/acabou-a-paz/acabou-a-paz.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/657f77b0-d70d-11e9-a993-6f7c7a69b937primeira-vez.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬A PRIMEIRA VEZ DO CINEMA BRASILEIRO
 https://vdn.libreflix.org/video/a-primeira-vez-do-cinema-brasileiro/a-primeira-vez-do-cinema-brasileiro.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/7b7026c0-99b4-11e7-b8e8-a79ebdca2165a-carne-e-fraca.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬A CARNE É FRACA
 https://vdn.libreflix.org/video/a-carne-e-fraca/a-carne-e-fraca.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/772d84c0-7393-11ea-8346-f72c292105b7photo_2020-03-31_18-06-10.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬AS SEMENTES
 https://vdn.libreflix.org/video/as-sementes/as-sementes.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/1eb5ca20-29ae-11ea-8292-c113ec470653disrutpnio.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬A RUPTURA
 https://vdn.libreflix.org/video/a-ruptura/a-ruptura.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/472272f0-bb83-11e8-b4af-892b73cf7e6eamerica-minada.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬AMÉRICA MINADA
 https://vdn.libreflix.org/video/america-minada/america-minada.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/ccf8c0b0-cf14-11e8-b8de-d15254f76dbbfoto_an%C3%B4nima.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬BABÁS
 https://vdn.libreflix.org/video/babas-consuelo-lins/babas-consuelo-lins.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/6e19b400-ccb3-11e7-9f15-c12db9207945thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬BARBARAS CENAS
 https://vdn.libreflix.org/video/barbaras-cenas/barbaras-cenas.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/c7199300-d723-11e9-a993-6f7c7a69b937baderna_capa.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬BADERNA
 https://vdn.libreflix.org/video/baderna/baderna.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/d56f76f0-040d-11eb-8377-4b301fe411b01aa0dc2a-2f76-438b-9576-320361d77129.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CASA 05 O SOL QUE NOS HABITA
 https://vdn.libreflix.org/video/sol/sol.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/0722ac40-25f9-11ec-a8e6-11da3c3115ddcatadores1.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CATADORES NA PANDEMIA
 https://vdn.libreflix.org/video/catadores-na-pandemia/catadores-na-pandemia.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/0dfe21e0-71c7-11e9-a3e9-69f077b3bbb1cinebaru_cover.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CINEBARU
 https://vdn.libreflix.org/video/cinemageraisebarus/cinemageraisebarus.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/8d4240c0-ccf6-11e7-bb00-0d2b62fa54e0thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CICLOS
 https://vdn.libreflix.org/video/ciclos/ciclos.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/24258f00-04be-11ea-b438-4990f05bc4ceScreenshot_2019-11-11_16-58-58.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CONVERSA FIADA
 https://vdn.libreflix.org/video/conversa-fiada/conversa-fiada.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/d9f0efc0-909a-11e9-9747-95dd1bfe700bconstituinte-1987-1988.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CONSTITUINTE 1987  1988
 https://vdn.libreflix.org/video/constituinte-1987-1988/constituinte-1987-1988.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/51db6f70-d0ba-11e8-b8de-d15254f76dbbconservadorismo-em-foco-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CONSERVADORISMO EM FOCO
 https://vdn.libreflix.org/video/conservadorismo-em-foco/conservadorismo-em-foco.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/dc119470-725f-11e9-9e48-f797e92232dbcoracao-de-mae-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CORAÇÃO DE MÃE
 https://vdn.libreflix.org/video/coracao-de-mae-2015/coracao-de-mae-2015.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/1483abd0-8831-11ea-9e06-3945481c20bdcomandante-arian.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬COMANDANTE ARIAN
 https://vdn.libreflix.org/video/commander-arian/commander-arian.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/648d4720-81a8-11e9-adf8-7f9341645f4ccuba_cover.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬Cub@
 https://vdn.libreflix.org/video/cuba_/cuba_.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/38971ee0-3805-11e8-a1c2-a5f3498bcf2ephoto_2018-04-04_09-39-25.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CÚMPLICES
 https://vdn.libreflix.org/video/cumplices/cumplices.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/5c613a50-cca7-11e7-9f15-c12db9207945thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CHICO XAVIER UM AMIGO
 https://vdn.libreflix.org/video/chico-xavier-um-amigo/chico-xavier-um-amigo.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/d17590a0-9e73-11e7-bd18-07eb6deeaa19crack2.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬CRACK REPENSAR
 https://vdn.libreflix.org/video/crack-repensar/crack-repensar.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/73f5c250-ebea-11e7-9b74-15a5432e2110servidaoModerna.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬DA SERVIDÃO MODERNA
 https://vdn.libreflix.org/video/on-modern-servitude/on-modern-servitude.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/5bfe2dc0-50b4-11e8-ba38-9bd0820aa2aacover-photo-dandara.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬DANDARA
 https://vdn.libreflix.org/video/dandara/dandara.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/deus-e-o-diabo-em-cima-da-muralha/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬DEUS E O DIABO EM CIMA DA MURALHA
 https://vdn.libreflix.org/video/deus-e-o-diabo-em-cima-da-muralha/deus-e-o-diabo-em-cima-da-muralha.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/9fedd1a0-22a6-11ea-bfb6-0dbcd95f8465dedoo.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬DEDO NA FERIDA
 https://vdn.libreflix.org/video/dedo-na-ferida/dedo-na-ferida.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/070702b0-7426-11e9-8f14-3f927f9184dcwasted-waste-cover.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬DESPERDICIO DESPERDIÇADO
 https://vdn.libreflix.org/video/wasted-waste/wasted-waste.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/6d7e2160-113d-11e8-8225-4bd946f6559fantes-que-elava-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬DIVIDOCRACIA
 https://vdn.libreflix.org/video/debtocracy/debtocracy.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/a6d25d80-cb74-11e9-ac8e-3989028bdcc2dominion_thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬DOMÍNIO
 https://vdn.libreflix.org/video/dominion/dominion.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/8b3855c0-8d70-11ea-bba5-b310abc49aaacover-ecnontr-milton-santos.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ENCONTRO COM MILTON SANTOS
 https://vdn.libreflix.org/video/encontro-com-milton-santos/encontro-com-milton-santos.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/430b4750-7397-11ea-8346-f72c292105b7paracoco-teste.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ENDEMIA BRASILEIRA PARACOCO
 https://vdn.libreflix.org/video/paracoco/paracoco.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/6b957cd0-bcde-11e7-b2e7-a99c543cd37eestamira-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ESTAMIRA
 https://vdn.libreflix.org/video/estamira/estamira.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/23aca690-eeff-11ea-92f2-d1bf59f9f7f3xingu.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬EXPEDIÇÃO XINGU UM RIO UM POVO UMA FLORESTA
 https://vdn.libreflix.org/video/xingu-2015/xingu-2015.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2017/falcao_thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬FALCÃO
 https://vdn.libreflix.org/video/falcao-meninos-do-trafico/falcao-meninos-do-trafico.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/71d2ae10-3803-11e8-a1c2-a5f3498bcf2ephoto_2018-04-04_09-26-40.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬FILHOS DA DITADURA
 https://vdn.libreflix.org/video/filhos-da-ditadura/filhos-da-ditadura.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/880ea040-5d56-11e7-83dc-3f270f40ef2athumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬FREENET
 https://vdn.libreflix.org/video/freenet/freenet.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/grounded-last-of-us/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬GROUNDED
 https://vdn.libreflix.org/video/grounded-last-of-us/grounded-last-of-us.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/hotel-laide/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬HOTEL LAIDE
 https://vdn.libreflix.org/video/hotel-laide/hotel-laide.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/41a0c4c0-3ff6-11e8-a1c2-a5f3498bcf2ehype_thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬HYPE
 https://vdn.libreflix.org/video/hype/hype.360.mp4
+
 #EXTINF:-1 tvg-logo=https://vdn.libreflix.org/covers/media/b53957b0-e3e9-11e9-a1f4-91e4496775e9hqdefault.jpg?resize=480,270&crop=entropy"" group-title="DOCUMENTÁRIO",🎬HOTXUÁ
 https://vdn.libreflix.org/video/hotxua/hotxua.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/97dd66f0-43d3-11e8-a1c2-a5f3498bcf2eidioma.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬IDIOMA DESCONHECIDO
 https://vdn.libreflix.org/video/idioma-desconhecido/idioma-desconhecido.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/c0a803f0-bcf7-11e7-b2e7-a99c543cd37eincongnito-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬INCÓGNITO
 https://vdn.libreflix.org/video/incognito/incognito.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/inproprietario_thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬INPROPRIETÁRIO
 https://vdn.libreflix.org/video/inproprietario/inproprietario.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/43cf3d20-73a3-11ea-8346-f72c292105b7photo_2020-03-31_19-59-14.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬JANGO
 https://vdn.libreflix.org/video/jango/jango.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/10-anos-jean-charles-relatos/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬JEAN CHARLES 10 ANOS DEPOIS
 https://vdn.libreflix.org/video/10-anos-jean-charles-relatos/10-anos-jean-charles-relatos.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/13f87590-ccb0-11e7-9f15-c12db9207945thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬JIRAU E SANTO ANTONIO
 https://vdn.libreflix.org/video/jirau-e-santo-antonio/jirau-e-santo-antonio.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/924d08a0-ccad-11e7-9f15-c12db9207945thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬LARGOU AS BOTAS E MERGULHOU NO CÉU
 https://vdn.libreflix.org/video/largou-as-botas/largou-as-botas.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/935cee10-3781-11e8-a1c2-a5f3498bcf2eLaranjada.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬LARANJADA
 https://vdn.libreflix.org/video/laranjada-okupacao/laranjada-okupacao.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/aa007b10-ae6c-11e9-bbfe-25ffae2ef466Untitled.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬LAMA O CRIME VALE NO BRASIL
 https://vdn.libreflix.org/video/lama-o-crime-vale-no-brasil/lama-o-crime-vale-no-brasil.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/08100e20-50b6-11e8-ba38-9bd0820aa2aaleva-cover.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬LEVA
 https://vdn.libreflix.org/video/leva/leva.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/c7747b70-3ff4-11e8-a1c2-a5f3498bcf2elinha_de_montagem_thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬LINHA DE MONTAGEM
 https://vdn.libreflix.org/video/linha-de-montagem/linha-de-montagem.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/91e43e50-1856-11ea-bf61-adf7f55ebfac396d9b40-1856-11ea-bf61-adf7f55ebfaccapa_youtube.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬LEGADO NEGADO
 https://vdn.libreflix.org/video/legado-negado/legado-negado.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/life-in-a-day/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬LIFE IN A DAY
 https://vdn.libreflix.org/video/life-in-a-day/life-in-a-day.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/3579def0-a397-11ea-8d13-7f51788880b2lute-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬LUTE COMO UMA MENINA
 https://vdn.libreflix.org/video/lute-como-uma-menina/lute-como-uma-menina.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/878bb6e0-73a5-11ea-8346-f72c292105b7marighella-cover.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬MARIGUELLA
 https://vdn.libreflix.org/video/marighella-retrato-falado-de-um-guerrilheiro/marighella-retrato-falado-de-um-guerrilheiro.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/78e8c430-3f9c-11ea-beb4-9f58cc4c46cfmaxresdefault.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬MEGG
 https://vdn.libreflix.org/video/megg/megg.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/muito-alem-do-cidadao-kane/thumb2.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬MUITO ALÉM DO CIDADÃO KANE
 https://vdn.libreflix.org/video/muito-alem-do-cidadao-kane/muito-alem-do-cidadao-kane.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/96e0ade0-ee54-11e7-9b74-15a5432e2110nao-vivamos-como-escravos_thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬NÃO VIVAMOS MAIS COMO ESCRAVOS
 https://vdn.libreflix.org/video/nao-vivamos-mais-como-escravos/nao-vivamos-mais-como-escravos.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/082b0630-cd4e-11e7-bfa5-fb9becee4e3fthumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬NOSSO CORPO NOS PERTENCE
 https://vdn.libreflix.org/video/nosso-corpo-nos-pertence/nosso-corpo-nos-pertence.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/f0889380-9d4b-11e7-9e41-2765045230e6thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬NOIS DA RUA
 https://vdn.libreflix.org/video/noisdarua/noisdarua.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/ada2eb90-c476-11e7-86ea-757cc16b3dabcartaz_nuvens.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬NUVENS DE VENENO
 https://vdn.libreflix.org/video/nuvens-de-veneno/nuvens-de-veneno.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/071b0be0-3e45-11ea-beb4-9f58cc4c46cfolhar_contestado.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬OLHAR CONTESTADO
 https://vdn.libreflix.org/video/olhar-contestado/olhar-contestado.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/cbe98c20-71b5-11e8-8260-5b03f65c5cbbcapa-som-imperfeito.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O POEMA IMPERFEITO
 https://vdn.libreflix.org/video/opoemaimperfeito/opoemaimperfeito.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2cb8c360-739c-11ea-8346-f72c292105b7oquenosmove.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O QUE NOS MOVE
 https://vdn.libreflix.org/video/o-que-nos-move/o-que-nos-move.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/a9c43850-dd72-11e9-af8b-bd9d50534339Untitled.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O QUE RESTA DE JUNHO
 https://vdn.libreflix.org/video/o-que-resta-de-junho/o-que-resta-de-junho.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/41746f50-387c-11e8-a1c2-a5f3498bcf2eOQUEX_2.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O QUE É NOSSO
 https://vdn.libreflix.org/video/o-que-e-nosso/o-que-e-nosso.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/9f91fe30-ca8f-11e9-ac8e-3989028bdcc2antifascisterna_thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬OS ANTIFASCISTAS
 https://vdn.libreflix.org/video/antifascisterna/antifascisterna.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/o-menino-da-internet/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O MENINO DA INTERNET
 https://vdn.libreflix.org/video/the-internets-own-boy/the-internets-own-boy.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/observareabsorver/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬OBSERVAR E ABSORVER
 https://vdn.libreflix.org/video/observar-e-absorver/observar-e-absorver.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2017/thumb_raprap.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O RAP PELO RAP
 https://vdn.libreflix.org/video/o-rap-pelo-rap/o-rap-pelo-rap.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/o-acre-existe/oacreexistethumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O ACRE EXISTE
 https://vdn.libreflix.org/video/o-acre-existe/o-acre-existe.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2d7a3c00-cd51-11e7-bfa5-fb9becee4e3fthumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O CORPO DAS MULHERES
 https://vdn.libreflix.org/video/o-corpo-das-mulheres/o-corpo-das-mulheres.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/fc2a0e30-bb81-11e8-b4af-892b73cf7e6eo-minimo-existencial.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O MÍNIMO EXISTENCIAL
 https://vdn.libreflix.org/video/o-minimo-existencial/o-minimo-existencial.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/62b28ee0-73b7-11ea-a908-8b7c73b6538dphoto_2020-03-31_22-21-03.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬OS ADVOGADOS CONTRA A DITADURA
 https://vdn.libreflix.org/video/os-advogados-contra-a-ditadura/os-advogados-contra-a-ditadura.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/c2aafcf0-0ce5-11e8-8b2c-47af411d5df3titulo_libreflix_1.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ONDE COMEÇA UM RIO
 https://vdn.libreflix.org/video/onde-comeca-um-rio/onde-comeca-um-rio.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/b245b820-dd70-11e9-af8b-bd9d50534339cover.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬OCUPA MAUÁ
 https://vdn.libreflix.org/video/ocupa-maua/ocupa-maua.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/3035fd90-0927-11e9-b9d0-073ab0495789fbdbdf.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬OCUPAÇÕES ESTUNDATIS
 https://vdn.libreflix.org/video/ocupacoesestudantisporelesmesmos/ocupacoesestudantisporelesmesmos.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/9174b7b0-c40b-11e8-9ac6-693d11d664d4o-som-do-mtepo.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬O SOM DO TEMPO
 https://vdn.libreflix.org/video/o-som-do-tempo/o-som-do-tempo.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/fdcd4a00-4dbc-11e8-8aa1-8182d318af00sonhoubrnap-capa.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬POR UM SONHO URBANO
 https://vdn.libreflix.org/video/por-um-sonho-urbano/por-um-sonho-urbano.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/430b4750-7397-11ea-8346-f72c292105b7paracoco-teste.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬PARACOCO
 https://vdn.libreflix.org/video/paracoco/paracoco.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/364b73a0-e794-11e7-9b74-15a5432e2110um_putta_thumbnail.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬PUTTA
 https://vdn.libreflix.org/video/putta/putta.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/ea361b10-d70a-11e9-a993-6f7c7a69b937paulo-mendes-da-rocha-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬PAULO MENDES RA ROCHA
 https://vdn.libreflix.org/video/paulo-mendes-da-rocha/paulo-mendes-da-rocha.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2cf10010-f731-11e8-90db-a97710c17b8cparece-comigo-cover.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",PARECE COMIGO
 https://vdn.libreflix.org/video/parece-comigo/parece-comigo.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/65a90140-25f6-11ec-a8e6-11da3c3115dd2image_processing20201022-6363-1bfnkvn.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬PANDELIVERY
 https://vdn.libreflix.org/video/pandelivery/pandelivery.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/fd923fa0-82d3-11e7-928d-f178174756d1primavera.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬PRIMAVERA SECUNDARISTA
 https://vdn.libreflix.org/video/primavera-secundarista/primavera-secundarista.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/6ba4dd10-1107-11e8-8225-4bd946f6559flibreflix_915.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬PRIVATIZAÇÕES
 https://vdn.libreflix.org/video/privatizacoes-a-distopia-do-capital/privatizacoes-a-distopia-do-capital.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/4a180c00-a89a-11e8-af4d-492ddc47cea4quando_sinto_que_ja_sei.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬QUANDO SINTO QUE JÁ SEI
 https://vdn.libreflix.org/video/documentario-quando-sinto-que-ja-sei/documentario-quando-sinto-que-ja-sei.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/quebrando-o-tabu/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬QUEBRANDO O TABU
 https://vdn.libreflix.org/video/quebrando-o-tabu/quebrando-o-tabu.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/4de6a530-57d2-11e8-84a2-196eb65bd08fque-estranha-forma-de-vida.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬QUE ESTRANHA FORMA DE VIDA
 https://vdn.libreflix.org/video/whatastrangewayoflife/whatastrangewayoflife.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/quem-matou-eloa/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬QUEM MATOU ELOÁ
 https://vdn.libreflix.org/video/quem-matou-eloa/quem-matou-eloa.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/09da92a0-04c1-11ea-b438-4990f05bc4cemacacos_libreflix.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬QUILOMBO RIO DOS MACACOS
 https://vdn.libreflix.org/video/quilombo-rio-dos-macacos/quilombo-rio-dos-macacos.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/abaf3200-1b84-11ea-96bb-e196605f78a3RAONI.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬RAONI
 https://vdn.libreflix.org/video/raoni/raoni.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/d15b2560-c3c3-11e7-86ea-757cc16b3dabrezaa.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬REZA URBANA
 https://vdn.libreflix.org/video/muito-alem-do-cidadao-kane/muito-alem-do-cidadao-kane.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/cd4451d0-ee3a-11e7-9b74-15a5432e2110remareh_thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬REMAR É
 https://vdn.libreflix.org/video/remar-e/remar-e.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/revolution-os/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬REVOLUTION OS
 https://vdn.libreflix.org/video/revolution-os/revolution-os.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/19019280-739b-11ea-8346-f72c292105b7photo_2020-03-31_19-00-42.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬REY CIÊNCIA EM DEFESA DA VIDA
 https://vdn.libreflix.org/video/rey-ciencia-em-defesa-da-vida/rey-ciencia-em-defesa-da-vida.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/4f57d520-5a5f-11e9-af43-c999ce49e0deremixofagia.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬REMIXOFAGIA
 https://vdn.libreflix.org/video/remixofagia/remixofagia.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/f8ea72b0-e80e-11e7-9b74-15a5432e2110rip660.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬RIP A REMIX MANIFESTO
 https://vdn.libreflix.org/video/rip-a-remix-manifesto/rip-a-remix-manifesto.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/4777f440-ccb5-11e7-9f15-c12db9207945thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬RIO EM CHAMAS
 https://vdn.libreflix.org/video/rio-em-chamas/rio-em-chamas.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/5d0f1190-ff61-11e9-9a11-5171f968bad2roube-este-filme-art-pb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ROUBE ESTE FILME
 https://vdn.libreflix.org/video/steal-this-film/steal-this-film.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/8378aa50-ff5f-11e9-9a11-5171f968bad2steal_this_film.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ROUBE ESTE FILME 2
 https://vdn.libreflix.org/video/steal-this-film-2/steal-this-film-2.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2a4504e0-d707-11e9-a993-6f7c7a69b937rumo.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬RUMO AOS 100 ANOS NO PARAISO
 https://vdn.libreflix.org/video/rumo-aos-100-no-paraiso/rumo-aos-100-no-paraiso.720.mp4
+
 #EXTINF:-1 tvg-logo="https://libreflix.org/media/a4ad91e0-c33d-11e8-9ac6-693d11d664d4tcc2.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬SOBRE VIVER O TRAUMA
 https://vdn.libreflix.org/video/sobre-viver-trauma/sobre-viver-trauma.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/cc2d91c0-80f9-11e7-a983-658b229638fasementes-da-liberdade.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬SEMENTES DA LIBERDADE
 https://vdn.libreflix.org/video/sementes-da-liberdade/sementes-da-liberdade.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/earthlings/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬TERRÁQUEOS
 https://vdn.libreflix.org/video/earthlings/earthlings.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/afk/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬THE PIRATE BAY AFK
 https://vdn.libreflix.org/video/tpb-afk/tpb-afk.1080.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/cad4d380-bcd9-11e7-b2e7-a99c543cd37epunk-singer-thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬THE PUNK SINGER
 https://vdn.libreflix.org/video/the-punk-singer/the-punk-singer.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/the-code/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬THE CODE
 https://vdn.libreflix.org/video/the-code/the-code.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/73d0a220-bc4c-11e9-a745-17f6fb3ee934COVER.Jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬TCHAU QUERIDA
 https://vdn.libreflix.org/video/tchau-querida/tchau-querida.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/tem-gringo-no-morro/gringothumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬TEM GRINGO NO MORRO
 https://vdn.libreflix.org/video/tem-gringo-no-morro/tem-gringo-no-morro.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/f40c91b0-5270-11e9-9324-0d7cf9ae693dphoto_2019-03-29_19-21-00.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬VERDADE 12528
 https://vdn.libreflix.org/video/verdade-12528/verdade-12528.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/c8fbe6b0-e44c-11e9-b965-dde95d3c1526Screenshot_2019-10-01_10-09-38.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬VIVIR LA UTOPÍA
 https://vdn.libreflix.org/video/vivir-la-utopia/vivir-la-utopia.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/8561cfe0-a5be-11e9-9747-95dd1bfe700bphoto_2019-07-13_19-35-11.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬VIDA LONGA AO SLACKWARE
 https://vdn.libreflix.org/video/vida-longa-ao-slackware/vida-longa-ao-slackware.720.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/we-are-legion/thumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬WE ARE LEGION
 https://vdn.libreflix.org/video/we-are-legion/we-are-legion.480.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/87b44960-3fa3-11ea-beb4-9f58cc4c46cfxeta-thumbnail.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬XETÁ
 https://vdn.libreflix.org/video/xeta/xeta.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/2eaf3030-cfdb-11e7-bfa5-fb9becee4e3fXPLOIT.png?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬XPLOIT
 https://vdn.libreflix.org/video/xploit-internet-sob-ataque/xploit-internet-sob-ataque.1.360.mp4
+
 #EXTINF:-1 tvg-logo="https://vdn.libreflix.org/covers/media/b5ec8510-d694-11e7-bfa5-fb9becee4e3fZeitgeistThumb.jpg?resize=480,270&crop=entropy" group-title="DOCUMENTÁRIO",🎬ZEITGEIST O FILME
 https://vdn.libreflix.org/video/zeitgeist-o-filme/zeitgeist-o-filme.480.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",🎬PCC PRIMEIRO CARTEL DA CAPITAL PARTE1 A ORIGEM DA MAIOR ORGANIZAÇÃO CRIMINOSA DO MUNDO
 https://video21.mais.uol.com.br/16725206-10-90.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",🎬PCC PRIMEIRO CARTEL DA CAPITAL PARTE2 O ASSALTANTE QUE DERRUBOU OS FUNDADORES E SE TORNOU SEU PRINCIPAL LIDER
 https://video26.mais.uol.com.br/16725205-10-90.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",🎬PCC PRIMEIRO CARTEL DA CAPITAL PARTE3 QUANDO O PCC SE TRANSFORMA EM UM GRANDE NEGÓCIO DE TRÁFICO DE DROGAS
 https://video21.mais.uol.com.br/16725212-10-90.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",🎬PCC PRIMEIRO CARTEL DA CAPITAL PARTE4 A EXPLOSÃO DOS COMBATES ENTRE O PCC E OUTRAS FACÇÕES CRIMINOSAS DO PAIS
 https://videohd1.mais.uol.com.br/16725213-10-90.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",🎬17 ANOS DA QUEDA DO VOO 1907
 https://medias.prism.agilesvcs.com/MMEDIAS/00/00/08/84263_1150788676E0FAB9/prod_media_c2a541e1ea894063_1280x720_3735946.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",🎬CASO LOUISE  MÃE ACUSA PAI DE SEQUESTRAR A FILHA DE 6 ANOS
 https://medias.prism.agilesvcs.com/MMEDIAS/00/00/08/84268_D483FF8BE7F98B4B/prod_media_33022ead44ef4731_1280x720_3735946.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",🎬OS DIREITOS E DEVERES DA DEMOCRACIA AO LONGO DE 35 ANOS DE CONSTITUIÇÃO
 https://medias.prism.agilesvcs.com/MMEDIAS/00/00/08/89961_D940DB72116B69DF/prod_media_fcc38835c19f4a3f_1280x720_3735946.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",🎬REPORTAGEM ESPECIAL CHILE: 50 ANOS DO GOLPE
 https://medias.prism.agilesvcs.com/MMEDIAS/00/00/01/17870_7FE585A6E9FEC509/prod_media_73a3546d023247e5_1280x720_3735946.m3u8
 
@@ -3098,36 +3232,35 @@ https://play.prod.gcp.vix.services/boris-rufus_pt/boris-rufus_pt_1-25/play_v1_hl
 https://play.prod.gcp.vix.services/boris-rufus_pt/boris-rufus_pt_1-26/play_v1_hls_1080p.m3u8
 
 🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸(Cidade do Veículo Monstro)🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸
-
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE01
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE01
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE02
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE02
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE03
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE03
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE04
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE04
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE05
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE05
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE06
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE06
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-6/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE07
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE07
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-7/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE08
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE08
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-8/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE09
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE09
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-9/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE10
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE10
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-10/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE11
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE11
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-11/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE12
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE12
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-12/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE13
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE13
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-13/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE14
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE14
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-14/play_v1_hls_1080p.m3u8
-#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg"group-title="desenho ",INFANTIL",🦸Cidade do Veículo Monstro 1TE15
+#EXTINF:-1 Tvg-logo = "https://i.ytimg.com/vi/hSqmIt0-krI/maxresdefault.jpg" group-title="INFANTIL",🦸Cidade do Veículo Monstro 1TE15
 https://play.prod.gcp.vix.services/monster-town_pt/monster-town_pt_1-15/play_v1_hls_1080p.m3u8
 
 🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸(Car City: Construction Squad)🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸🦸
@@ -8159,9 +8292,6 @@ rtmp://hds4.worldkast.com:1935/ebenezertv2/_definst_/mp4:ebenezertv2_source
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.oasistv.com.br/imagens/logosite.png" group-title="RELIGIOSO",✝️IGREJA BATISTA SEMEAR (OAZIS TV)
 https://stmv5.samcast.com.br/oasistv/oasistv/chunklist_w1046842839.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/786009_9647d47229ed4f6f9cfc58500e8dbb3d~mv2.png/v1/fill/w_480,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-ipptv-maior.png" group-title="YouTube TVs",✝️IGREJA BRESBITERIANA DE PINHEIROS
-https://www.youtube.com/embed/IlTlIIFeZ_M
-
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5HAEECpUNrGuCD9jIcTlbB9Jln23rXvrwqKogzPaCQPbKlVuWrBJ6xxjUT5OfVSQLi0A&usqp=CAU" group-title="RELIGIOSO",✝️IGREJA CRISTIANA EBENEZER 
 https://v1.videoale.com:1935/ebetv/ebetv/chunklist_w1378873516.m3u8V
 
@@ -8215,6 +8345,9 @@ http://w2.manasat.com:1935/eglise-online/smil:eglise-online.smil/chunklist_w1822
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7d/Logo_iaptd.png" group-title="RELIGIOSO",✝️IGREJA PLENITUDE
 https://meupainel.top:1936/iaptd/iaptd/chunklist_w1603205812.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/786009_9647d47229ed4f6f9cfc58500e8dbb3d~mv2.png/v1/fill/w_480,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-ipptv-maior.png" group-title="RELIGIOSO",✝️IGREJA PRESBITERIANA DE PINHEIROS
+https://www.youtube.com/embed/vgiAZf6ITQU
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.vidasobrenatural.org/wp-content/uploads/2021/06/Logo_Header-2.png" group-title="RELIGIOSO",✝️IGREJA VIDA SOBRENATURAL
 https://alanza.iptv2022.com/CANAL_VIDA/tracks-v1a1/mono.m3u8
@@ -11930,7 +12063,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a0007
 ###################################################################################################################################################
 ANGOLA
 ###################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://imgur.com/1aVsFNl.png" group-title="ANGOLA", KK TV
+#EXTINF:-1 tvg-logo="https://imgur.com/1aVsFNl.png" group-title="WEB TV INTERNACIONAL", KK TV
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w843037073_b413000_sleng.m3u8
 
 ###################################################################################################################################################
@@ -12341,79 +12474,83 @@ ITALIA
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ce03a6a9083f907d4d5ced3947e286f.webp" group-title="WEB TV INTERNACIONAL",Canale 7
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsdYi1_OvaGOzOpkOY-OvIV5tRmC8hFtZM_5oR=s900-c-k-c0x00ffffff-no-rj" group-title="TV ABERTA ITALIA",Canale 8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsdYi1_OvaGOzOpkOY-OvIV5tRmC8hFtZM_5oR=s900-c-k-c0x00ffffff-no-rj" group-title="WEB TV INTERNACIONAL",Canale 8
 http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ebd5c522113ebdbe3b44223e2d1800f7.webp" group-title="TV ABERTA ITALIA",Canale 10
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ebd5c522113ebdbe3b44223e2d1800f7.webp" group-title="WEB TV INTERNACIONAL",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://massimoemanuelli.files.wordpress.com/2018/06/esperia-tv-nuovo-logo.jpg" group-title="TV ABERTA ITALIA",Esperia TV
+#EXTINF:-1 tvg-logo="https://massimoemanuelli.files.wordpress.com/2018/06/esperia-tv-nuovo-logo.jpg" group-title="WEB TV INTERNACIONAL",Esperia TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/99/Ondatv.jpg" group-title="TV ABERTA ITALIA",OndaTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/99/Ondatv.jpg" group-title="WEB TV INTERNACIONAL",OndaTV
 https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/43shshsdh63.jpg" group-title="TV ABERTA ITALIA",RTMK
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/43shshsdh63.jpg" group-title="WEB TV INTERNACIONAL",RTMK
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuJyCFne9LhuLkuCH_vzyUV3gNVab20nEXtBI1hA=s900-c-k-c0x00ffffff-no-rj" group-title="TV ABERTA ITALIA",RTV Reggio
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuJyCFne9LhuLkuCH_vzyUV3gNVab20nEXtBI1hA=s900-c-k-c0x00ffffff-no-rj" group-title="WEB TV INTERNACIONAL",RTV Reggio
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0cmVhbXNsNDh0di5sYWJvcmF0b3Jpby5zbDQ4ZmluYWxfc2NyZWVuc2hvdHNfMF80OGZmNDkyZg/screen-0.jpg?fakeurl=1&type=.webp" group-title="TV ABERTA ITALIA",SL48 TV
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0cmVhbXNsNDh0di5sYWJvcmF0b3Jpby5zbDQ4ZmluYWxfc2NyZWVuc2hvdHNfMF80OGZmNDkyZg/screen-0.jpg?fakeurl=1&type=.webp" group-title="WEB TV INTERNACIONAL",SL48 TV
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://slyvi-tstorage.s3.amazonaws.com/l0_tml380828104449_30548448469_1536165158917729.jpg" group-title="TV ABERTA ITALIA",Studio 100 Puglia
+#EXTINF:-1 tvg-logo="https://slyvi-tstorage.s3.amazonaws.com/l0_tml380828104449_30548448469_1536165158917729.jpg" group-title="WEB TV INTERNACIONAL",Studio 100 Puglia
 http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.superj.it/wp-content/uploads/2020/10/cropped-SUPERJCANALE634.png"  group-title="TV ABERTA ITALIA",Super J TV
+#EXTINF:-1 tvg-logo="https://www.superj.it/wp-content/uploads/2020/10/cropped-SUPERJCANALE634.png"  group-title="WEB TV INTERNACIONAL",Super J TV
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/61198893c50a1632565410228c82d40a.webp" group-title="TV ABERTA ITALIA",SuperTV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/61198893c50a1632565410228c82d40a.webp" group-title="WEB TV INTERNACIONAL",SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image85927870917.jpg" group-title="TV ABERTA ITALIA",Teleabruzzo
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image85927870917.jpg" group-title="WEB TV INTERNACIONAL",Teleabruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9oLxofxziDGONwlt1wS2A1-Z-7CN4sTh3dwh2sQry8Hl8j3jpeV8J5Sa-On2YDoagIg" group-title="TV ABERTA ITALIA",TeleChiara
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9oLxofxziDGONwlt1wS2A1-Z-7CN4sTh3dwh2sQry8Hl8j3jpeV8J5Sa-On2YDoagIg" group-title="WEB TV INTERNACIONAL",TeleChiara
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.open-live.org/it/wp-content/uploads/2017/07/TeleFoggia.jpg" group-title="TV ABERTA ITALIA" ,Telefoggia
+#EXTINF:-1 tvg-logo="https://www.open-live.org/it/wp-content/uploads/2017/07/TeleFoggia.jpg" group-title="WEB TV INTERNACIONAL" ,Telefoggia
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/teleromagna-logo-CE88238124-seeklogo.com.gif" group-title="TV ABERTA ITALIA" ,Teleromagna
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/teleromagna-logo-CE88238124-seeklogo.com.gif" group-title="WEB TV INTERNACIONAL" ,Teleromagna
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/teleromagna-logo-CE88238124-seeklogo.com.gif" group-title="TV ABERTA ITALIA",Teleromagna Mia
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/teleromagna-logo-CE88238124-seeklogo.com.gif" group-title="WEB TV INTERNACIONAL",Teleromagna Mia
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_Z_JWZo6pKm_PBRsSPX12pbh5-hQQJR__caAA=s900-c-k-c0x00ffffff-no-rj" group-title="TV ABERTA ITALIA",Teletricolore
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_Z_JWZo6pKm_PBRsSPX12pbh5-hQQJR__caAA=s900-c-k-c0x00ffffff-no-rj" group-title="WEB TV INTERNACIONAL",Teletricolore
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TRM-h24.png" group-title="TV ABERTA ITALIA",TRM13
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TRM-h24.png" group-title="WEB TV INTERNACIONAL",TRM13
 http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TVA_Vicenza.png" group-title="TV ABERTA ITALIA",TVA Vicenza
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TVA_Vicenza.png" group-title="WEB TV INTERNACIONAL",TVA Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Uninettuno-University-TV.png" group-title="TV ABERTA ITALIA",UniNettuno University TV
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Uninettuno-University-TV.png" group-title="WEB TV INTERNACIONAL",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Logo_of_Italian_television_channel_VB33.png" group-title="TV ABERTA ITALIA",VB 33
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Logo_of_Italian_television_channel_VB33.png" group-title="WEB TV INTERNACIONAL",VB 33
 http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1355835075846352898/et4EWBz7_400x400.jpg" group-title="TV ABERTA ITALIA",Vera TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1355835075846352898/et4EWBz7_400x400.jpg" group-title="WEB TV INTERNACIONAL",Vera TV
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Videolina.jpg/revision/latest/scale-to-width-down/200?cb=20121126171431" group-title="TV ABERTA ITALIA",Videolina
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Videolina.jpg/revision/latest/scale-to-width-down/200?cb=20121126171431" group-title="WEB TV INTERNACIONAL",Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="" group-title="WEB TV INTERNACIONAL",Deluxe Lounge HD | Itália
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=IT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+
 #EXTINF:-1 ,tvg-logo="" group-title="WEB TV INTERNACIONAL",Fuel TV | Itália
 https://e6f8d6cbe502460789c86d3ba5327c64.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_FuelTV/playlist.m3u8?ads.wurl_channel=586&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 ,tvg-logo="" group-title="WEB TV INTERNACIONAL",Euronews | Itália - Samsung
 https://3d48917864744271986248c38e797ee2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_EuroNewsLive/playlist.m3u8?ads.wurl_channel=543&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 ,tvg-logo="" group-title="WEB TV INTERNACIONAL",Sofy.tv | Itália
 https://sofytv-samsungit.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 ,tvg-logo="" group-title="WEB TV INTERNACIONAL",Teos TV | Itália
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3359&pprotocol=hls
 
@@ -12674,479 +12811,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://6e90edc1f58640ebadb0955758715502.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_EuroNewsLive/playlist.m3u8?ads.wurl_channel=546&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 ,tvg-logo="" group-title="WEB TV INTERNACIONAL",Bachstiftung 
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/b169516d-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-###################################################################################################################################################
-
-###################################################################################################################################################
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.tvzimbo.ao/fotos/frontends/logo-tvzimbo.png" group-title="WEB TV",ZIMBO TV (ANGOLA)
-https://live-ak.vimeocdn.com/exp=1662290101~acl=%2F90c6d699-71ba-462b-a160-7bad1d4d1e9f%2F%2A~hmac=717c36d12fbc6c5b6923f565133a25dbfd5569029175e0c988050568a7498707/90c6d699-71ba-462b-a160-7bad1d4d1e9f/chunklist_b3256000.m3u8?max_segments=10
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="WEB TV",VISION TV
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1015908442.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="WEB TV",TELEMUNDO
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="WEB TV",TELEMAX
-https://60ed5b6d0df78.streamlock.net:1936/telemax/smil:telemax.smil/chunklist_w943630063_b3000000_slen.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="WEB TV",TVE La1
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="WEB TV",TELEBARN
-https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://alo.com.br/wp-content/uploads/2018/12/nasaLogo-570x450.png" group-title="WEB TV", NASA TV USA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://alo.com.br/wp-content/uploads/2018/12/nasaLogo-570x450.png" group-title="WEB TV", NASA TV Media Channel USA
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://i0.wp.com/megatvbolivia.com/wp-content/uploads/2022/01/megalog.png?w=1420&ssl=1" group-title="WEB TV",MEGA TV BOLIVIA
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w866179729.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png" group-title="WEB TV",LA RED
-https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://www.vila-ideal.com/img/logo_kuriakostv.png" group-title="WEB TV",KURIAKOS TV
-https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w826186596_b3048000_sleng.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="WEB TV",CANAL 26 (ARG)
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1037921746_b2628000_sleng.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="WEB TV",CANAL 9 MULTIVISION (ARG)
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="WEB TV",BH TV PERU 
-https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1850909282.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/457px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="WEB TV",AMERICA TV ARG
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/376a635e-46a0-425a-afff-46ab0f305694:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image65182443708.jpg" group-title="WEB TV",ABC TV (Paraguay)
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/playlist.m3u8
-#EXTINF:-1 ,ITV Patagonia
-https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?IMDSFULL
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Cubavisi%C3%B3nIntl2012.png/revision/latest/scale-to-width-down/150?cb=20190823201316" group-title="WEB TV",CUBAVISION
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-###################################################################################################################################################
-
-###################################################################################################################################################
-
-#EXTINF:-1 ,24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.channel_id=5fd115bab7ef8d002dcf181d&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
-#EXTINF:-1 ,Faith Cinema - Filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4655&pprotocol=hls
-#EXTINF:-1 ,2
-https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Cooking Panda
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f07e9fdf313eb0041bbecda
-#EXTINF:-1 ,Dude Food
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2915?pprotocol=hls
-#EXTINF:-1 ,Eco Rico
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/710?pprotocol=hls
-#EXTINF:-1 ,Hell's Kitchen
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,World Food Championships
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4673?pprotocol=hls
-#EXTINF:-1 ,Wilder Planet
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,Deutsche Welle - DW em espanhol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 ,Deutsche Welle - DW em inglês
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-#EXTINF:-1 ,Deutsche Welle - DW em árabe
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
-#EXTINF:-1 ,Ghost Hunters - Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,GoTraveler - Plex
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=703&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60a53634126de9002e694bc2&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60a53634126de9002e694bc2
-#EXTINF:-1 ,Extreme Plus
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=729&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60aeb5cd87f9b1002ce12321&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60aeb5cd87f9b1002ce12321
-#EXTINF:-1 ,Planet X Sport
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3854&pprotocol=hls
-#EXTINF:-1 ,XCorps
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4289&pprotocol=hls
-#EXTINF:-1 ,Xptv Sports
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5825&pprotocol=hls
-#EXTINF:-1 ,Distant Roads - Filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/787&pprotocol=hls
-#EXTINF:-1 ,Full Custom Garage
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,Channel Fight
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f0ff265d71dcb00449ec02a
-#EXTINF:-1 ,MMA Now
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3860&pprotocol=hls
-#EXTINF:-1 ,UFC Next
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/713&pprotocol=hls
-#EXTINF:-1 ,Toon Goggles en Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=6041643175c115002dc51259
-#EXTINF:-1 ,(The) Angels from The Attic Comic Flix
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4268&pprotocol=hls
-#EXTINF:-1 ,(The) Angels from The Attic Create-Along
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4265&pprotocol=hls
-#EXTINF:-1 ,(The) Angels from The Attic Featurettes
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4271&pprotocol=hls
-#EXTINF:-1 ,Betty Boop TV ❤️
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4622&pprotocol=hls
-#EXTINF:-1 ,(The) Children's Reading Channel
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4160&pprotocol=hls
-#EXTINF:-1 ,Clutch Cargo
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5540&pprotocol=hls
-#EXTINF:-1 ,Felix The Cat
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5546&pprotocol=hls
-#EXTINF:-1 ,Filmon Infantis
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/7&pprotocol=hls
-#EXTINF:-1 ,Fun Little Infantis
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1861&pprotocol=hls
-#EXTINF:-1 ,Funny Company TV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4613&pprotocol=hls
-#EXTINF:-1 ,Inspector Gadget: Inspetor Bugiganga 🇬🇧
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,Kartoon Klassics
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/793&pprotocol=hls
-#EXTINF:-1 ,Kid's Rock TV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3677&pprotocol=hls
-#EXTINF:-1 ,Kids Zone
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3794&pprotocol=hls
-#EXTINF:-1 ,KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5eea605574085f0040ddc797
-#EXTINF:-1 ,Kix!
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/316&pprotocol=hls
-#EXTINF:-1 ,Little Smart Planet
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5726&pprotocol=hls
-#EXTINF:-1 ,Om Non
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3824&pprotocol=hls
-#EXTINF:-1 ,Pinkfong Baby Shark | EUA
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-#EXTINF:-1 ,Pop
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/320&pprotocol=hls
-#EXTINF:-1 ,Popeye
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4658&pprotocol=hls
-#EXTINF:-1 ,Super Geek Heroes
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5507&pprotocol=hls
-#EXTINF:-1 ,Tayla's Toddler Toy Review
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3263&pprotocol=hls
-#EXTINF:-1 ,Tiny Pop
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/318&pprotocol=hls
-#EXTINF:-1 ,Wild About Animals
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3146&pprotocol=hls
-#EXTINF:-1 ,DMTV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3056&pprotocol=hls
-#EXTINF:-1 ,EDM TV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3863&pprotocol=hls
-#EXTINF:-1 ,Hot Rock
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667&pprotocol=hls
-#EXTINF:-1 ,Jazz and Blues - Filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530&pprotocol=hls
-#EXTINF:-1 ,JBTV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2999&pprotocol=hls
-#EXTINF:-1 ,Sports Bloopers
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3110&pprotocol=hls
-#EXTINF:-1 ,Steel Dreams
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/784&pprotocol=hls
-#EXTINF:-1 ,Bedroom Beats
-https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
-#EXTINF:-1 ,BritRox
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3698&pprotocol=hls
-#EXTINF:-1 ,New Star TV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3065&pprotocol=hls
-#EXTINF:-1 ,QwestTV Jazz & Beyond
-https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a75
-#EXTINF:-1 ,QwestTV Mix
-https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a77
-#EXTINF:-1 ,Sexy Kpop TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 ,Stingray Qello
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5fe27da28c198b002d179199
-#EXTINF:-1 ,Talent Watch
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4706&pprotocol=hls
-#EXTINF:-1 ,Tipstr.TV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3539&pprotocol=hls
-#EXTINF:-1 ,Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Tribe TV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2987&pprotocol=hls
-#EXTINF:-1 ,V2Beat TV | Re
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 ,Country Star
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3008&pprotocol=hls
-#EXTINF:-1 ,Ireland Country
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3683&pprotocol=hls
-#EXTINF:-1 ,Janey Kirk | Country
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3551&pprotocol=hls
-#EXTINF:-1 ,Quietude 4K
-https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
-#EXTINF:-1 ,Party Tyme Karaoke 1
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5eea605674085f0040ddc7ac&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5eea605674085f0040ddc7ac
-#EXTINF:-1 ,HQM Baladas - só PC
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:-1 ,HQM Folk - só PC
-https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-#EXTINF:-1 ,HQM Hits - só PC
-https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-#EXTINF:-1 ,HQM Pop - só PC
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1 ,HQM Rock - só PC
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:-1 ,HQM Rock - só PC
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/index-f1-v1-a1.m3u8?pprotocol=hls
-#EXTINF:-1 ,HQM Spanish - só PC
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1 ,Destination X
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3785&pprotocol=hls
-#EXTINF:-1 ,(The) Adventures of Robin Hood (1955 - 1960) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2972&pprotocol=hls
-#EXTINF:-1 ,(The) Beverly Hillbillies: A família Buscapé | Filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2969&pprotocol=hls
-#EXTINF:-1 ,Bonanza (1959 - 1973) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2957&pprotocol=hls
-#EXTINF:-1 ,(The) Carol Burnett Show 🇺🇸
-https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,Catwalk (1992 - 1994) | Filmon 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3866&pprotocol=hls
-#EXTINF:-1 ,CBS Action | Filmon 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?pprotocol=hls
-#EXTINF:-1 ,Cisco Kid TV (1950 - 1956) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4631&pprotocol=hls
-#EXTINF:-1 ,(The) Colgate Comedy Hour (1950 - 1955) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4643&pprotocol=hls
-#EXTINF:-1 ,Date with the Angels (1957 - 1958) | Filmon 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4637&pprotocol=hls
-#EXTINF:-1 ,(The) Dick Van Dyke Show (1961 - 1966) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3098&pprotocol=hls
-#EXTINF:-1 ,Dragnet (1967 - 1970) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4601&pprotocol=hls
-#EXTINF:-1 ,Electric Now | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=70&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f170d61b898490041b49360&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f170d61b898490041b49360
-#EXTINF:-1 ,Flash Gordon (1954 - 1955) | Filmon 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5594&pprotocol=hls
-#EXTINF:-1 ,The Life of Riley (1953 - 1958) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4646&pprotocol=hls
-#EXTINF:-1 ,Man with a Camera (1958 - 1960) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4640&pprotocol=hls
-#EXTINF:-1 ,McLeod's Daughters: As filhas de McLeod 🇦🇺
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18e5df6dd1d0007cf7bad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,MST3K | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d44cfd87eb3a2717afc5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,Mutant X
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc008d4422e00072d2405/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,One Step Beyond (1959 - 1961) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2963&pprotocol=hls
-#EXTINF:-1 ,Petticoat Junction 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5564&pprotocol=hls
-#EXTINF:-1 ,(The) Red Skelton (1951 - 1971) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4649&pprotocol=hls
-#EXTINF:-1 ,Strange Paradise (1969 - 1970) 🇨🇦
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3869&pprotocol=hls
-#EXTINF:-1 ,Tales of Tomorrow (1951 - 1953) 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5588&pprotocol=hls
-#EXTINF:-1 ,Western Tee Vee | Filmon 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5582&pprotocol=hls
-#EXTINF:-1 ,Phim Viet
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362
-#EXTINF:-1 ,Filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5935&pprotocol=hls
-#EXTINF:-1 ,BCC Gaming
-https://8d07e65d3c6c45ee8c01da566493d9d2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ArcadeCloud/playlist.m3u8?ads.wurl_channel=92&ads.wurl_name=ArcadeCloud&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,SKWAD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f170d62b898490041b49374&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f170d62b898490041b49374
-#EXTINF:-1 ,Glewed TV
-https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/playlist.m3u8?ads.wurl_channel=495&ads.wurl_name=GlewedTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5eea605474085f0040ddc76d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 ,Omroep Zeeland
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:-1 ,Omrop Fryslan
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
-#EXTINF:-1 ,USA:AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,Horror 24/7
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Black Cinema
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Tele Aruba Channel 13
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?IMDSFULL
-#EXTINF:-1 ,QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8?IMDSFULL
-#EXTINF:-1 ,UCTV - University of California
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8?IMDSFULL
-#EXTINF:-1 ,Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?IMDSFULL
-#EXTINF:-1 ,Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8?IMDSFULL
-#EXTINF:-1 ,Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?IMDSFULL
-#EXTINF:-1 ,NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?IMDSFULL
-#EXTINF:-1 ,NRWISION
-https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1070249849.m3u8?IMDSFULL
-#EXTINF:-1 ,NTV CA
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8?IMDSFULL
-#EXTINF:-1 ,Omrop Fryslan
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8?IMDSFULL
-#EXTINF:-1 ,OndaTV
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8?IMDSFULL
-#EXTINF:-1 ,Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8?IMDSFULL
-#EXTINF:-1 ,BlazeTV
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8?IMDSFULL
-#EXTINF:-1 ,Alegria TV
-https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8?IMDSFULL
-#EXTINF:-1 ,WDR HD
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 ,hr-fernsehen
-https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
-#EXTINF:-1 ,NRWision HD
-https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
-#EXTINF:-1 ,YOGA ONLINE TV
-https://stream.swamiji.tv/YogaIPTV/mp4:YogaStream/chunklist_w82435511.m3u8
-#EXTINF:-1 ,Canal Mas
-https://tv.tvcontrolcp.com:1936/8010/8010/chunklist_w1517858521.m3u8
-#EXTINF:-1 ,Guaymate Tv
-https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1190483092.m3u8
-#EXTINF:-1 ,TV 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1 ,NATURE TV
-https://stmv1.srvif.com/nattv/nattv/chunklist_w1972476221.m3u8
-#EXTINF:-1 ,IHOP - International House of Prayer
-https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/playlist-gpr360.m3u8
-
-#EXTINF:-1 ,RT Documentary Channel
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-
-#EXTINF:-1 ,Fireworks
-https://ice55.securenetsystems.net/DASH67
-
-
-#EXTINF:-1 ,Nature TV
-https://stmv1.srvif.com/nattv/nattv/chunklist_w267529618.m3u8
-
-
-
-#EXTINF:-1 ,Wild Earth | África do Sul Plex
-https://wildearth-plex.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 ,Canal 33 Madrid
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8?IMDSFULL                      
-
-
-#EXTINF:-1 ,Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Antofagasta TV
-https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Ariana News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Ariana TV
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Ariana TV Int'l
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Ariana TV National
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Bahrain TV
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Türkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Yaslyk TV
-https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Tele Louange
-https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8?IMDSFULL
-
-#EXTINF:-1 ,TeleVenezia
-https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Rooster Teeth TV  VIDEO GAME
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 ,Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 ,Reuters TV
-https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5eea71d65252710041e0ccbc&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 ,GoUSA TV
-https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 ,Drone Channel | Distro TV
-https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/master.m3u8
-#EXTINF:-1 ,QwestTV Classical
-https://qwest-classic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60aeb06487f9b1002ce1231b
-
-#EXTINF:-1 ,So Yummy!
-https://firstmedia-soyummy-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-so-yummy-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=6041643175c115002dc5125d
-
-#EXTINF:-1 ,Edge Sport - Plex
-https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5eea71d45252710041e0ccb9
-
-#EXTINF:-1 ,POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-
-#EXTINF:-1 ,Visión Tv
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 ,BX1
-https://59959724487e3.streamlock.net/stream/live/chunklist_w1641997674.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,Wild Earth | África do Sul - Rakuten
-https://wildearth-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Press TV | Irã
-https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:-1 ,ABC News | Albânia
-https://tv2.abcnews.al/live/abcnews/chunks.m3u8
-#EXTINF:-1 ,Al Jazeera | Árabe
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3035?pprotocol=hls
-#EXTINF:-1 ,Al Jazeera | Mubasher
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3032?pprotocol=hls
-
-
-
-#EXTINF:-1 ,KNews | Índia
-https://knews.livebox.co.in/youtubehls/live.m3u8
-#EXTINF:-1 ,RBC - РБК | Rússia
-https://e5-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:-1 ,TSC | Canadá
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Demand Africa em espanhol
-https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 ,NEA TV | Grécia
-https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
-#EXTINF:-1 ,BBC 1 Northern Ireland (UK)
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/361?pprotocol=hls
-#EXTINF:-1 ,BBC 1 Wales (UK)
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?pprotocol=hls
-#EXTINF:-1 ,Rialto | Nova Zelândia
-https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,1 TV | Armênia
-https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 20 | Israel
-https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
-#EXTINF:-1 ,KBS World | Coreia do Sul
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 ,Moscow 24 | Rússia
-https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 ,Nollywood | Nigéria
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3617&pprotocol=hls
-#EXTINF:-1 ,OnDemand China
-https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_OnDemandChina/playlist.m3u8?ads.wurl_channel=899&ads.wurl_name=OnDemandChina&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=60d4edd7b2fdec002c14112b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-
-
-
-
-#EXTINF:-1 ,Fuel TV | Canadá
-https://e0e409872e604f53941d296c698a2cde.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_FuelTV/playlist.m3u8?ads.wurl_channel=568&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-
-#EXTINF:-1 ,Fuel TV | Índia
-https://7595cfbb77bb4ec992f8a6ad586ca6e7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FuelTV/playlist.m3u8?ads.wurl_channel=708&ads.wurl_name=FuelTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
 
 
 

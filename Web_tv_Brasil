@@ -8757,58 +8757,9 @@ https://alanza.iptv2022.com/Way_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2n8q5dgj" group-title="RELIGIOSO",✝️XTO TV ENLACE BOLÍVIA 
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist_w1298525373.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                                                                          RADIOS
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5572e6a7bc4bb5d6a8b66a997028b818.jpg" group-title="RADIO",RADIO 87 TRÊS MARIAS
 https://stm21.xcast.com.br:12122/stream
 
@@ -8872,18 +8823,8 @@ http://18008.brasilstream.com.br/stream?rand=TFMYw
 #EXTINF:-1 tvg-logo="https://cdn.cadena.com.br/uploads/station/vertical_logo/183/clube.png" group-title="RADIO",RADIO CLUBE FM ITAUNA
 https://gruporadioclube2.jmvstream.com/live
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="RADIO",RADIO CBN SP
 https://26563.live.streamtheworld.com/CBN_SPAAC.aac?dist=site
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="RADIO",RADIO ITATIAIA BELO HORIZONTE
 https://8903.brasilstream.com.br/stream
@@ -8902,12 +8843,6 @@ https://radio.saopaulo01.com.br:7000/stream
 
 #EXTINF:-1 tvg-logo="" group-title="RADIO",RADIO ITATIAIA VARGINHA
 https://stm01.virtualcast.com.br:8002/itatiaiasulminas?tid=01GQN8H8MDSGQTH6XCTKPM06GS
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13966_1576243816.jpg" group-title="RADIO",RADIO MODULO FM 96.1
 https://8086.brasilstream.com.br/stream?identifica=9988564100031371000&rand=6719179586825056000
@@ -8933,11 +8868,8 @@ http://9029.brasilstream.com.br/stream
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/radioviolacaipira.websitenoar.net/images/slider/user_196600649.jpg" group-title="RADIO",RADIO VIOLA CAIPIRA
 https://hts03.kshost.com.br:8544/live
 
-
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9d0a05_43c8e65734e54c25ab94393b69b12af3~mv2.png/v1/fill/w_362,h_362,al_c,lg_1,q_85,enc_auto/logo_3colinas.png" group-title="RADIO",3 COLINAS FM 95,7
 https://ssl.srvstm.com:9534/;?1658835909543
-
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qcvxct6jqj5f.png" group-title="RADIO",RADIO FM 89
 http://centova10.ciclanohost.com.br:9019/stream
@@ -9293,8 +9225,6 @@ http://radioaovivo.ufrgs.br:8000/stream.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8gvh2z62anhq.png" group-title="RADIO",RADIO VILLAMIX
 https://r16.ciclano.io:15012/stream
 
-
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                       SERIES
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -9549,109 +9479,109 @@ https://play.prod.gcp.vix.services/cervejantes_pt/cervejantes_pt_1-10/play_v1_hl
 #####################################################################################################################################################
 POLICIAL DE AÇO JIBAN
 #####################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE01
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE01
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE02
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE02
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE03
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE03
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE04
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE04
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE05
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE05
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title=Policial de Aço Jiban"",🎬POLICIAL DE AÇO JIBAN 1TE06
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE06
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-6/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE07
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE07
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-7/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE08
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE08
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-8/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE09
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE09
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-9/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE10
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE10
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-10/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE11
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE11
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-11/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE12
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE12
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-12/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE13
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE13
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-13/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE14
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE14
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-14/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE15
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE15
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-15/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE16
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE16
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-16/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE17
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE17
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-17/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE18
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE18
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-18/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE19
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE19
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-19/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE120
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE120
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-20/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE121
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE121
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-21/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE122
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE122
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-22/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE123
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE123
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-23/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE124
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE124
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-24/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE125
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE125
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-25/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 1TE126
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 1TE126
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_1-26/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE127
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE127
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-27/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban", 🎬POLICIAL DE AÇO JIBAN 2TE128
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE128
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-28/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE129
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE129
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-29/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE130
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE130
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-30/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE131
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE131
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-31/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE132
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE132
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-32/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE133
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE133
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-33/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE134
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE134
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-34/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE135
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE135
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-35/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE136
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE136
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-36/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo=https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg"" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE137
+#EXTINF:-1 tvg-logo=https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg"" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE137
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-37/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE138
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE138
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-38/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE139
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE139
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-39/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE140
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE140
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-40/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE141
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE141
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-41/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE142
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE142
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-42/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE143
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE143
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-43/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE144
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE144
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-44/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE145
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE145
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-45/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE146
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE146
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-46/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE147
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE147
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-47/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE148
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE148
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-48/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE149
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE149
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-49/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE150
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE150
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-50/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE151
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE151
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-51/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="Policial de Aço Jiban",🎬POLICIAL DE AÇO JIBAN 2TE152
+#EXTINF:-1 tvg-logo="https://www.animesxis.com.br/wp-content/uploads/2016/02/jiban.jpg" group-title="SERIES ON DEMAND",🎬POLICIAL DE AÇO JIBAN 2TE152
 https://play.prod.gcp.vix.services/mobile-sheriff-jiban_jp/mobile-sheriff-jiban_jp_2-52/play_v1_hls_1080p.m3u8
 #####################################################################################################################################################
 RICHARD NA ESTRADA

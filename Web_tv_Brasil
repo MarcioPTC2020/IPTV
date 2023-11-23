@@ -1122,7 +1122,7 @@ https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w998108889.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="FILMES",📽️CINE BRASIL TV
-http://200.220.133.82:8000/play/CINE_BRASIL
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES",📽️CINE CANAL
 http://acsb.sh:80/rH7KJ/159YFNjmn/103468.ts
@@ -1226,7 +1226,7 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 ,tvg-id="13" tvg-name="" tvg-logo="https://pa-str.srvsite.com/arquivos/5401/logo_face-5401-20200128165042.jpg" group-title="FILMES",📽️CLUBE WEB TV (SJ do Norte-RS)
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1181204325.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/zSnSoGh.png" group-title="FILMES",CLUBE DO TERROR
+#EXTINF:-1 tvg-logo="https://imgur.com/zSnSoGh.png" group-title="FILMES",📽️CLUBE DO TERROR
 https://i.mjh.nz/PlutoTV/64e501eec630a900088ed0f8-alt.m3u8
 
 #EXTINF:-1 tvg-id="ESBA2200008NQ" tvg-logo="https://i.imgur.com/lyBkCzB.png" group-title="FILMES",📽️CORTOS |SHORTS TV
@@ -1302,16 +1302,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playl
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1294039340.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="FILMES",📽️HBO
-http://bdtb.io/live/378724/pcapQ5/72120.m3u8
+http://195.181.163.144:14606/
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="FILMES",📽️HBO 2
-http://bdtb.io/live/378724/pcapQ5/72113.m3u8
+http://208.115.225.174:14140/
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://www.clipartmax.com/png/full/112-1124200_1-tvg-logo-http-hbo-signature.png" group-title="FILMES",📽️HBO FAMILY
-http://bdtb.io/live/378724/pcapQ5/72117.m3u8
+http://208.115.225.174:14144/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG9k7a7oKoX2SMoKNCOTZ6ScBDOnoyf5lIDPdGBtZal6cq13RX6fpzXGM1Amgsp9sb4EM&usqp=CAU" group-title="FILMES",📽️HBO MUNDI
-http://bdtb.io/live/378724/pcapQ5/72124.m3u8
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19047/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="" group-title="FILMES",📽️HBO+
 http://bdtb.io/live/378724/pcapQ5/72128.m3u8
@@ -1320,7 +1320,7 @@ http://bdtb.io/live/378724/pcapQ5/72128.m3u8
 http://bdtb.io/live/378724/pcapQ5/72131.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="FILMES",📽️HBO SIGNATURE
-http://bdtb.io/live/378724/pcapQ5/72137.m3u8
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19050/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="FILMES",📽️HBO XTREME
 http://bdtb.io/live/378724/pcapQ5/72141.m3u8
@@ -1341,7 +1341,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=499
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3429
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="FILMES",📽️MEGAPIX
-http://bdtb.io/live/378724/pcapQ5/131204.m3u8
+http://64.31.40.14:14048/
 
 #EXTINF:-1 tvg-logo="https://www.fetchtv.com.au/marketing/img/features-and-packages/included-channels/movie-sphere.png" group-title="FILMES",📽️MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
@@ -1569,7 +1569,7 @@ https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w18212837
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1022083837.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="http://crawler.mdcgate.com/iptv/logo/471.png" group-title="FILMES",📽️TELECINE ACTION
-https://tvembed.net/tc-action/tracks-v1a1/mono.m3u8?remote=189.48.100.95&token=7c72f8e44ed153152d90090ed5ff3ee4b1fc5c60-1d9b3a450cea94f89dfcf9c57f05759c-1697160723-1697153523
+http://64.31.40.14:14056/
 
 #EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-fun-252x252.png" group-title="FILMES",📽️TELECINE FUN
 https://tvembed.net/tc-fun/tracks-v1a1/mono.m3u8?remote=189.48.100.95&token=344de752107079db96a9f35098d6a7c9264b7946-7a1b92de87b9dd8a6a0ae3ba515dde9a-1697159720-1697152520

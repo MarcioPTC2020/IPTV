@@ -972,7 +972,7 @@ https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/chunklist_w609412286.
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLP7WKtTqOHcYhQvUdGbgmxoPqPE-fv2SCApNvAEN_zTxdZUxDuvDn8jn_8jmy69q1H3PukN-ABA9RPB33TLbSr06nTC9QujX5WJxf41nQp2J64lugOCkrvQ_Xye8a1-eKCgvfIaiNx8501S9Vmw1ajH9t2Jgob4SLiIgRPIBxFSgogRjUxSq9rPWISw/s1600/LOGO%20TV%202%20(1).png" group-title="FILMES",📽️TV CLASSICOS DO CINEMA
 https://stream.gia.tv/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title=FILMES",📽️TV CHANNEL
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="FILMES",📽️TV CHANNEL
 https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w533496551.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://public-rf-upload.minhawebradio.net/86705/cover/1b4990b44412466a38fd881b87d0c0d3.png" group-title="FILMES",📽️TV ESTILO DE JOGO

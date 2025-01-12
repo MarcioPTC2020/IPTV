@@ -2974,7 +2974,7 @@ https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.clubefm1007.com.br/admin/assets/img/logo.png?July272024302pm15" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE FM 100.7
 https://5a2b083e9f360.streamlock.net/baririrctv/baririrctv.sdp/chunklist_w1363733197.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.fmclube.com.br/imgs/logo2.png" group-title="WEB TV",RÁDIO📻 CLUBE FM 100.9 (ITURAMA)
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.fmclube.com.br/imgs/logo2.png" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE FM 100.9 (ITURAMA)
 https://video05.logicahost.com.br/clubefmiturama/clubefmiturama/chunklist_w2034127558.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radioclube.com.br/logoclube.png" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE FM 101.7 ARARENSE 
@@ -3217,31 +3217,31 @@ https://ztnr.rtve.es/ztnr/2795617.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RTVE_Play_logo.svg/2560px-RTVE_Play_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTV PLAY 4
 https://ztnr.rtve.es/ztnr/6782425.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="‬RÁDIO NA TV",RÁDIO📻 RTL 102.5 ᴴᴰ 🇮🇹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 ᴴᴰ 🇮🇹
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="‬RÁDIO NA TV",RÁDIO📻 RTL 102.5 News ᴴᴰ 🇮🇹🎧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 News ᴴᴰ 🇮🇹
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="‬RÁDIO NA TV",RÁDIO📻 RTL 102.5 BEST 🇮🇹🎧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 BEST 🇮🇹
 https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="‬RÁDIO NA TV",RÁDIO 📻RTL 102.5 BRO&SIS 🇮🇹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻RTL 102.5 BRO&SIS 🇮🇹
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b2816000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="‬RÁDIO NA TV",RÁDIO📻 RTL 102.5 CALIENTE 🇮🇹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 CALIENTE 🇮🇹
 https://streamcdnb3-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b2816000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="‬RÁDIO NA TV",RÁDIO📻 RTL 102.5 DOC 🇮🇹🎧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 DOC 🇮🇹
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b2816000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="‬RÁDIO NA TV",RÁDIO📻 RTL 102.5 NAPULÈ 🇮🇹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 NAPULÈ 🇮🇹
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/khdJQJ9RKWSnvGSEB4RnVOU-fUrSFRPtJHMhywsUc_XPNUkAs4IWEzMnhB3cz28ZFKyw" group-title="‬RÁDIO NA TV",RÁDIO📻 RTV ABAIS
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/khdJQJ9RKWSnvGSEB4RnVOU-fUrSFRPtJHMhywsUc_XPNUkAs4IWEzMnhB3cz28ZFKyw" group-title="RÁDIO NA TV",RÁDIO📻 RTV ABAIS
 https://stmv1.srvif.com/rtvabais/rtvabais/chunklist_w1059888617.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/RDS-Logo.png" group-title="‬RÁDIO NA TV",RÁDIO📻 RDS Social TV ᴴᴰ 🇮🇹 🎧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/RDS-Logo.png" group-title="RÁDIO NA TV",RÁDIO📻 RDS Social TV ᴴᴰ 🇮🇹 
 https://stream.rdstv.radio/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://back.ww-cdn.com/apiv3/cdn/1298119/apiv3/release/iphone/12/photo/root_swipe_header_elements_149806945021_image@iphone6plus.png?v=1555941274" group-title="RÁDIO NA TV",RÁDIO📻 SOCIEDADE
@@ -7016,7 +7016,7 @@ https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/kw3VQlw.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",ESTACAO TV
 https://5a0c3936c25c8.streamlock.net/estacaotv/estacaotv/chunklist_w865879870.m3u8
 
-#EXTINF: -1 tvg-logo="https://imgur.com/kw3VQlw.png" group-title="WEB TV", ESTACAO WEB TV
+#EXTINF: -1 tvg-logo="https://imgur.com/kw3VQlw.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰", ESTACAO WEB TV
 https://video01.kshost.com.br:4443/maria8005/maria8005/chunklist_w200414404.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",EL TRECE
@@ -7447,7 +7447,7 @@ https://59f1cbe63db89.streamlock.net:1443/studiomax/_definst_/studiomax/chunklis
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.starttv.live/wp-content/uploads/2022/04/logo-site-v5.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",START TV
 https://stmv1.samcast.com.br/joaomorenoclares4038/joaomorenoclares4038/chunklist_w1124387239.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="WEB TV",SÃO RAIMUNDO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",SÃO RAIMUNDO TV
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",SBT SP
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8

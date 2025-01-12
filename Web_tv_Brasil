@@ -3025,7 +3025,7 @@ https://s1.tvr.ovh/ibraim3622/ibraim3622/chunklist_w1766906741.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CbYZvDh.png" group-title="RÁDIO NA TV",RÁDIO📻 EU E VOCE
 https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.am570.com.br/images/logo.png" group-title="RÁDIO📻 NA TV",RÁDIO ELDORADO
+#EXTINF:-1 tvg-logo="https://www.am570.com.br/images/logo.png" group-title="RÁDIO NA TV",RÁDIO📻 ELDORADO
 https://cdn.live.br1.jmvstream.com/w/LVW-8491/LVW8491_7Bz8dSRZNZ/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://e103.fm/imagens/logo.png" group-title="RÁDIO NA TV",RÁDIO📻 EDUCADORA FM 103.9
@@ -3292,7 +3292,7 @@ https://cdn1.str.srv.br/CM7002/CM7002/chunklist_w1843507793.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://tropicalfm89.com.br/storage/config/1529582023022263f65f2649e46.png" group-title="RÁDIO NA TV",RÁDIO📻 TROPICAL FM 89.9
 https://serv3.videovox.pw/tropicalfm/tropicalfm/chunklist_w1748829310.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://radiotropicalvix.com.br/wp-content/uploads/2023/09/Logo_R-dio_Tropical-1037-branco.png" group-title="RÁDIO📻 NA TV",RÁDIO TROPICAL 103.7
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://radiotropicalvix.com.br/wp-content/uploads/2023/09/Logo_R-dio_Tropical-1037-branco.png" group-title="RÁDIO NA TV",RÁDIO📻 TROPICAL 103.7
 https://5a57bda70564a.streamlock.net/tropicalvix/tropicalvix.sdp/chunklist_w125544279.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="RÁDIO NA TV",RÁDIO📻 UIRAPURU

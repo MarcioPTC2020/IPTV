@@ -6412,7 +6412,7 @@ https://livestream.zazerconer.workers.dev/channel/UCH1a8t5cikU9cYa69BLVfbQ.m3u8
 #EXTINF:-1 tvg-id="TV Assembleia" tvg-name="TV Assembleia" tvg-logo="https://al.se.leg.br/wp-content/uploads/2023/06/Alese-Nova-Marca-fundo-transparente-3.png",group-title="CANAIS PÚBLICOS", ASSEMBLEIA LEGISLATIVA DO SERGIPE
 https://tvalese.al.se.leg.br/hls/tvalese/1_2/index.m3u8?sessId=424199
 
-#EXTINF:-1 tvg-id="TV Assembleia" tvg-name="TV Assembleia" tvg-logo="https://seeklogo.com/images/A/assembleia-legislativa-da-paraiba-logo-AAFAED3BD0-seeklogo.com.png",ASSEMBLEIA LEGISLATIVA DA PARAIBA
+#EXTINF:-1 tvg-id="TV Assembleia" tvg-name="TV Assembleia" tvg-logo="https://seeklogo.com/images/A/assembleia-legislativa-da-paraiba-logo-AAFAED3BD0-seeklogo.com.png" group-title="CANAIS PÚBLICOS",ASSEMBLEIA LEGISLATIVA DA PARAIBA
 http://tv.al.pb.leg.br/hls/tvalpb.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.al.pi.leg.br/tv/resolveuid/e434123df3374124909ae96cc150308b/@@images/image/assessoria" group-title="CANAIS PÚBLICOS",ASSEMBLEIA LEGISLATIVA DO PIAUÍ

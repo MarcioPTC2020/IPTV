@@ -2463,7 +2463,7 @@ NOTICIAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/1200px-324_%28CCMA%29_logo.svg.png" group-title="NOTICIAS",🗞CANAL 324
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://programa4por4.com/wp-content/uploads/2022/02/Icon-4por4-512x512-01.png" group-title="NOTICIAS",🗞4 POR 4 (24hs).ᴴᴰ
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uJ5NEAR6otbNV5V79oNpCFxZres4m1RUiTug9Ql5eFTQH1FW2EW1DNQyDo_4PzAPu9JoJKWPuac=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",🗞4 POR 4 (24hs).ᴴᴰ
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="NOTICIAS",🗞011 News
@@ -2472,13 +2472,13 @@ https://011news.akamaized.net/011news/011news/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS",🗞24h Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="98 LIVE" tvg-logo="https://www.98live.com.br/images/logo-98.svg" group-title="NOTICIAS",🗞98 LIVE
+#EXTINF:-1 tvg-id="ext" tvg-name="98 LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/98_FM_BH_logo.svg/679px-98_FM_BH_logo.svg.png" group-title="NOTICIAS",🗞98 LIVE
 https://live-c2.cf.dmcdn.net/sec2(ft7egw5Oxf8LXGfa93V3TmvDnMCCu07JeiItvQMehE60C_T5aNi00Zlsnesp1VW7Ng-6bSsJwRF6AfX-1L-EvmgJVubN_1rREOtTOwdsUmo3IYqsuFmlf85evSnqaUy3)/cloud/3/x8ilwg3/d/live-1080.m3u8#cell=lcfc2
 
-#EXTINF:-1,tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/2560px-I24NEWS_logo.svg.png" group-title="NOTICIAS",🗞I24 NEWS English
+#EXTINF:-1,tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="NOTICIAS",🗞I24 NEWS English
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/2560px-I24NEWS_logo.svg.png" group-title="NOTICIAS",🗞I24 NEWS FRA
+#EXTINF:-1,tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="NOTICIAS",🗞I24 NEWS FRA
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 
 #EXTINF:1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="NOTICIAS",🗞AVANÇA BRASIL
@@ -2487,8 +2487,8 @@ https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="NOTICIAS",🗞ADN40 MEXICO
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",🗞AFRICA NEWS
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1734549102/ei/DspiZ5ywFoeYobIPjtrcuQY/ip/2804:d45:9128:4500:e0a5:7169:c390:8b26/id/NQjabLGdP5g.6/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-uxaxh5g-jo4s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/spc/x-caUAtmyShv17ko-7PABsem9vIU5i7OsnW5HHAIZrFtY6iCCS0E/vprv/1/playlist_type/DVR/initcwndbps/2373750/met/1734527503,/mh/9s/mm/44/mn/sn-uxaxh5g-jo4s/ms/lva/mv/m/mvi/3/pl/40/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51326932,51335594/mt/1734527079/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPeFNqsL7e-edZW51TzK8FpAFx3Z2tNp3PHO5gJQES_zAiB9PhLN0bf4Ihm_nR0K4STkVEbIqw6p04YxFbYsgziThg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAM-wUHSWKBhGepENHLnuDrNNcjTZ9MGFmRAVy5YeK7HiAiBwgbvkpYG-N76TkoTxOU0Gx3bunYL68IYd0anTxuvglQ%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="NOTICIAS",🗞AFRICA NEWS
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1736825432/ei/-IWFZ_L8LKjq-LAPk933sA4/ip/2804:d45:9128:4500:f119:99a0:3edd:7bcd/id/b6R9-7KZ8YM.6/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-uxaxh5g-jo4r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-NsXBGVMn389IDf9lJL0k_oJDxMGp9KXA2b9URLo8GCTe3jpyVDGwv9KZh6cfZcTuj06hp4zLSs/spc/9kzgDfNU7MsZJ4Ok7Me8BjYk8imuT3IGEYGjran70mgIRDawQfSAgz7qT2ED/vprv/1/playlist_type/DVR/met/1736803833,/mh/6M/mm/44/mn/sn-uxaxh5g-jo4r/ms/lva/mv/u/mvi/2/pl/43/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51326932,51335594,51353498,51371294/mt/1736802651/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAISZEn2R2545gv5VNqhxOXqtgqtncse85QDyg7aXi9hHAiALd8offBIzRgNNc6Ofx9He0mt7seiLzvZEGz91djsQzQ%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIgVgnhrL6jsICkduzd8aHW8BvJcKalRDb3gvfVa3CkuSQCIQCnnh44wvBu0J713fdRMKmxE9k4854G-AbGrrxUwilIrw%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="NOTICIAS",🗞AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -2547,7 +2547,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcjMIJz1t4Hkr4nTozLhHhhyfs_zORspXPq5ybJ47gM-GZ5k_" group-title="NOTICIAS",🗞Conecta+.ᴴᴰ
 http://189.14.239.62:1935/webtv/livestream1/chunklist_w1853358201.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngkey.com%2Fmaxpic%2Fu2w7e6o0o0w7r5t4%2F&psig=AOvVaw0n8EUMFVbFuaBArDAb4kTX&ust=1734572116791000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCBs-2WsIoDFQAAAAAdAAAAABAY" group-title="NOTICIAS",🗞CNBC BR
+#EXTINF:-1 tvg-logo="https://freelogopng.com/images/all_img/1684122178cnbc-logo.png" group-title="NOTICIAS",🗞CNBC BR
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.restartlife.com/wp-content/uploads/logo-cbsnews-1.png" group-title="NOTICIAS",🗞CBS NEWS (USA)
@@ -2619,7 +2619,7 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-logo="https://logospng.org/download/uol/logo-uol-icon-1024.png" group-title="NOTICIAS",🗞CANAL UOL
 https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Canal_26_logo_%282022%29.svg" group-title="NOTICIAS",🗞CANAL 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS",🗞CANAL 26
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1735951863/ei/lzF4Z_PFGtCf4dUP6eOMuQ8/ip/2804:d45:9128:4500:211b:e033:ef50:ea51/id/9fkB8aDdSik.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-uxaxh5g-jo4s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/x-caUCja_jZBUoQa0OcftEsq_JzzOski6hZyjcps0TwwlqOyFG24pNwEzG3d/vprv/1/playlist_type/DVR/initcwndbps/2117500/met/1735930263,/mh/PI/mm/44/mn/sn-uxaxh5g-jo4s/ms/lva/mv/m/mvi/2/pl/40/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51326932,51335594,51371294/mt/1735929871/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgNWB_3NKZGn--vXU438JCHcYSD8wvzYAGWjJXBVVJ3-MCIQCMv6JDR8m1JdIR3gAVicIXErwIV1VLMrbikIw8uR64Vw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAOJrwfL89d1pd-cFht9vO-x1C_WrbxEHNm1irouO1j1RAiAp8dpxI56d8qhBVoRGXNoVqOjh6dbWkkpmwwpVXxj7hw%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS",🗞CRÓNICA TV
@@ -2688,10 +2688,10 @@ https://nbcnewslive.akamaized.net/hls/live/2093245/nbc_live3/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-color-1680x840.png" group-title="NOTICIAS",🗞MSNBC News 2
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/814/225/png-transparent-nbc-news-logo-of-nbc-television-business-television-text-people.png" group-title="NOTICIAS",🗞NBC News (PLUTO TV)
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/142-1421665_home-page-logos-nbc-nbc-news.png" group-title="NOTICIAS",🗞NBC News (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/814/225/png-transparent-nbc-news-logo-of-nbc-television-business-television-text-people.png" group-title="NOTICIAS",🗞NBC News 
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/142-1421665_home-page-logos-nbc-nbc-news.png" group-title="NOTICIAS",🗞NBC News 
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/b0d2c9ad-1e57-4e02-b682-51ae8f490896/3.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png/revision/latest?cb=20180213080237" group-title="NOTICIAS",🗞NHK WORLD
@@ -2730,16 +2730,16 @@ https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTICIAS",🗞RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b2540000_DVR_slpor.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="NOTICIAS",🗞RT EN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="NOTICIAS",🗞RT EN 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="NOTICIAS",🗞RT DOCUMENTARY HD RÚSSIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="NOTICIAS",🗞RT DOCUMENTARY HD RÚSSIA
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="NOTICIAS",🗞RT GERMANY FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="NOTICIAS",🗞RT GERMANY FHD
 https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="NOTICIAS",🗞RT NEWS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="NOTICIAS",🗞RT NEWS 
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="NOTICIAS",🗞RTVE 24H
@@ -2748,13 +2748,13 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Rede TVT" tvg-logo="https://www.redebrasilatual.com.br/wp-content/themes/rba/assets/images/tvt-logo-novo.png" group-title="NOTICIAS",🗞REDE TVT
 https://ythls.armelin.one/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStp_7Sy0S_8hjsxHuou7KjrV4Jzk20T5ExH2-3U0eeyPjjcTeYxSemXEA&s" group-title="NOTICIAS",🗞SIC Notícias
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/dragonball/images/9/94/SIC_2018_Logo.png/revision/latest/scale-to-width-down/1000?cb=20241028154029" group-title="NOTICIAS",🗞SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.svg?v=1" group-title="NOTICIAS",🗞SKY NEWS
+#EXTINF:-1 tvg-logo="https://www.cdnlogo.com/logos/s/65/sky-news.svg" group-title="NOTICIAS",🗞SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f71c592aa8af625ae3c5f676040252f.webp" group-title="NOTICIAS",🗞SCRIPPS News
+#EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/12/sn_logo@500.png" group-title="NOTICIAS",🗞SCRIPPS News
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTS2.m3u8
 
 #EXTINF:auto tvg-type="stream" tvg-id="-1" tvg-logo="https://tvdnews.com.br/wp-content/uploads/2024/08/logo-tvd.png" group-title="NOTICIAS",🗞TVD News
@@ -2775,7 +2775,7 @@ https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://portalbei.sfo2.digitaloceanspaces.com/wp-content/uploads/2022/05/04092126/tvdiario_aovivo.jpg" group-title="NOTICIAS",🗞TV DIARIO
 https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/chunklist_w1104147112.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.diariodosertao.com.br/wp-content/themes/tema/img/icon-header-tv-diario-sertao2.png" group-title="NOTICIAS",🗞TV DIÁRIO DO SERTÃO
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://img.vidks.net/v2x/l/tv-diario-do-sertao.webp?b102" group-title="NOTICIAS",🗞TV DIÁRIO DO SERTÃO
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w964400209.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1867px-TeleSUR-Logo.svg.png" group-title="NOTICIAS",🗞TELESUR
@@ -2790,10 +2790,10 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chun
 #EXTINF:-1 tvg-id="TRTworld.nws" tvg-logo="https://i.imgur.com/L5vTE4o.png" group-title="NOTICIAS",🗞TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="THE GUARDIAN HD" tvg-logo="" group-title="NOTICIAS",🗞THE GUARDIAN HD
+#EXTINF:-1 tvg-id="ext" tvg-name="THE GUARDIAN HD" tvg-logo="https://www.cdnlogo.com/logos/t/58/the-guardian.svg" group-title="NOTICIAS",🗞THE GUARDIAN HD
 http://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://tcmhd.com.br/files/2023-06/tcm10play.png?981586963e" group-title="NOTICIAS",🗞TCM10
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIqlKGq212IVR-X8gOBARG9ezpaj-FJUGqg&s" group-title="NOTICIAS",🗞TCM10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 ******************************************************************************************************************************************************************************
 NOVELAS

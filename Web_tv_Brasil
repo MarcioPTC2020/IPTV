@@ -166,7 +166,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20221118/imag/foto_0000000120221118120919/logo_chv_w.svg" group-title="ESPORTE",⚽CHILEVISION TV
 https://dai.google.com/linear/hls/pa/event/1P2iL-EkSe2OuVR2IZ-v6w/stream/59a62448-e189-44e2-9b56-1155c5295e55:SCL/variant/12b72650c035715bab43446757580e77/bandwidth/2901113.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="ESPORTES",⚽CBS SPOTS
+#EXTINF: -1 tvg-logo="" group-title="ESPORTE",⚽CBS SPOTS
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/9650/cabecalho-9650-20220314011915.png" group-title="ESPORTE",⚽DE PRIMA 
 https://stmv2.samcast.com.br/deprima/deprima/chunklist_w82138880.m3u8

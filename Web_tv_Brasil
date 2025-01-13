@@ -2463,7 +2463,7 @@ NOTICIAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/1200px-324_%28CCMA%29_logo.svg.png" group-title="NOTICIAS",🗞CANAL 324
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uJ5NEAR6otbNV5V79oNpCFxZres4m1RUiTug9Ql5eFTQH1FW2EW1DNQyDo_4PzAPu9JoJKWPuac=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",🗞4 POR 4 (24hs).ᴴᴰ
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uJ5NEAR6otbNV5V79oNpCFxZres4m1RUiTug9Ql5eFTQH1FW2EW1DNQyDo_4PzAPu9JoJKWPuac=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",🗞4 POR 4 (24hs)ᴴᴰ
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="NOTICIAS",🗞011 News

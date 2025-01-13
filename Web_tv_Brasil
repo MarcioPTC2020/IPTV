@@ -498,6 +498,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da
 https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woohoo_logo.svg/2560px-Woohoo_logo.svg.png" group-title="ESPORTE",⚽WOOHOO SURF
+https://cdn-fast.nxtv.com.br/9978b7063e297d8498bab583ec8426ae/livepl/woohoo_h264_1-modified.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc333b18fd571fb39a69ea75c98f0deb.webp" group-title="ESPORTE",⚽WSN (Women Sports network)
 https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8

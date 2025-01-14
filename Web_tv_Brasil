@@ -2119,7 +2119,7 @@ http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB" group-title="MUSICA",🎶PORTAL FOX MIX
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w440380396.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="https://pa-str.srvsite.com/arquivos/5780/cabecalho-5780-20210404172949.png" group-title="MUSICA",🎶PROJETO LIVRE WEB TV (GOSPEL)
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/5780/cabecalho-5780-20210404172949.png" group-title="MUSICA",🎶PROJETO LIVRE WEB TV (GOSPEL)
 https://stmv1.samcast.com.br/projetolivreswebradiotv/projetolivreswebradiotv/chunklist_w1051729779.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="QWEST JAZZ" tvg-logo="" group-title="MUSICA",🎶QWEST JAZZ

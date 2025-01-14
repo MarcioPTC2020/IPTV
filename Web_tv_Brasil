@@ -3910,7 +3910,7 @@ http://sv10.hdradios.net:7022/stream
 #EXTINF:-1 type="radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qcvxct6jqj5f.png" group-title="RÁDIO",RÁDIO 89 FM
 http://centova10.ciclanohost.com.br:9019/stream
 
-#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/mlgMxlD.jpeg" group-title="Canais RÁDIO FM",A RADIO ROCK 89 FM- São Paulo
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/mlgMxlD.jpeg" group-title="RÁDIO",RÁDIO A RADIO ROCK 89 FM- São Paulo
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
 
 #EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/7NLh2kU.jpeg" group-title="RÁDIO",RÁDIO 89- A Radio Rock de Goiania
@@ -3919,7 +3919,7 @@ https://ice.fabricahost.com.br/89aradiorockgo
 #EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/zZqxBCZ.png" group-title="RÁDIO",RÁDIO 91 FM Natal
 http://51.75.145.68:9610/;
 
-#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/J9a84QB.png" group-title="Canais RÁDIO FM",Rádio 92.3 FM
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/J9a84QB.png" group-title="RÁDIO",Rádio 92.3 FM
 https://centova.svdns.com.br:20024/stream
 
 #EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO 93 FM ADAMANTINA
@@ -4567,7 +4567,7 @@ http://r6.ciclano.io:10009/stream
 #EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="RÁDIO",RÁDIO GLOBO RJ
 https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
-#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Jnl6xKg.png" group-title="Canais RÁDIO FM",Rádio Globo RJ 98.1 FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Jnl6xKg.png" group-title="RÁDIO",Rádio Globo RJ 98.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
 
 #EXTINF:-1 type="radio" tvg-id="Rádio Galega" tvg-logo="https://d1oldvcs710rcb.cloudfront.net/content_cards/4865e9de7655447f88e076efffbb5c41.png" group-title="RÁDIO",RÁDIO GALEGA

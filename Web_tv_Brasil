@@ -332,10 +332,10 @@ https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfc6J7cVNVrcFBM7OJOXcMK0_nmRPnMa6Bo27417gmg&s" group-title="ESPORTE",⚽Manchester United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="ESPORTE",⚽,NFLᴴᴰ 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="ESPORTE",⚽NFLᴴᴰ 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png" group-title="ESPORTE",⚽,NBC NHLᴴᴰ 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png" group-title="ESPORTE",⚽NBC NHLᴴᴰ 
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTE",⚽OFF
@@ -874,7 +874,7 @@ https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1640910741.
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvG-8epP1tos_a6SVIs5TW7UtptnemqjBtUJiFJSm9PxLmpHTeVRuXwyR9zxzBz2yeG4k&usqp=CAU" group-title="FILMES",📽️REDE TV +
 https://5a0c3936c25c8.streamlock.net/8010/8010/chunklist_w1851614629.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://rwtv.com.br/wp-content/uploads/2023/04/Rede-Web-TV-bordado.png" group-title= "FILMES",📽️REDE WEB TV
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://rwtv.com.br/wp-content/uploads/2023/04/Rede-Web-TV-bordado.png" group-title="FILMES",📽️REDE WEB TV
 https://cdn.jmvstream.com/w/AVJ-15086/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="RUNTIME" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES",📽️RUNTIME TV (BR)
@@ -888,6 +888,9 @@ https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES",📽️ SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
+
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://nxplay-images.comets.com.br/resize/6776ee2c990ad_a4e6b34a355988abe4d21b53a5c8462d.png" group-title="FILMES",📽️SO_Movies
+https://fast-channels.b-cdn.net/9978b7063e297d84a7e38194f374e57c/soplay_movies/aovivo_abr/soplay_movies/aovivo_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/1200px-Sony_Channel_Logo_2019.svg.png" group-title="FILMES",📽️SONY CHANNEL
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8

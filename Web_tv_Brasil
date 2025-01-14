@@ -1574,6 +1574,9 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="INFANTIL",🦸DCPC Infantil 
 https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTIL",🦸DM KIDS TV
+https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w1927654157.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://geekdot.live/wp-content/uploads/2023/01/cropped-New_Project_26.jpg" group-title="INFANTIL",🦸Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 

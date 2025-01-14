@@ -3313,1424 +3313,1790 @@ https://tv01.zas.media:1936/vozmissionaria/vozmissionaria/chunklist_w353683795.m
 ******************************************************************************************************************************************************************************
 RÁDIOS
 ******************************************************************************************************************************************************************************
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9sU0e3n1L-3RcRXtTgrHGXNTFo5e6o-3EiA1RGUKABQJHXUJNHwIRIuvblR6C0er5w" group-title="RÁDIO",Anos 80
+#EXTINF:-1 type="radio" tvg-radio  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Anos 80
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9sU0e3n1L-3RcRXtTgrHGXNTFo5e6o-3EiA1RGUKABQJHXUJNHwIRIuvblR6C0er5w" group-title="RÁDIO",ANOS 80's 
+#EXTINF:-1 type="radio" tvg-radio""tvg-logo="https://play-lh.googleusercontent.com/9sU0e3n1L-3RcRXtTgrHGXNTFo5e6o-3EiA1RGUKABQJHXUJNHwIRIuvblR6C0er5w" group-title="RÁDIO",RÁDIO 80's 
 http://live1.livemus.com.br:27400/live
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/redgtpsmntc2.jpeg" group-title="RÁDIO",80 FM
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/redgtpsmntc2.jpeg" group-title="RÁDIO",RÁDIO 80 FM
 http://104.247.221.130:9020/stream1
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JwKf4gUMTc.png" group-title="RÁDIO",80's Best
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JwKf4gUMTc.png" group-title="RÁDIO",RÁDIO 80's Best
 https://node-12.zeno.fm/g69brm53t8quv?zs=speFGdJVSQS2rHKwfKyAOg&rj-tok=AAABgQBfEo8AJYTli_87Xzqv-Q&rj-ttl=5
 
-#EXTINF:-1 tvg-logo="https://www.radiorock.com.br/wp-content/uploads/2014/12/89destaque30.png" group-title="RÁDIO",89 FM  A Rádio Rock
-https://15123.live.streamtheworld.com/RADIO_89FM_ADP_SC?dist=site-89fm
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nyFwCcsfjyn3ZpWoQPCaiI5XdX13yR4ISKICSzdv9WpQ2JrXAsh-YagJBGGH9AvXpSc=w240-h480-rw" group-title="RÁDIO",Anos 90
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Anos 90
 https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5jsQjYa8f9ndozFQi5m2qqUsZucFKHwvY3N3NTllK4qnzSJwvqQsOTmBkc9L5isbGKoO" group-title="RÁDIO",Anos 2000
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Anos 2000
 https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CrzaLc4bzQ.jpg" group-title="RÁDIO",RÁDIO BOSSA NOVA 
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CrzaLc4bzQ.jpg" group-title="RÁDIO",RÁDIO BOSSA NOVA 
 http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/y5N7CvYkYv.jpeg" group-title="RÁDIO",RÁDIO BOSSA Jazz Brasil 
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/y5N7CvYkYv.jpeg" group-title="RÁDIO",RÁDIO BOSSA Jazz Brasil 
 https://centova5.transmissaodigital.com:20104/live
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/us62pfvwpsay.png" group-title="RÁDIO",RÁDIO Classicos Sertanejos
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/us62pfvwpsay.png" group-title="RÁDIO",RÁDIO Classicos Sertanejos
 https://stm1.streaminghd.net.br/11554/
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eqgvwxsqt3sg.jpg" group-title="RÁDIO",RÁDIO Dance Anos 90 
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eqgvwxsqt3sg.jpg" group-title="RÁDIO",RÁDIO Dance Anos 90 
 http://stm7.painelvox.com:8190/;
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hgx4kw7zva8t.jpg" group-title="RÁDIO",RÁDIO Dance FM
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hgx4kw7zva8t.jpg" group-title="RÁDIO",RÁDIO Dance FM
 http://74.63.241.110:8738/live
 
-#EXTINF:0,tvg-id="" tvg-logo="https://imusician.imgix.net/images/musica-eletronica.png?auto=compress&w=1200&h=630&fit=crop" group-title="RÁDIO",RÁDIO ELETRONICA
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Eletrônica
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sJHfSMwpcd.jpg" group-title="RÁDIO",RÁDIO Eurodance 90's  Dance Anos 90
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="https://imusician.imgix.net/images/musica-eletronica.png?auto=compress&w=1200&h=630&fit=crop" group-title="RÁDIO",RÁDIO ELETRONICA
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio"" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sJHfSMwpcd.jpg" group-title="RÁDIO",RÁDIO Eurodance 90's  Dance Anos 90
 https://node-27.zeno.fm/g1u270e2ybruv?zs=n68ACri3TDSAr_s9DVu-Aw&rj-tok=AAABgQFZj0QAocy0I7P2XpYVXA&rj-ttl=5
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO FORRO
-https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO FUNK
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Funk
 https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BREzrhZc5V.png" group-title="RÁDIO",RÁDIO Funk Rádio (Brasil) 
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO FUNK
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BREzrhZc5V.png" group-title="RÁDIO",RÁDIO Funk Rádio (Brasil) 
 https://funkyradio.streamingmedia.it/brasil
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO FELICIDADES
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO FELICIDADES
 http://centova10.ciclanohost.com.br:9230/;stream/1
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fucraxxslgwf.jpg" group-title="RÁDIO",RÁDIO Flashback FM
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fucraxxslgwf.jpg" group-title="RÁDIO",RÁDIO Flashback FM
 http://167.114.33.135:8244/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cqMzGxYTB3.png" group-title="RÁDIO",RÁDIO Gold Instrumental 
-https://centova.svdns.com.br:19373/stream/2/
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Hkpwbf5QCW.png" group-title="RÁDIO",RÁDIO Geração Samba e Pagode
-https://live.geracaoradios.com/sambapagode
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png" group-title="RÁDIO",RÁDIO Geração Sertaneja
-https://live.geracaoradios.com/sertaneja
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmzvjAbM2h.png" group-title="RÁDIO",RÁDIO Geração Funk 
-https://live.geracaoradios.com/funk
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL
-https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SK3hWz7pEw.jpeg" group-title="RÁDIO",RÁDIO Gospel FM
-http://shoutcast2.s12.com.br:16000/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zjp3jtxserpq.png" group-title="RÁDIO",RÁDIO Gospel Adoração
-http://stm19.xcast.com.br:12570/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vl66udayfmuk.png" group-title="RÁDIO",RÁDIO Gospel Hits
-http://hts01.kshost.com.br:8836/;]
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="RÁDIO",RÁDIO Hunter.FM  Sertanejo ao vivo
-https://live.hunter.fm/sertanejo_low
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO HIP HOP
-https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO J POP
-https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yjyc8re9faq6.jpg" group-title="RÁDIO",RÁDIO Jovem POP FM
-https://stream.radiojovempop.com/pop2000/stream_external
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MPB
-https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j4euy29sjzgs.png" group-title="RÁDIO",RÁDIO Metropolitana Sertanejo
-https://f41.fabricahost.com.br/metrospsertanejo?f=1653518673N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO LATINA
-https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO POP NACIONAL
-https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO POP ROCK NACIONAL
-https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO POP ROCK
-https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-
-#EXTINF:-1 ,tvg-id="" group-title="RÁDIO",RÁDIO Pop Rock
-https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8?MEGAMAXIPTV
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO POP
-https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaMinBRipFaH-T_io9GnK7eMd6d4bc7P6rq0jF=s900-c-k-c0x00ffffff-no-rj" group-title="RÁDIO",RÁDIO Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO PAGODE
-https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO REGGAE
-https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ge56znYKUz.png" group-title="RÁDIO",RÁDIO  Reggae
-https://servidor23.brlogic.com:7142/live
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bgygcsncaehy.png" group-title="RÁDIO",RÁDIO Reggae
-http://online.radiodifusion.net:8054/;
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO REGGAE GOSPEL
-https://node-18.zeno.fm/w7dqv5y167zuv?rj-ttl=5&rj-tok=AAABebltdv0AP10sXdTec0B7uQ
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ROCK
-https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gt22zkuleesr.png" group-title="RÁDIO",RÁDIO ROCK ON
-https://streaming.radiostreamlive.com/radiorockon_devices
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ROCK
-https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ROMANTICAS
-https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/63meeargsb2x.jpg" group-title="RÁDIO",RÁDIO Relax
-http://paineldj6.com.br:8049/stream
-
-#EXTINF:-1 ,tvg-id="" tvg-logo="" group-title="RÁDIO",SANDY & JUNIOR
-https://servidor34-1.brlogic.com:8194/live
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SERTANEJO
-https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SERTANEJO ROMANTICO
-https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="RÁDIO",RÁDIO Sertaneja Raiz
-http://station.radionanet.com:8330/1;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" group-title="RÁDIO",RÁDIO Sertanejo FM
-https://node-15.zeno.fm/p57watz7u18uv?zs=hKmQCFdLRfq4mQFf5wqugQ&rj-tok=AAABgQBmfWUAigAd-q3nw8--5A&rj-ttl=5
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q2fupm2nhnck.jpg" group-title="RÁDIO",RÁDIO Romantismo Sertanejo
-http://stm4.voxhd.com.br:7228/stream
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/d8Yud3fCMg.png" group-title="RÁDIO",RÁDIO Sertaneja MGT
-https://cast.mgtradio.net/radio/8000/radio.aac
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wm2ecy759bc8.png" group-title="RÁDIO",RÁDIO Sertaneja Pop
-https://srv.andradedeveloper.net/radio/8130/stream
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fggdy9knvvnj.jpeg" group-title="RÁDIO",RÁDIO Som Sertanejo
-http://70.38.18.79:12016/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7ew8bqb7tbsh.png" group-title="RÁDIO",RÁDIO Studio Souto Sertanejo Universitario
-https://centova5.transmissaodigital.com:20042/;
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",3 FM
-https://appradio.app:8161/live
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",3 FM SALVADOR
-https://cloud1.cdnseguro.com:5520/stream/1/
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",3 FM CRISCIUMA
-https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/chunklist_b9656948-bf41-4f66-b583-b17351f95459.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",3 FM FORTALEZA
-https://cdn.radioscast.com.br/stream110321?http://stm7.betelhost.com.br:11824/;
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",3 FM CAMPO GRANDE
-https://player.srvsh.com.br/proxy/7770/
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",5 GOIANIA
-http://digital.umhost.com.br:9978/;stream/1
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",5 FM JUIZ DE FORA
-https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/chunklist_70b21d81-75f2-4316-9920-f565669c2e29.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",5 PORTO ALEGRE
-https://184398c.ha.azioncdn.net/primary/radiocapitalfm.sdp/chunklist_f8e69652-b3fd-4fcc-8d95-db91496a60d6.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",5 FM IPATINGA
-https://ssl.xcast.com.br:8556/stream
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",7 FM CAMPINAS SP
-http://server07.srvsh.com.br:7654/stream
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",8 FM CABO FRIO
-https://s09.maxcast.com.br:8092/live
-
-#EXTINF:0,tvg-id=""tvg-logo=""  group-title="RÁDIO",9 FM SAO LUIZ MARANHAO
-https://ssl.xcast.com.br:12654//;stream.mp3
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",9 FM
-http://45.43.200.2:12390//;stream.mp3
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",9 FM R.OSTRAS
-https://cc1.streammaximum.com:2306/stream
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",74 IEQ CURITIBA
-https://stream-40.zeno.fm/qk6q8cvkwa0uv?zs=hux0SPx2QEG-mSt7O0es5A
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ADORE FM 97,3 SP
-https://shout25.crossradio.com.br:18040/1
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO ALELUIA SALVADOR
-https://224398c.ha.azioncdn.net/primary/radio96fm.sdp/chunklist_923a6590-f081-4c23-a2ff-cc0c7a165250.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",REDE ALELUIA 105,1 RJ
-https://74398c.ha.azioncdn.net/primary/radio105fm.sdp/chunklist_f537a854-a6bb-4d84-a99d-bca220fa21ff.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",REDE ALELUIA SP
-https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/chunklist_dcc8af07-41bb-47dd-a656-f45dddaaf9d8.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",REDE ALELUIA MG
-https://264398c.ha.azioncdn.net/primary/radio90_7fm.sdp/chunklist_0873d511-0706-4c1d-a639-b93de48f0f93.m3u8
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO ALELUIA FM BRASILIA
-https://384398c.ha.azioncdn.net/primary/brasilia.sdp/chunklist_42b5ce85-3b5c-48fe-88e0-2463446daf9f.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AxfDX5xbCL.png" group-title="RÁDIO",RÁDIO ALELUIA
-https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/chunklist_25ecc49e-6833-43a3-bcf7-acc3dd2a712f.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ALELUIA FM ARACAJU 
-https://214398c.ha.azioncdn.net/primary/radio98_1fm.sdp/chunklist_077d3f5f-7c97-48ee-9b2c-298bd928dfd7.m3u8
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO AMOR INCONDICIONAL RJ
-https://player.xcast.com.br/proxy/8458
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ARACAJU GOSPEL
-https://sonicpanel.oficialserver.com/8312/stream
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO AJU GOSPEL ARACAJU
-http://stm11.srvstm.com:8412/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dssb23ydwf6z.png" group-title="RÁDIO",RÁDIO Atividade Espírita
-http://streaming31.hstbr.net:8230/live
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2pvvyg33" group-title="RÁDIO",RÁDIO BATISTA GOSPEL PARAÍBA 
-http://srv1.smghosting.com.br:7088/stream
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2lqq3njo" group-title="RÁDIO",RÁDIO BR4 QUADRANGULAR
-https://s13.maxcast.com.br:8038/live?id=1471913003345
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2okxa987" group-title="RÁDIO",RÁDIO BÍBLIA SBB
-https://servidor30-4.brlogic.com:7398/live?source=website
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2ezu2ll4" group-title="RÁDIO",RÁDIO BAIANO
-https://hts04.kshost.com.br:9684/live
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO BERSEBA
-https://player-ssl.kshost.com.br:13022/live/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2go9rlrz" group-title="RÁDIO",RÁDIO BETEL FM RIO
-http://149.56.85.6:8028/;
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO BOAS NOVAS FM SALVADOR
-http://radio3.logicahost.com.br:8149/;stream/1
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO BOAS NOVAS FM CABO FRIO
-https://ssl.srvstm.com:8992/;
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO BOAS NOVAS FM BELÉM
-https://boasnovasaac.jmvstream.com/stream/1/
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO CBC GOSPEL
-https://live8.livemus.com.br:27000/stream
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2leyb75j" group-title="RÁDIO",RÁDIO CANAL LOUVOR FORTALEZA
-https://player.srvvox.com.br/proxy/7178
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2gbyuls3" group-title="RÁDIO",RÁDIO CANAL LOUVOR
-http://stm3.srvvox.com.br:7178/;
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CAPITAL 1030 AM
-https://22983.live.streamtheworld.com/RJ_RADIOONLINEAAC_SC
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO CHAMA DIVINA
-http://centova.nardele.com.br:9187/stream
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CPAD FM JOAO PESSOA PB
-https://server3.webradios.com.br:19404/9404?s/;stream.mp3
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CIDADE 87,9 FM RIO VERDE GO
-https://shout25.crossradio.com.br:18076/1
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CRUZEIRO SALVADOR BA
-http://radio2.suaradionanet.net:10534/stream
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CASTER
-http://hts01.kshost.com.br:8950/live/;stream.mp3
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CONEXAO GOSPEL
-http://stm22.voxtreaming.com.br:6790//;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2lls2lju" group-title="RÁDIO",RÁDIO CONEXAO GOSPEL
-https://node-09.zeno.fm/3rqh6euz5hhvv
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO DS GOSPEL SOCORRO-SE
-https://casthttps1.suaradionanet.net/10842/stream
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO DEUS É AMOR SÃO PAULO
-https://24063.live.streamtheworld.com/SP_STUDIOCAAC.aac
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ESTEREO LIVE
-https://player-ssl.kshost.com.br:10034/live
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO EL SHADAY SALVADOR
-https://ssl.xcast.com.br:12988/;
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO EL SHADAY FM LAGARTO-SE
-http://stm7.painelvox.com:8006/stream
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",IDENTIFICAR NOME
-http://radio2.suaradionanet.net:10534/stream
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LfUHntsfCb.png" group-title="RÁDIO",RÁDIO EVANGELIZAR 1060 AM
-https://shout87.crossradio.com.br:18000/stream/1;
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO EVANGELICA ESTRELA DO AMANHA
-http://stm17.srvaudio.com.br:10950/;?1521004550638/;stream.mp3
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO EVANGELICA FM RECIFE PE
-http://directradios.net:8343/;stream/1
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ESPERANÇA FM TEIXEIRA F
-http://radio.proclamandocristo.com.br:9300/;stream/1
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2zlofjzr" group-title="RÁDIO",RÁDIO ESPERANÇA FM BOA VIAGEM
-http://51.222.56.196:6230/stream
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ESTÂNCIA GOSPEL
-https://s32.maxcast.com.br:8070/live
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO EBENÉZER MARANTA SÃO PAULO 
-https://live1.livemus.com.br:27426/stream
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO FELIZ FM SÃO PAULO
-https://cloud1.cdnseguro.com:5520/stream
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",REDE FE CAMPINA GRANDE PE
-https://ssl.srvsh.com.br:7014/streams://cloud1.cdnseguro.com:5520/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2jqxjnvo" group-title="RÁDIO",RÁDIO FRONTEIRA
-https://ssl.xcast.com.br:8722/stream%3C/audio
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO FONTE FM GOIÂNIA
-https://livesh.com.br/proxy/fonte?mp=/stream
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL BRASIL  
-https://ssl.lscpainel.com.br:7546/;
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL FM
-http://shoutcast2.s12.com.br:16000/;stream/1
-
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL FM SÃO PAULO
-http://shoutcast2.s12.com.br:16000/stream
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL ADORADOR
-https://ssl.xcast.com.br:12570//;stream.mp3
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL CAMPINAS
-http://centova.nardele.com.br:4343/;stream/1
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL SUL PORTO ALEGRE
-http://centova10.ciclanohost.com.br:9230/;stream/1
-
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL LOUVORES B HORIZONTE
-https://cdn.radioscast.com.br/stream110321?http://09.stmip.net:8218/stream
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2zpl4xzo" group-title="RÁDIO",RÁDIO GOSPEL INTERNACIONAL
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Gospel Internacional
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2g59cp92" group-title="RÁDIO",RÁDIO GOSPEL BRASIL
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Gospel
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2f3m4z3d" group-title="RÁDIO",RÁDIO GOSPEL APOCALIPSE WEB ARACAJU
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cqMzGxYTB3.png" group-title="RÁDIO",RÁDIO Gold Instrumental 
+https://centova.svdns.com.br:19373/stream/2/
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Hkpwbf5QCW.png" group-title="RÁDIO",RÁDIO Geração Samba e Pagode
+https://live.geracaoradios.com/sambapagode
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png" group-title="RÁDIO",RÁDIO Geração Sertaneja
+https://live.geracaoradios.com/sertaneja
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmzvjAbM2h.png" group-title="RÁDIO",RÁDIO Geração Funk 
+https://live.geracaoradios.com/funk
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SK3hWz7pEw.jpeg" group-title="RÁDIO",RÁDIO Gospel FM
+http://shoutcast2.s12.com.br:16000/;
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zjp3jtxserpq.png" group-title="RÁDIO",RÁDIO Gospel Adoração
+http://stm19.xcast.com.br:12570/;
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vl66udayfmuk.png" group-title="RÁDIO",RÁDIO Gospel Hits
+http://hts01.kshost.com.br:8836/;]
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO HIP HOP
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="RÁDIO",RÁDIO Hunter.FM  Sertanejo ao vivo
+https://live.hunter.fm/sertanejo_low
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yjyc8re9faq6.jpg" group-title="RÁDIO",RÁDIO Jovem POP FM
+https://stream.radiojovempop.com/pop2000/stream_external
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j4euy29sjzgs.png" group-title="RÁDIO",RÁDIO Metropolitana Sertanejo
+https://f41.fabricahost.com.br/metrospsertanejo?f=1653518673N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaMinBRipFaH-T_io9GnK7eMd6d4bc7P6rq0jF=s900-c-k-c0x00ffffff-no-rj" group-title="RÁDIO",RÁDIO Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO PAGODE
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/63meeargsb2x.jpg" group-title="RÁDIO",RÁDIO Relax
+http://paineldj6.com.br:8049/stream
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ge56znYKUz.png" group-title="RÁDIO",RÁDIO  Reggae
+https://servidor23.brlogic.com:7142/live
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bgygcsncaehy.png" group-title="RÁDIO",RÁDIO Reggae
+http://online.radiodifusion.net:8054/;
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO REGGAE GOSPEL
+https://node-18.zeno.fm/w7dqv5y167zuv?rj-ttl=5&rj-tok=AAABebltdv0AP10sXdTec0B7uQ
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ROCK
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://www.radiorock.com.br/wp-content/uploads/2014/12/89destaque30.png" group-title="RÁDIO",RÁDIO 89 FM  A Rádio Rock
+https://15123.live.streamtheworld.com/RADIO_89FM_ADP_SC?dist=site-89fm
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gt22zkuleesr.png" group-title="RÁDIO",RÁDIO ROCK ON
+https://streaming.radiostreamlive.com/radiorockon_devices
+ 
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q2fupm2nhnck.jpg" group-title="RÁDIO",RÁDIO Romantismo Sertanejo
+http://stm4.voxhd.com.br:7228/stream
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SANDY & JUNIOR
+https://servidor34-1.brlogic.com:8194/live
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="RÁDIO",RÁDIO Sertaneja Raiz
+http://station.radionanet.com:8330/1;
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" group-title="RÁDIO",RÁDIO Sertanejo FM
+https://node-15.zeno.fm/p57watz7u18uv?zs=hKmQCFdLRfq4mQFf5wqugQ&rj-tok=AAABgQBmfWUAigAd-q3nw8--5A&rj-ttl=5
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="RÁDIO",RÁDIO Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/d8Yud3fCMg.png" group-title="RÁDIO",RÁDIO Sertaneja MGT
+https://cast.mgtradio.net/radio/8000/radio.aac
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wm2ecy759bc8.png" group-title="RÁDIO",RÁDIO Sertaneja Pop
+https://srv.andradedeveloper.net/radio/8130/stream
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fggdy9knvvnj.jpeg" group-title="RÁDIO",RÁDIO Som Sertanejo
+http://70.38.18.79:12016/;
+
+#EXTINF:-1 type="radio" tvg-radio""  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7ew8bqb7tbsh.png" group-title="RÁDIO",RÁDIO Studio Souto Sertanejo Universitario
+https://centova5.transmissaodigital.com:20042/;
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 3 FM
+https://appradio.app:8161/live
+
+#EXTINF:0,type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 3 FM SALVADOR
+https://cloud1.cdnseguro.com:5520/stream/1/
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",3 FM CRISCIUMA
+https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/chunklist_b9656948-bf41-4f66-b583-b17351f95459.m3u8
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 3 FM FORTALEZA
+https://cdn.radioscast.com.br/stream110321?http://stm7.betelhost.com.br:11824/;
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 3 FM CAMPO GRANDE
+https://player.srvsh.com.br/proxy/7770/
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 5 GOIANIA
+http://digital.umhost.com.br:9978/;stream/1
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO5 FM JUIZ DE FORA
+https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/chunklist_70b21d81-75f2-4316-9920-f565669c2e29.m3u8
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 5 PORTO ALEGRE
+https://184398c.ha.azioncdn.net/primary/radiocapitalfm.sdp/chunklist_f8e69652-b3fd-4fcc-8d95-db91496a60d6.m3u8
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 5 FM IPATINGA
+https://ssl.xcast.com.br:8556/stream
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 7 FM CAMPINAS SP
+http://server07.srvsh.com.br:7654/stream
+
+#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO 8 FM CABO FRIO
+https://s09.maxcast.com.br:8092/live
+
+#EXTINF:0, type="radio" tvg-id=""tvg-logo=""  group-title="RÁDIO",RÁDIO 9 FM SAO LUIZ MARANHAO
+https://ssl.xcast.com.br:12654//;stream.mp3
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 9 FM
+http://45.43.200.2:12390//;stream.mp3
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO 9 FM R.OSTRAS
+https://cc1.streammaximum.com:2306/stream
+
+#EXTINF:-1 type="radio" tvg-logo="" group-title="RÁDIO",RÁDIO 74 IEQ CURITIBA
+https://stream-40.zeno.fm/qk6q8cvkwa0uv?zs=hux0SPx2QEG-mSt7O0es5A
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ADORE FM 97,3 SP
+https://shout25.crossradio.com.br:18040/1
+
+#EXTINF:0, type="radio" tvg-id="" group-title="RÁDIO",RÁDIO ALELUIA SALVADOR
+https://224398c.ha.azioncdn.net/primary/radio96fm.sdp/chunklist_923a6590-f081-4c23-a2ff-cc0c7a165250.m3u8
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",REDE ALELUIA 105,1 RJ
+https://74398c.ha.azioncdn.net/primary/radio105fm.sdp/chunklist_f537a854-a6bb-4d84-a99d-bca220fa21ff.m3u8
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",REDE ALELUIA SP
+https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/chunklist_dcc8af07-41bb-47dd-a656-f45dddaaf9d8.m3u8
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",REDE ALELUIA MG
+https://264398c.ha.azioncdn.net/primary/radio90_7fm.sdp/chunklist_0873d511-0706-4c1d-a639-b93de48f0f93.m3u8
+
+#EXTINF:0, type="radio" tvg-id="" group-title="RÁDIO",RÁDIO ALELUIA FM BRASILIA
+https://384398c.ha.azioncdn.net/primary/brasilia.sdp/chunklist_42b5ce85-3b5c-48fe-88e0-2463446daf9f.m3u8
+
+#EXTINF:-1 type="radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AxfDX5xbCL.png" group-title="RÁDIO",RÁDIO ALELUIA
+https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/chunklist_25ecc49e-6833-43a3-bcf7-acc3dd2a712f.m3u8
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO ALELUIA FM ARACAJU 
+https://214398c.ha.azioncdn.net/primary/radio98_1fm.sdp/chunklist_077d3f5f-7c97-48ee-9b2c-298bd928dfd7.m3u8
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO AMOR INCONDICIONAL RJ
+https://player.xcast.com.br/proxy/8458
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO ARACAJU GOSPEL
+https://sonicpanel.oficialserver.com/8312/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO AJU GOSPEL ARACAJU
+http://stm11.srvstm.com:8412/;
+
+#EXTINF:-1 type="radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dssb23ydwf6z.png" group-title="RÁDIO",RÁDIO Atividade Espírita
+http://streaming31.hstbr.net:8230/live
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2pvvyg33" group-title="RÁDIO",RÁDIO BATISTA GOSPEL PARAÍBA 
+http://srv1.smghosting.com.br:7088/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2lqq3njo" group-title="RÁDIO",RÁDIO BR4 QUADRANGULAR
+https://s13.maxcast.com.br:8038/live?id=1471913003345
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2okxa987" group-title="RÁDIO",RÁDIO BÍBLIA SBB
+https://servidor30-4.brlogic.com:7398/live?source=website
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2ezu2ll4" group-title="RÁDIO",RÁDIO BAIANO
+https://hts04.kshost.com.br:9684/live
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO BERSEBA
+https://player-ssl.kshost.com.br:13022/live/;stream.mp3
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2go9rlrz" group-title="RÁDIO",RÁDIO BETEL FM RIO
+http://149.56.85.6:8028/;
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO BOAS NOVAS FM SALVADOR
+http://radio3.logicahost.com.br:8149/;stream/1
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO BOAS NOVAS FM CABO FRIO
+https://ssl.srvstm.com:8992/;
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO BOAS NOVAS FM BELÉM
+https://boasnovasaac.jmvstream.com/stream/1/
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO CBC GOSPEL
+https://live8.livemus.com.br:27000/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2leyb75j" group-title="RÁDIO",RÁDIO CANAL LOUVOR FORTALEZA
+https://player.srvvox.com.br/proxy/7178
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2gbyuls3" group-title="RÁDIO",RÁDIO CANAL LOUVOR
+http://stm3.srvvox.com.br:7178/;
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CAPITAL 1030 AM
+https://22983.live.streamtheworld.com/RJ_RADIOONLINEAAC_SC
+
+#EXTINF:0, type="radio" tvg-id="" group-title="RÁDIO",RÁDIO CHAMA DIVINA
+http://centova.nardele.com.br:9187/stream
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CPAD FM JOAO PESSOA PB
+https://server3.webradios.com.br:19404/9404?s/;stream.mp3
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CIDADE 87,9 FM RIO VERDE GO
+https://shout25.crossradio.com.br:18076/1
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CRUZEIRO SALVADOR BA
+http://radio2.suaradionanet.net:10534/stream
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CASTER
+http://hts01.kshost.com.br:8950/live/;stream.mp3
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO CONEXAO GOSPEL
+http://stm22.voxtreaming.com.br:6790//;stream.mp3
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2lls2lju" group-title="RÁDIO",RÁDIO CONEXAO GOSPEL
+https://node-09.zeno.fm/3rqh6euz5hhvv
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO DS GOSPEL SOCORRO-SE
+https://casthttps1.suaradionanet.net/10842/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO DEUS É AMOR SÃO PAULO
+https://24063.live.streamtheworld.com/SP_STUDIOCAAC.aac
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ESTEREO LIVE
+https://player-ssl.kshost.com.br:10034/live
+
+#EXTINF:0, type="radio" tvg-id="" group-title="RÁDIO",RÁDIO EL SHADAY SALVADOR
+https://ssl.xcast.com.br:12988/;
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO EL SHADAY FM LAGARTO-SE
+http://stm7.painelvox.com:8006/stream
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",IDENTIFICAR NOME
+http://radio2.suaradionanet.net:10534/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LfUHntsfCb.png" group-title="RÁDIO",RÁDIO EVANGELIZAR 1060 AM
+https://shout87.crossradio.com.br:18000/stream/1;
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO EVANGELICA ESTRELA DO AMANHA
+http://stm17.srvaudio.com.br:10950/;?1521004550638/;stream.mp3
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO EVANGELICA FM RECIFE PE
+http://directradios.net:8343/;stream/1
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO ESPERANÇA FM TEIXEIRA F
+http://radio.proclamandocristo.com.br:9300/;stream/1
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2zlofjzr" group-title="RÁDIO",RÁDIO ESPERANÇA FM BOA VIAGEM
+http://51.222.56.196:6230/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO ESTÂNCIA GOSPEL
+https://s32.maxcast.com.br:8070/live
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO EBENÉZER MARANTA SÃO PAULO 
+https://live1.livemus.com.br:27426/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO FELIZ FM SÃO PAULO
+https://cloud1.cdnseguro.com:5520/stream
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",REDE FE CAMPINA GRANDE PE
+https://ssl.srvsh.com.br:7014/streams://cloud1.cdnseguro.com:5520/;
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2jqxjnvo" group-title="RÁDIO",RÁDIO FRONTEIRA
+https://ssl.xcast.com.br:8722/stream%3C/audio
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO FONTE FM GOIÂNIA
+https://livesh.com.br/proxy/fonte?mp=/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL BRASIL  
+https://ssl.lscpainel.com.br:7546/;
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL FM
+http://shoutcast2.s12.com.br:16000/;stream/1
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL FM SÃO PAULO
+http://shoutcast2.s12.com.br:16000/stream
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL ADORADOR
+https://ssl.xcast.com.br:12570//;stream.mp3
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL CAMPINAS
+http://centova.nardele.com.br:4343/;stream/1
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL SUL PORTO ALEGRE
+http://centova10.ciclanohost.com.br:9230/;stream/1
+
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO GOSPEL LOUVORES B HORIZONTE
+https://cdn.radioscast.com.br/stream110321?http://09.stmip.net:8218/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2zpl4xzo" group-title="RÁDIO",RÁDIO GOSPEL INTERNACIONAL
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2g59cp92" group-title="RÁDIO",RÁDIO GOSPEL BRASIL
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2f3m4z3d" group-title="RÁDIO",RÁDIO GOSPEL APOCALIPSE WEB ARACAJU
 http://sv10.hdradios.net:9200/;
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO HINOS ANTIGOS SP
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO HINOS ANTIGOS SP
 https://ssl.srvstm.com:7372/;stream.mp3
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO IPJC
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO IPJC
 https://radios.athostech.com.br/radio/8020/radio?1587408508/;stream.mp3
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO JESUS FM SP
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO JESUS FM SP
 https://stream.appflux.com.br:8048/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO LITORAL FM SALVADOR
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO LITORAL FM SALVADOR
 https://node-21.zeno.fm/rq3dbz2351zuv?rj-ttl=5&rj-tok=AAABebn9lrIAzAu3lRCFAnOnoA
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2qvubrju" group-title="RÁDIO",KAIRÓS FM MORADA NOVA
+#EXTINF:-1 type="radio" tvg-logo="https://tinyurl.com/2qvubrju" group-title="RÁDIO",KAIRÓS FM MORADA NOVA
 http://stm16.xcast.com.br:9042/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO MARANATA FM SÃO PAULO 
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO MARANATA FM SÃO PAULO 
 https://radio.saopaulo01.com.br:10902/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO MAIS FM
+#EXTINF:-1 type="radio" tvg-logo="" group-title="RÁDIO",RÁDIO MAIS FM
 https://stmav.com.br/listen/radio_mais/radio_mais
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MELODIA MG
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MELODIA MG
 http://cast4.hoost.com.br:9562/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MELODIA GOSPEL
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MELODIA GOSPEL
 http://radio.pangeiaservice.com:9980
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MELODIA FM FOZ IGU
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MELODIA FM FOZ IGU
 http://radio.pangeiaservice.com:9980//;stream.mp3
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MAIS VIDA MG
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MAIS VIDA MG
 https://s20.maxcast.com.br:8266/live
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MIX MUSIC MG
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MIX MUSIC MG
 https://servidor36.brlogic.com:8176/live
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MIX 
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MIX 
 https://webradios.net/api/proxy-stream.php?ip=sv13.hdradios.net&port=7840&mount=/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MATEUS
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO MATEUS
 https://servidor26-2.brlogic.com:8622/live
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",REDE M DA PAZ DOURADOS MS
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",REDE M DA PAZ DOURADOS MS
 https://stream.enetbras.com.br:10998//;stream.mp3
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2fdysq4n" group-title="RÁDIO",RÁDIO MRFD
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2fdysq4n" group-title="RÁDIO",RÁDIO MRFD
 https://paineldj6.com.br:20016/stream?type=.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO MUNDIAL RIO
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO MUNDIAL RIO
 http://stm7.srvstm.com:9836/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO MISSÕES RIO
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO MISSÕES RIO
 http://servidor28.brlogic.com:8436/live
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO MELODIA FM RIO
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO MELODIA FM RIO
 https://26603.live.streamtheworld.com/MELODIAFMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2z6mtoay" group-title="RÁDIO",RÁDIO NOVA PENIEL 
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2z6mtoay" group-title="RÁDIO",RÁDIO NOVA PENIEL 
 https://hts01.kshost.com.br:9188/live
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO NOVAS DE PAZ
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO NOVAS DE PAZ
 https://radio.saopaulo01.com.br/8304/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO NOVAS DE PAZ 1380 AM J GUARARAPES
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO NOVAS DE PAZ 1380 AM J GUARARAPES
 https://radio.saopaulo01.com.br/8304/stream
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2lbtnv6l" group-title="RÁDIO",RÁDIO NOVA VIDA WEB
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2lbtnv6l" group-title="RÁDIO",RÁDIO NOVA VIDA WEB
 https://stream1.svrdedicado.org/8066/;
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO NOSSA FM 94,1 SP
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO NOSSA FM 94,1 SP
 https://servidor24.brlogic.com:8524/live
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2k37utg5" group-title="RÁDIO",RÁDIO NOVO TEMPO
+#EXTINF:-1 type="radio" tvg-logo="https://tinyurl.com/2k37utg5" group-title="RÁDIO",RÁDIO NOVO TEMPO
 http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO PELA FÉ
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO PELA FÉ
 https://stm12.xcast.com.br:8928/;?1660700984329
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2z4y4qg9" group-title="RÁDIO",RÁDIO PENIEL  
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2z4y4qg9" group-title="RÁDIO",RÁDIO PENIEL  
 http://s01.taaqui.org:9480/live
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO PENTECOSTAL INTELIGENTE
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO PENTECOSTAL INTELIGENTE
 https://player-ssl.kshost.com.br:12822/live
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO POSITIVA PORTUGAL FM
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO POSITIVA PORTUGAL FM
 https://nl.digitalrm.pt:8016/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO PREGANDO A PALAVRA
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO PREGANDO A PALAVRA
 https://player.xcast.com.br/proxy/12448
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2zbzr5dz" group-title="RÁDIO",RÁDIO QUADRANGULAR CAMPINAS
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2zbzr5dz" group-title="RÁDIO",RÁDIO QUADRANGULAR CAMPINAS
 http://198.50.158.92:8485/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO RESGATE FM
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO RESGATE FM
 http://srv6.ipstm.net:19480/stream/;stream.mp3
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO RTS GOSPEL SP
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO RTS GOSPEL SP
 https://ssl.hdradios.net:7848/
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO REI JESUS
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO REI JESUS
 https://servidor23-3.brlogic.com:8234/live
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO RELÓGIO RIO AM
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO RELÓGIO RIO AM
 https://stm12.xcast.com.br:11416/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO REDE BRASIL 580 AM RECIFE
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO REDE BRASIL 580 AM RECIFE
 https://directradios.net/proxy/rbc2?mp=/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO RGA GOSPEL SALVADOR
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO RGA GOSPEL SALVADOR
 https://servidor31.brlogic.com:8018/live
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO SARA BRASIL FM ARACAJU
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO SARA BRASIL FM ARACAJU
 https://player-ssl.kshost.com.br:13500/live.aac
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO SARA BRASIL FM BRASÍLIA
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO SARA BRASIL FM BRASÍLIA
 https://player-ssl.kshost.com.br:13482/live.aac
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SHEKNARH 107,1 CUIABA
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SHEKNARH 107,1 CUIABA
 http://centova8.ipstm.net:20821/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SOCIEDADE
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SOCIEDADE
 https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO SOU REMANESCENTES ARACAJU
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO SOU REMANESCENTES ARACAJU
 http://servidor19.brlogic.com:7036/live
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SHALOM
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO SHALOM
 http://stm43.conectastm.com:7768/stream/;stream.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO SUPER FM BELO HORIZONTE
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO SUPER FM BELO HORIZONTE
 http://servidor32.brlogic.com:8200/live
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO TOQUE DE ESPERANÇA PE
+#EXTINF:0, type="radio"  type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO TOQUE DE ESPERANÇA PE
 https://player.srvaudio.com.br/player-ssl/9548/
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO VIDA PLENA OSASCO SP
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO VIDA PLENA OSASCO SP
 https://player.xcast.com.br/proxy/12448
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO VITRIA FM
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO VITRIA FM
 https://s19.maxcast.com.br:8156/live
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO VERDES PAMPA RS
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO VERDES PAMPA RS
 http://server12.srvsh.com.br:8212//;stream.mp3
 
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO VIDA MELHOR 95,7
+#EXTINF:0, type="radio" tvg-id="" group-title="RÁDIO",RÁDIO VIDA MELHOR 95,7
 https://servidor32-4.brlogic.com:8480/live
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO VIDA COM DEUS BLUMENAU SC
+#EXTINF:0, type="radio" tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO VIDA COM DEUS BLUMENAU SC
 https://ssl.xcast.com.br:9680/stream/;stream.mp3
 
-#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="RÁDIO",RÁDIO VIDA FM SÃO PAULO 
+#EXTINF:-1 type="radio"  tvg-logo="" tvg-logo="" group-title="RÁDIO",RÁDIO VIDA FM SÃO PAULO 
 https://www.appradio.app:8080/live
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2qfjkk46" group-title="RÁDIO",RÁDIO VOZ MISSIOÁRIA 
+#EXTINF:-1 type="radio"  tvg-logo="https://tinyurl.com/2qfjkk46" group-title="RÁDIO",RÁDIO VOZ MISSIOÁRIA 
 https://radio02.zas.media/proxy/vozmissionaria/stream
 
-#EXTINF:0,tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO UIRAPUR 1460 AM
+#EXTINF:0, type="radio"tvg-id="" tvg-logo="" group-title="RÁDIO",RÁDIO UIRAPUR 1460 AM
 https://servidor17-4.brlogic.com:7450/live
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5572e6a7bc4bb5d6a8b66a997028b818.jpg" group-title="RÁDIO",RÁDIO 87 TRÊS MARIAS
+#EXTINF:-1 type="radio"  tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5572e6a7bc4bb5d6a8b66a997028b818.jpg" group-title="RÁDIO",RÁDIO 87 TRÊS MARIAS
 https://stm21.xcast.com.br:12122/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MZHz47b.png" group-title="RÁDIO",RÁDIO 87.9 FM Natal
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/MZHz47b.png" group-title="RÁDIO",RÁDIO 87.9 FM Natal
 http://sv10.hdradios.net:7022/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qcvxct6jqj5f.png" group-title="RÁDIO",RÁDIO 89 FM
+#EXTINF:-1 type="radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qcvxct6jqj5f.png" group-title="RÁDIO",RÁDIO 89 FM
 http://centova10.ciclanohost.com.br:9019/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zZqxBCZ.png" group-title="RÁDIO",RÁDIO 91 FM Natal
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/mlgMxlD.jpeg" group-title="Canais RÁDIO FM",A RADIO ROCK 89 FM- São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
+
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/7NLh2kU.jpeg" group-title="RÁDIO",RÁDIO 89- A Radio Rock de Goiania
+https://ice.fabricahost.com.br/89aradiorockgo
+
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/zZqxBCZ.png" group-title="RÁDIO",RÁDIO 91 FM Natal
 http://51.75.145.68:9610/;
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO 93 FM ADAMANTINA
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/J9a84QB.png" group-title="Canais RÁDIO FM",Rádio 92.3 FM
+https://centova.svdns.com.br:20024/stream
+
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO 93 FM ADAMANTINA
 https://sonicpanel.oficialserver.com:7019/;
 
-#EXTINF:-1 tvg-logo="https://radio93.com.br/wp-content/themes/radio93/assets/images/xlogoPlayer.png.pagespeed.ic.xH5rx4hEtl.png" group-title="RÁDIO",RÁDIO 93 FM
+#EXTINF:-1 type="radio"  tvg-logo="https://radio93.com.br/wp-content/themes/radio93/assets/images/xlogoPlayer.png.pagespeed.ic.xH5rx4hEtl.png" group-title="RÁDIO",RÁDIO 93 FM
 https://18433.live.streamtheworld.com/FM93AAC_SC?pname=TDSdk
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kkF3bqa.png" group-title="RÁDIO",RÁDIO 94 FM Rádio Cidade Natal
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/kkF3bqa.png" group-title="RÁDIO",RÁDIO 94 FM Rádio Cidade Natal
 https://cidadedosolaac.jmvstream.com/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO 94.5 FM
+#EXTINF:-1 type="radio"  tvg-logo="" group-title="RÁDIO",RÁDIO 94.5 FM
 https://stm.smghosting.com.br:6722/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ6OUqe.png" group-title="RÁDIO",RÁDIO 95 Mais FM
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/RJ6OUqe.png" group-title="RÁDIO",RÁDIO 95 Mais FM
 https://radio.saopaulo01.com.br:10841/stream
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9d0a05_43c8e65734e54c25ab94393b69b12af3~mv2.png/v1/fill/w_362,h_362,al_c,lg_1,q_85,enc_auto/logo_3colinas.png" group-title="RÁDIO",RÁDIO 3 COLINAS FM 95,7
+#EXTINF:-1 type="radio"  tvg-logo="https://static.wixstatic.com/media/9d0a05_43c8e65734e54c25ab94393b69b12af3~mv2.png/v1/fill/w_362,h_362,al_c,lg_1,q_85,enc_auto/logo_3colinas.png" group-title="RÁDIO",RÁDIO 3 COLINAS FM 95,7
 https://ssl.srvstm.com:9534/;?1658835909543
 
-#EXTINF:-1 tvg-logo="https://www.radio96fmns.com.br/images/logo_1453765775.png" group-title="RÁDIO",RÁDIO 96 FM NOVA SERRANA
+#EXTINF:-1 type="radio"  tvg-logo="https://www.radio96fmns.com.br/images/logo_1453765775.png" group-title="RÁDIO",RÁDIO 96 FM NOVA SERRANA
 http://9779.brasilstream.com.br/stream?rand=yDtJN
 
-#EXTINF:-1 tvg-logo="https://radio96muriae.com.br/site/wp-content/uploads/2022/12/96-fm.png" group-title="RÁDIO",RÁDIO 96 FM MURIAE
+#EXTINF:-1 type="radio"  tvg-logo="https://radio96muriae.com.br/site/wp-content/uploads/2022/12/96-fm.png" group-title="RÁDIO",RÁDIO 96 FM MURIAE
 https://5a57bda70564a.streamlock.net/fm96muriae/fm96muriae.stream/chunklist_w1239846143.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jYGpvzR.png" group-title="RÁDIO",RÁDIO 96 FM Natal
+#EXTINF:-1 type="radio"  tvg-logo="https://radio96muriae.com.br/site/wp-content/uploads/2022/12/96-fm.png" group-title="RÁDIO",RÁDIO 96 FM MURIAE
+http://wz1.dnip.com.br/fm96muriae/fm96muriae.stream/playlist.m3u8
+
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/jYGpvzR.png" group-title="RÁDIO",RÁDIO 96 FM Natal
 http://142.44.230.74:6258/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuh1Sfj.png" group-title="RÁDIO",RÁDIO 97 FM Natal
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/kuh1Sfj.png" group-title="RÁDIO",RÁDIO 97 FM Natal
 https://azevedo.jmvstream.com/stream
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio8899_1548839989.jpg" group-title="RÁDIO",RÁDIO 98 FM Teófilo Antonio
+#EXTINF:-1 type="radio"  tvg-logo="https://img.radios.com.br/radio/xl/radio8899_1548839989.jpg" group-title="RÁDIO",RÁDIO 98 FM Teófilo Antonio
 https://str1.streamhostpg.com.br:8064/stream?1694107921720
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO 98 FM
+#EXTINF:-1 type="radio" tvg-logo="" group-title="RÁDIO",RÁDIO 98 FM
 https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-X7HbN17pF_WokzToNNOXUoKMWe0Wfyp1MMOz59_MoDo)/cloud/3/x8ilwg3/s/live-3.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wYUtBK4b9F.png" group-title="RÁDIO",RÁDIO 98 FM 
+#EXTINF:-1 type="radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wYUtBK4b9F.png" group-title="RÁDIO",RÁDIO 98 FM 
 https://9554.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="RÁDIO",RÁDIO 98 FM  BH MG
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="RÁDIO",RÁDIO 98 FM  BH MG
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
 
-#EXTINF:-1 tvg-id="98live.br" tvg-logo="https://i.imgur.com/mLOX4bq.png" group-title="RÁDIO",RÁDIO 98 FM BH
+#EXTINF:-1 type="radio" tvg-id="98live.br" tvg-logo="https://i.imgur.com/mLOX4bq.png" group-title="RÁDIO",RÁDIO 98 FM BH
 https://9554.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGzepM4.png" group-title="RÁDIO",RÁDIO 99.5 FM Goiânia
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/IoQ6K00.png" group-title="RÁDIO",RÁDIO 98.1 FM
+https://9526.brasilstream.com.br/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://reproductor.tmcreativos.com/radiotropical/tmp/images/default.png" group-title="RÁDIO",RÁDIO 99.1 FM - Tarapoto-Radio Tropical
+https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/IGzepM4.png" group-title="RÁDIO",RÁDIO 99.5 FM Goiânia
 https://ssl.zoeweb.net/proxy/serradourada?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A5V3HFw.png" group-title="RÁDIO",RÁDIO Asa Branca 99.5 FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/A5V3HFw.png" group-title="RÁDIO",RÁDIO Asa Branca 99.5 FM
 http://wz5.dnip.com.br/asabranca128k/asabranca128k.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2w5reqdqqed5.png" group-title="RÁDIO",RÁDIO 102.3 FM 
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2w5reqdqqed5.png" group-title="RÁDIO",RÁDIO 102.3 FM 
 https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/chunklist_1f542113-5185-4687-8c4f-8a649f2e5ec4.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO 104 FM
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO 104 FM
 http://cast4.audiostream.com.br:8651/mp3
 
-#EXTINF:-1 tvg-logo="https://104fm.net.br/hf-conteudo/uploads/layout/logo_933e479bb0803291838a1d24f832c939.png" group-title="RÁDIO",RÁDIO 104 FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/MLu5Bex.jpeg" group-title="RÁDIO",RÁDIO 104 FM (Porto Alegre)
+http://cast4.audiostream.com.br:8651/mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://104fm.net.br/hf-conteudo/uploads/layout/logo_933e479bb0803291838a1d24f832c939.png" group-title="RÁDIO",RÁDIO 104 FM
 https://press.hotfix.com.br/_plataforma/audio/notification-push.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYxOSrS.png" group-title="RÁDIO",RÁDIO Aliança 104.9 FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/fYxOSrS.png" group-title="RÁDIO",RÁDIO Aliança 104.9 FM
 http://cast2.hoost.com.br:8696/live
 
-#EXTINF:-1 tvg-logo="https://105fmasuaradio.com.br/adm/zHD/logo/0372264001673455586.png" group-title="RÁDIO",RÁDIO 105 FM
+#EXTINF:-1 type="radio" tvg-logo="https://105fmasuaradio.com.br/adm/zHD/logo/0372264001673455586.png" group-title="RÁDIO",RÁDIO 105 FM
 https://stm1.streamproarte.com.br:7066/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4q3MEPnBVM.png" group-title="RÁDIO",RÁDIO 105 FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4q3MEPnBVM.png" group-title="RÁDIO",RÁDIO 105 FM
 http://148.72.158.239:8010/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UXrevL.png" group-title="RÁDIO",RÁDIO 106 FM Sertaneja
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/iqs20HX.png" group-title="RÁDIO",RÁDIO 105 FM
+https://appradio.app:8010//live
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/SOaOCyN.png" group-title="RÁDIO",RÁDIO Clube 105.5 FM - Brasília
+https://8157.brasilstream.com.br/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/5UXrevL.png" group-title="RÁDIO",RÁDIO 106 FM Sertaneja
 https://sc4s.cdn.upx.com:8067/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UXrevL.png" group-title="RÁDIO",RÁDIO 106 FM Sertaneja (Estúdio Ao Vivo)
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/5UXrevL.png" group-title="RÁDIO",RÁDIO 106 FM Sertaneja (Estúdio Ao Vivo)
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7272/cabecalho-7272-20211117150059.png" group-title="RÁDIO",RÁDIO 107 FM BH
+#EXTINF:-1 type="radio" tvg-logo="https://pa-str.srvsite.com/arquivos/7272/cabecalho-7272-20211117150059.png" group-title="RÁDIO",RÁDIO 107 FM BH
 https://stm27.srvaudio.com.br:9330/stream
 
-#EXTINF:-1 tvg-logo="https://imgur.com/lda062u.jpg" group-title="RÁDIO",RÁDIO ABC
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/8Oo5F9P.png" group-title="RÁDIO",RÁDIO 107 FM
+https://ice.fabricahost.com.br/107fm
+
+#EXTINF:-1 type="radio" tvg-logo="https://imgur.com/lda062u.jpg" group-title="RÁDIO",RÁDIO ABC
 https://streamabc.gruposinos.com.br:8443/radio
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gMyA8qteGc.png" group-title="RÁDIO",RÁDIO A TARDE FM
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="http://agitomax.com.br/wp-content/uploads/2024/05/radio-8.jpg" group-title="RÁDIO",RÁDIO AGITOMAX 
+https://stm16.xcast.com.br:7334/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gMyA8qteGc.png" group-title="RÁDIO",RÁDIO A TARDE FM
 http://sh.upx.com.br:8120/;
 
-#EXTINF:-1 tvg-logo="https://institutocativar.org.br/wp-content/uploads/2016/04/unnamed.png" group-title="RÁDIO",RÁDIO ABC
+#EXTINF:-1 type="radio" tvg-logo="https://institutocativar.org.br/wp-content/uploads/2016/04/unnamed.png" group-title="RÁDIO",RÁDIO ABC
 https://streamabc.gruposinos.com.br:8443/radio
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3nhawb3pKs.png" group-title="RÁDIO",RÁDIO ALEGRIA PORTO ALEGRE
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3nhawb3pKs.png" group-title="RÁDIO",RÁDIO ALEGRIA PORTO ALEGRE
 http://stream.ouveai.com.br:8061/;
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2rmylc5mr9sw.jpg" group-title="RÁDIO",RÁDIO APARECIDA  
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2rmylc5mr9sw.jpg" group-title="RÁDIO",RÁDIO APARECIDA  
 https://aparecida.jmvstream.com/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BNPg7Dz5e9.jpeg" group-title="RÁDIO",RÁDIO ALVORADA FM 94.9 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/lb33kWC.png" group-title="RÁDIO",RÁDIO Aparecida 104.3 FM
+https://aparecida.jmvstream.com/stream
+
+#EXTINF:-1 type="radio" tvg-id="Web Radio ao Único Deus" tvg-logo="https://www.aounicodeus.com.br/imagens/logo.png" group-title="RÁDIO",Ao Único Deus
+https://5a2b083e9f360.streamlock.net/aoud/aoud.stream/playlist.m3u8
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BNPg7Dz5e9.jpeg" group-title="RÁDIO",RÁDIO ALVORADA FM 94.9 
 https://24383.live.streamtheworld.com/RADIO_ALVORADAAAC_SC
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/sWAnJn3.jpeg" group-title="RÁDIO",RÁDIO Alvorada
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dNEYHQ3z6L.jpg" group-title="RÁDIO",RÁDIO ALPHA FM 101.7
 https://26583.live.streamtheworld.com/RADIO_ALPHAFM_ADP_SC?dist=site-alphafm
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIO",RÁDIO ALPHA FM  Osasco SP
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/2hMyTjy.png" group-title="RÁDIO",RÁDIO Alpha FM 102.1 MHz (Goiânia - GO)
+https://ice.fabricahost.com.br/alphafm1021
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIO",RÁDIO ALPHA FM  Osasco SP
 https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://radioamerica.com.br/images/logo_1270324144.png" group-title="RÁDIO",RÁDIO América AM Uberlandia
+#EXTINF:-1 type="radio" tvg-logo="https://radioamerica.com.br/images/logo_1270324144.png" group-title="RÁDIO",RÁDIO América AM Uberlandia
 https://9614.brasilstream.com.br/stream?rand=QCA5B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Xj_YTcJMi1ygBt16UKg3e0lft8uEKp6x2ITOL4u4-qmW8d2CMSsVCvzqWDX3ZC0vdXk&usqp=CAU" group-title="RÁDIO",RÁDIO ALTERNATIVA FM DIVINOPOLIS
+#EXTINF:-1 type="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Xj_YTcJMi1ygBt16UKg3e0lft8uEKp6x2ITOL4u4-qmW8d2CMSsVCvzqWDX3ZC0vdXk&usqp=CAU" group-title="RÁDIO",RÁDIO ALTERNATIVA FM DIVINOPOLIS
 https://stm20.xcast.com.br:13046/stream
 
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/radioarcoirisfm.com.br/images/logo/logo_1798534020.png" group-title="RÁDIO",RÁDIO ARCO IRIS FM IBIRACI 
+#EXTINF:-1 type="radio" tvg-logo="https://spaceks.net/sites/radioarcoirisfm.com.br/images/logo/logo_1798534020.png" group-title="RÁDIO",RÁDIO ARCO IRIS FM IBIRACI 
 https://hts09.kshost.com.br:11244/live
 
-#EXTINF:-1 tvg-logo="http://radioaurorafm.com.br/wp-content/uploads/2018/07/aurora.jpg" group-title="RÁDIO",RÁDIO AURORA FM
+#EXTINF:-1 type="radio" tvg-logo="http://radioaurorafm.com.br/wp-content/uploads/2018/07/aurora.jpg" group-title="RÁDIO",RÁDIO AURORA FM
 https://www.appradio.app:8164/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JzHYtiE.png" group-title="RÁDIO",RÁDIO Antena 1
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/JzHYtiE.png" group-title="RÁDIO",RÁDIO Antena 1
 http://antena1.newradio.it/stream?1519462006844
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Antena1 FM
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Antena 1 FM
 http://antena1.newradio.it/stream2?ext=.mp3
 
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO ANTENA 1
+#EXTINF:0, type="radio" tvg-id="" group-title="RÁDIO",RÁDIO ANTENA 1
 http://noasrv.caster.fm:10124/stream
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1jZ2kvnNwgcnGIFw6qtYo3k2uuT2zZftejFsHJfCG2h5PSNC3vcp2ira6Y2m3CfMJ4w&usqp=CAU" group-title="RÁDIO",RÁDIO ANTENA 1 SP*
+#EXTINF:-1 type="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1jZ2kvnNwgcnGIFw6qtYo3k2uuT2zZftejFsHJfCG2h5PSNC3vcp2ira6Y2m3CfMJ4w&usqp=CAU" group-title="RÁDIO",RÁDIO ANTENA 1 SP
 http://antena1.newradio.it/stream?1479613766876.aac
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11927_1583262188.jpg" group-title="RÁDIO",RÁDIO ANTENA 1 França*
+#EXTINF:-1 type="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio11927_1583262188.jpg" group-title="RÁDIO",RÁDIO ANTENA 1 França*
 http://s3.mediastreaming.it:7568/;16232861525289stream.nsv
 
-#EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/radio9630_1439401372_crop_200x200.jpg" group-title="RÁDIO",RÁDIO ARARAS FM 107.7*
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Xw6vfjD.jpeg" group-title="RÁDIO",RÁDIO Antena 1 SP
+https://antenaone.crossradio.com.br/stream/1;?type=mp4
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Xw6vfjD.jpeg" group-title="RÁDIO",RÁDIO Antena 1 RJ
+http://a1rj.streams.com.br:7801/sm
+
+#EXTINF:-1 type="radio" tvg-logo="https://www.acheradios.com.br/media/imagens/radio9630_1439401372_crop_200x200.jpg" group-title="RÁDIO",RÁDIO ARARAS FM 107.7*
 http://radio1.suaradionanet.net:10841/stream?type=.flv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG" group-title="RÁDIO",RÁDIO ATLANDIDA FM 
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=491854855
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG" group-title="RÁDIO",RÁDIO ATLANDIDA FM 
+#EXTINF:-1 type="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG" group-title="RÁDIO",RÁDIO ATLANDIDA FM 
 https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/chunklist_59246316-430b-4aef-a4a5-f358556c5861.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvU8tFa.jpg" group-title="RÁDIO",RÁDIO ATLANTIDA
-https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/chunklist_59246316-430b-4aef-a4a5-f358556c5861.m3u8
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO ATLANTIDA
+#EXTINF:-1 type="radio" tvg-id="Radioatlantida.br" tvg-logo="https://i.imgur.com/Xo6II00.png" group-title="RÁDIO",RÁDIO Atlântida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO ATLANTIDA
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Oa60FXj.png" group-title="RÁDIO",RÁDIO Alternativa
+http://stm5.srvvox.com.br:7484/stream
 
-#EXTINF:-1 tvg-id="Radioatlantida.br" tvg-logo="https://i.imgur.com/Xo6II00.png" group-title="RÁDIO",RÁDIO Atlântida FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 type="radio" tvg-logo="https://www.andaiafm.com.br/design/logo_andaiafm.png" group-title="RÁDIO",RÁDIO Andaiá FM 97.1 (SAJ)
+http://andaiafm-aac.html5player.acessaradios.com.br:8268/live
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mkbYJqxK8W.jpg" group-title="RÁDIO",RÁDIO BH FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/NvEkY5F.png" group-title="RÁDIO",RÁDIO Animu
+https://cast.animu.com.br:9079/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/CZBvLUU.jpeg" group-title="RÁDIO",RÁDIO Azul 82.5 FM
+https://r16.ciclano.io:15004/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/2xVhThV.png" group-title="RÁDIO",RÁDIO AMC
+https://radioamc.com.br/stream/amc
+  
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mkbYJqxK8W.jpg" group-title="RÁDIO",RÁDIO BH FM
 https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2mjSaPL.png" group-title="RÁDIO",RÁDIO Band FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/2mjSaPL.png" group-title="RÁDIO",RÁDIO Band FM
 https://26503.live.streamtheworld.com/BANDFM_SPAAC/HLS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/spNLhR5.png" group-title="RÁDIO",RÁDIO Band Vale FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/spNLhR5.png" group-title="RÁDIO",RÁDIO Band Vale FM
 http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="RÁDIO",RÁDIO BAND FM CAMPINAS SP
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="RÁDIO",RÁDIO BAND FM CAMPINAS SP
 https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wcgzlhdcmvwn.jpg" group-title="RÁDIO",RÁDIO BAND FM CAMPINAS 106.7 
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wcgzlhdcmvwn.jpg" group-title="RÁDIO",RÁDIO BAND FM CAMPINAS 106.7 
 https://cast3.hoost.com.br:20116/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9hpfkjnxdzm7.png" group-title="RÁDIO",RÁDIO BAND CAMPINAS
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9hpfkjnxdzm7.png" group-title="RÁDIO",RÁDIO BAND CAMPINAS
 https://cast2.hoost.com.br:20108/stream
 
-#EXTINF:-1 tvg-id="Radiobandeirantes" tvg-logo="https://i.imgur.com/FktWIvK.png" group-title="RÁDIO",RÁDIO BAND
+#EXTINF:-1 type="radio" tvg-id="Radiobandeirantes" tvg-logo="https://i.imgur.com/FktWIvK.png" group-title="RÁDIO",RÁDIO BAND
 https://18123.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FktWIvK.png" group-title="RÁDIO",RÁDIO BAND Goiânia
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/FktWIvK.png" group-title="RÁDIO",RÁDIO BAND Goiânia
 http://suaradio2.dyndns.ws:13633/stream
 
-#EXTINF:-1 tvg-id="Bandneewsfm.br" tvg-logo="https://i.imgur.com/ahhiJz2.png" group-title="RÁDIO",RÁDIO Band News FM
+#EXTINF:-1 type="radio" tvg-id="Bandneewsfm.br" tvg-logo="https://i.imgur.com/ahhiJz2.png" group-title="RÁDIO",RÁDIO Band News FM
 https://26733.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIO",RÁDIO BAND NEWS FM | YT SÃO PAULO SP
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/jMg7XId.png" group-title="RÁDIO",RÁDIO Bandeirantes 840 AM 90.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.aac?dist=radios.com.br
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIO",RÁDIO BAND NEWS FM | GOIÂNIA GO
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/EtT48sv.jpeg" group-title="RÁDIO",RÁDIO Band FM 96.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.aac?dist=radios.com.br
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/TMY3woc.jpeg" group-title="RÁDIO",RÁDIO BandNews SP 96.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac?dist=radios.com.br
+
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/radiobandniws.png" group-title="RÁDIO",RÁDIO Band News SP 96.9 FM
+https://24273.live.streamtheworld.com/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&1727796028203
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIO",RÁDIO BAND NEWS FM | GOIÂNIA GO
 https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://bhfm.globo.com/estaticos/svg/logo-footer.svg" group-title="RÁDIO",RÁDIO BH FM
+#EXTINF:-1 type="radio" tvg-logo="https://bhfm.globo.com/estaticos/svg/logo-footer.svg" group-title="RÁDIO",RÁDIO BH FM
 https://24363.live.streamtheworld.com/BHFMAAC.aac?dist=site
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/udyeCQA.png" group-title="RÁDIO",RÁDIO BSD
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/udyeCQA.png" group-title="RÁDIO",RÁDIO BSD
 https://webradio.amsolution.com.br/radio/8040/aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg" group-title="RÁDIO",RÁDIO CAPITAL
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/CTGcaEO.png" group-title="RÁDIO",RÁDIO Blast!
+https://centova4.transmissaodigital.com:20143/stream
+
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="http://radiobahianafm.com.br/images/logo_1893714545.png" group-title="RÁDIO",RÁDIO Bahiana da Itaberaba
+http://8134.brasilstream.com.br/stream?rand=mpkug
+
+#EXTINF:-1 type="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiFheq8pl8OPtKJdAHnaGWRisRDYLe-l_wA&s" group-title="RÁDIO",RÁDIO Bahia FM 88.7
+https://radio.garden/api/ara/content/listen/jhZPZSgi/channel.mp3?r=1&1718608687478
+
+#EXTINF:-1 type="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSeZLJdhQsZ3O28oCpxz5HJViBpJWVfQwhg&s" group-title="RÁDIO",RÁDIO Bahia FM Sul 102.1
+https://radio.garden/api/ara/content/listen/gxee6qMp/channel.mp3?r=1&1718609137118
+  
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/capitaldomel.png" group-title="RÁDIO",RÁDIO Capital do Mel
+https://stream.zeno.fm/m5b9rewcomkuv
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg" group-title="RÁDIO",RÁDIO CAPITAL
 https://f40.fabricahost.com.br/capitalfmsp?f=1653596626N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5dc5c4b6be6b0.png" group-title="RÁDIO",RÁDIO CAPITAL FM 107.3
+#EXTINF:-1 type="radio" tvg-logo="https://tudoradio.com/img/uploads/radios/5dc5c4b6be6b0.png" group-title="RÁDIO",RÁDIO CAPITAL FM 107.3
 http://9029.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X9naHq9.png" group-title="RÁDIO",RÁDIO Canal Louvor
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/fetGktM.jpeg" group-title="RÁDIO",RÁDIO CANAÃ FM 93.5
+http://stream1.svrdedicado.org/8006/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/pEnVe6M.png" group-title="RÁDIO",RÁDIO CAMPINA FM
+http://cast61.sitehosting.com.br:9962/live?1583625618600
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/X9naHq9.png" group-title="RÁDIO",RÁDIO Canal Louvor
 https://server13.srvsh.com.br:8492/stream
 
-#EXTINF:-1 tvg-id="Radiocancaonova" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="RÁDIO",RÁDIO Canção Nova FM
+#EXTINF:-1 type="radio" tvg-id="Radiocancaonova" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="RÁDIO",RÁDIO Canção Nova FM
 https://d1ixcyc8q1z54i.cloudfront.net/out/v1/582568c0cbc742208e9e8856e569d2e3/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6h56iTB.png" group-title="RÁDIO",RÁDIO Canudos FM
-https://streammaior.jmhost.com.br/radio/8020/stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vshg5E2.png" group-title="RÁDIO",RÁDIO Capão FM
-http://cast4.audiostream.com.br:8656/mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C79VBmi.png" group-title="RÁDIO",RÁDIO Caiçara
-http://cast4.audiostream.com.br:8654/mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O6Ka4Yc.png" group-title="RÁDIO",RÁDIO Campo Maior
-https://streammaior.jmhost.com.br/radio/8010/stream
-
-#EXTINF:-1 tvg-id="Radiocancaonova" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="RÁDIO",RÁDIO Canção Nova
+#EXTINF:-1 type="radio" tvg-id="Radiocancaonova" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="RÁDIO",RÁDIO Canção Nova
 https://cloud1.cdnseguro.com:20038/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2uBQ2F.png" group-title="RÁDIO",RÁDIO Cidreira FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/6h56iTB.png" group-title="RÁDIO",RÁDIO Canudos FM
+https://streammaior.jmhost.com.br/radio/8020/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Vshg5E2.png" group-title="RÁDIO",RÁDIO Capão FM
+http://cast4.audiostream.com.br:8656/mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/C79VBmi.png" group-title="RÁDIO",RÁDIO Caiçara
+http://cast4.audiostream.com.br:8654/mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/O6Ka4Yc.png" group-title="RÁDIO",RÁDIO Campo Maior
+https://streammaior.jmhost.com.br/radio/8010/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/L2uBQ2F.png" group-title="RÁDIO",RÁDIO Cidreira FM
 http://cast4.audiostream.com.br:8657/mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wUAgcsF.png" group-title="RÁDIO",RÁDIO Cidade Leopoldina
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/wUAgcsF.png" group-title="RÁDIO",RÁDIO Cidade Leopoldina
 https://s26.maxcast.com.br:8291/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZDxt5B.png" group-title="RÁDIO",RÁDIO Cidade Luziânia
-http://stm22.xcast.com.br:7442/;
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QOY3zBn.png" group-title="RÁDIO",RÁDIO Cidade Nova FM
-http://srv1.stms.com.br:9358/;
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Cidreira FM
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Cidreira FM
 http://cast4.audiostream.com.br:8657/mp3
 
-#EXTINF:-1 tvg-logo="https://www.radiocidadetupaciguara.com.br/imagens/logo.png" group-title="RÁDIO",RÁDIO CIDADE FM 98,3 TUPACIGUARA
+#EXTINF:-1 type="radio" tvg-logo="https://www.radiocidadetupaciguara.com.br/imagens/logo.png" group-title="RÁDIO",RÁDIO CIDADE FM 98,3 TUPACIGUARA
 https://5a2b083e9f360.streamlock.net/radiorural/radiorural.stream/media_w1174853231_3737.aac
 
-#EXTINF:-1 tvg-logo="https://cdn-kaebp.nitrocdn.com/SzNLuoMoxIKMbYBlaDknqExvECpbyuES/assets/images/optimized/rev-375acf9/fmcidade.com/wp-content/uploads/2021/02/Logo_Radio_Cidade.png" group-title="RÁDIO",RÁDIO CIDADE GAUXUPÉ 105.5 FM
+#EXTINF:-1 type="radio" tvg-logo="https://cdn-kaebp.nitrocdn.com/SzNLuoMoxIKMbYBlaDknqExvECpbyuES/assets/images/optimized/rev-375acf9/fmcidade.com/wp-content/uploads/2021/02/Logo_Radio_Cidade.png" group-title="RÁDIO",RÁDIO CIDADE GAUXUPÉ 105.5 FM
 https://5a57bda70564a.streamlock.net/cidadeguaxupe/cidadeguaxupe.sdp/chunklist_w2128128046.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/66c268_2697e72a88f342e392ec0255464d9907~mv2.jpeg/v1/fill/w_256,h_256,al_c,lg_1,q_80,enc_auto/Logo%20R%C3%A1dio%20Cidade.jpeg" group-title="RÁDIO",RÁDIO CIDADE UBERLANDIA
+#EXTINF:-1 type="radio" tvg-logo="https://static.wixstatic.com/media/66c268_2697e72a88f342e392ec0255464d9907~mv2.jpeg/v1/fill/w_256,h_256,al_c,lg_1,q_80,enc_auto/Logo%20R%C3%A1dio%20Cidade.jpeg" group-title="RÁDIO",RÁDIO CIDADE UBERLANDIA
 https://mtl9.hnux.com/http://144.217.233.87:9044/;?_=0.8649086545412048
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/XbaUmT9kwa.jpeg" group-title="RÁDIO",RÁDIO CIDADE FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/XbaUmT9kwa.jpeg" group-title="RÁDIO",RÁDIO CIDADE FM
 https://24383.live.streamtheworld.com/RADIOCIDADEAAC_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AjphGbPGU3.png" group-title="RÁDIO",RÁDIO CONTINENTAL FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/I8mKHr7.jpeg" group-title="RÁDIO",RÁDIO Cidade Verde 93.5 FM
+https://ssl1.transmissaodigital.com:20010/;
+
+#EXTINF:-1 type="radio" type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cidademodelofm.png" group-title="RÁDIO",RÁDIO Cidade Modelo 95.3 FM
+https://ssl1.transmissaodigital.com:20114/stream 
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/87DvHXH.png" group-title="RÁDIO",RÁDIO Cidade 87.9 FM
+https://08.stmip.net:8550/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/cZDxt5B.png" group-title="RÁDIO",RÁDIO Cidade Luziânia
+http://stm22.xcast.com.br:7442/;
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/QOY3zBn.png" group-title="RÁDIO",RÁDIO Cidade Nova FM
+http://srv1.stms.com.br:9358/;
+
+#EXTINF:-1 type="radio" type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AjphGbPGU3.png" group-title="RÁDIO",RÁDIO CONTINENTAL FM
 http://cast4.audiostream.com.br:8650/mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iDDqtZh.png" group-title="RÁDIO",RÁDIO Conexão Gospel
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/iDDqtZh.png" group-title="RÁDIO",RÁDIO Conexão Gospel
 https://node-09.zeno.fm/3rqh6euz5hhvv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OC6JEfB.png" group-title="RÁDIO",RÁDIO Continental
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OC6JEfB.png" group-title="RÁDIO",RÁDIO Continental
 http://cast4.audiostream.com.br:8650/mp3
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Comeia FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/y3oies2.png" group-title="RÁDIO",RÁDIO Continental AM 1120 Porto Alegre
+http://streaming10.hstbr.net:8042/live
+
+#EXTINF:-1, type="radio"tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Comeia FM
 https://stm01.virtualcast.com.br:8138/live
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mpevyhvpekjc.jpg" group-title="RÁDIO",RÁDIO COCA COLA FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mpevyhvpekjc.jpg" group-title="RÁDIO",RÁDIO COCA COLA FM
 https://str3.openstream.co/2334?aw_0_1st.collectionid%3D6257%26stationId%3D6257%26publisherId%3D2358%26k%3D1653518513%26aw_0_azn.pcountry%3D%5B%22BR%22%2C%22GB%22%2C%22US%22%2C%22PT%22%2C%22FR%22%2C%22ES%22%2C%22CO%22%2C%22CL%22%2C%22DE%22%2C%22JP%22%2C%22RU%22%5D%26aw_0_azn.planguage%3D%5B%22pt%22%2C%22es%22%2C%22en%22%2C%22fr%22%2C%22it%22%5D%26aw_0_azn.pgenre%3D%5B%22Top40%5C%2FHits+-+Pop%22%5D
 
-#EXTINF:-1 tvg-id="Radioculturabrasil.br" tvg-logo="https://i.imgur.com/o0P96iM.png" group-title="RÁDIO",RÁDIO Cultura Brasil
+#EXTINF:-1 type="radio" tvg-id="Radioculturabrasil.br" tvg-logo="https://i.imgur.com/o0P96iM.png" group-title="RÁDIO",RÁDIO Cultura Brasil
 http://tvcultura.com.br/_radio/streaming.php?radio=am
 
-#EXTINF:-1 tvg-id="Radioculturafm.br" tvg-logo="https://i.imgur.com/Blzp3BO.png" group-title="RÁDIO",RÁDIO Cultura FM
+#EXTINF:-1 type="radio" tvg-id="Radioculturafm.br" tvg-logo="https://i.imgur.com/Blzp3BO.png" group-title="RÁDIO",RÁDIO Cultura FM
 https://radiocultura.jmvstream.com/stream
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-1S8wFjfcc3BktVRKK0z3neV0MhLdq6CUAiltvUYcGSYHO5oubA0Hg1q1rCfYoEdJw" group-title="RÁDIO",RÁDIO CULTURA FM 104.9
+#EXTINF:-1 type="radio" tvg-logo="https://play-lh.googleusercontent.com/-1S8wFjfcc3BktVRKK0z3neV0MhLdq6CUAiltvUYcGSYHO5oubA0Hg1q1rCfYoEdJw" group-title="RÁDIO",RÁDIO CULTURA FM 104.9
 http://8731.brasilstream.com.br/stream?identifica=10967199418531105000
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/HGhBJP2Yfa.png" group-title="RÁDIO",RÁDIO CULTURA FM 103.3 
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/culturafm.png" group-title="RÁDIO",RÁDIO Cultura 104.3 FM
+https://str02.kfmidia.com.br:6672/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/HGhBJP2Yfa.png" group-title="RÁDIO",RÁDIO CULTURA FM 103.3 
 https://radiocultura.jmvstream.com/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO CULTURA ARACAJU
+#EXTINF:-1 type="radio" tvg-logo="" group-title="RÁDIO",RÁDIO CULTURA ARACAJU
 https://13.stmip.net:8246/;?1655294424897
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIO",RÁDIO CULTURA DO PARÁ 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIO",RÁDIO CULTURA DO PARÁ 
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiocriativafm.com.br/wp-content/uploads/2018/09/logo-criativa-mini.png" group-title="RÁDIO",RÁDIO CRIATIVA FM MARTINHO CAMPO
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Od6z787.png" group-title="RÁDIO",RÁDIO Cultura dos Palmares 88.9 FM
+https://03.painelstreaming.com.br:27080/;
+
+#EXTINF:-1 type="radio" tvg-logo="https://www.radiocriativafm.com.br/wp-content/uploads/2018/09/logo-criativa-mini.png" group-title="RÁDIO",RÁDIO CRIATIVA FM MARTINHO CAMPO
 https://live.paineldj.com.br/proxy/radiocriativafhd?mp=/stream;
 
-#EXTINF:-1 tvg-logo="https://radioclube98.com/images/logo_1146086404.png" group-title="RÁDIO",RÁDIO CLUBE FM 98,3 PATOS DE MINAS
+#EXTINF:-1 type="radio" tvg-logo="https://radioclube98.com/images/logo_1146086404.png" group-title="RÁDIO",RÁDIO CLUBE FM 98,3 PATOS DE MINAS
 https://9061.brasilstream.com.br/stream?rand=wkYhv
 
-#EXTINF:-1 tvg-logo="http://clubefm99.com.br/site/img/logo99fm.png" group-title="RÁDIO",RÁDIO CLUBE FM 99,7 PATOS DE MINAS
+#EXTINF:-1 type="radio" tvg-logo="http://clubefm99.com.br/site/img/logo99fm.png" group-title="RÁDIO",RÁDIO CLUBE FM 99,7 PATOS DE MINAS
 http://18008.brasilstream.com.br/stream?rand=TFMYw
 
-#EXTINF:-1 tvg-logo="https://cdn.cadena.com.br/uploads/station/vertical_logo/183/clube.png" group-title="RÁDIO",RÁDIO CLUBE FM ITAUNA
+#EXTINF:-1 type="radio" tvg-logo="https://cdn.cadena.com.br/uploads/station/vertical_logo/183/clube.png" group-title="RÁDIO",RÁDIO CLUBE FM ITAUNA
 https://gruporadioclube2.jmvstream.com/live
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Clube FM 105.5
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Clube FM 105.5
 https://8157.brasilstream.com.br/stream?1678118110353
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/T7Ny3bL8gk.png" group-title="RÁDIO",RÁDIO CLUBE FM 
+#EXTINF:-1 type="radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/T7Ny3bL8gk.png" group-title="RÁDIO",RÁDIO CLUBE FM 
 https://f26.fabricahost.com.br/clubefm1055bsb?f=1653582558N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
 
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="RÁDIO",RÁDIO CLUBE TV PORTUGAL
+#EXTINF:-1 type="radio" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="RÁDIO",RÁDIO CLUBE TV PORTUGAL
 https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBN.br" tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/cv8iK8e.png" group-title="RÁDIO",RÁDIO Clube News 90.9 FM
+https://servidor14-3.brlogic.com:7540/live
+
+#EXTINF:-1 type="radio" tvg-logo="https://clubefm92.com.br/hf-conteudo/uploads/layout/favicon_be16a3b769d780e1530b75a660ffd94e.png" group-title="RÁDIO",RÁDIO CLUBE FM 92.7 (SAJ)
+https://cast.radiu.live:6758/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Eb6Rc8d.png" group-title="RÁDIO",RÁDIO Clube FM Bagé
+https://player.painelvox.com/player-ssl/6766/;
+
+#EXTINF:-1 type="radio" tvg-id="CBN.br" tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN
 https://19813.live.streamtheworld.com/CBN_SPAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN Natal
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN Natal
 https://radio.saopaulo01.com.br:10973/stream
 
 #EXTINF:-1 tvg-id="Radiocbnrj.br" tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN RJ
 https://26653.live.streamtheworld.com/CBN_RJAAC.aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DT5RBWw6J6.png" group-title="RÁDIO",RÁDIO CBN RJ
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DT5RBWw6J6.png" group-title="RÁDIO",RÁDIO CBN RJ
 https://medias.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
 
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="RÁDIO",RÁDIO CBN RJ
+#EXTINF:-1 type="radio" tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="RÁDIO",RÁDIO CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-id="Radiocbnbh.br" tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN BH
+#EXTINF:-1 type="radio" tvg-id="Radiocbnbh.br" tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN BH
 https://26503.live.streamtheworld.com/CBN_BHAAC.aac
 
-#EXTINF:-1 tvg-id="Radiocbnbsb.br" tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN Brasília
+#EXTINF:-1 type="radio" tvg-id="Radiocbnbsb.br" tvg-logo="https://i.imgur.com/OTPfFJJ.png" group-title="RÁDIO",RÁDIO CBN Brasília
 https://26653.live.streamtheworld.com/CBN_BSBAAC.aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="RÁDIO",RÁDIO CBN SP
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="RÁDIO",RÁDIO CBN SP
 https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="RÁDIO",RÁDIO CBN SP
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="RÁDIO",RÁDIO CBN SP
 http://jessicatv.site:8080/FM10020/4d136785/283844
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="RÁDIO",RÁDIO CBN SP
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="RÁDIO",RÁDIO CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="RÁDIO",RÁDIO CBN SP
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="RÁDIO",RÁDIO CBN SP
 https://26563.live.streamtheworld.com/CBN_SPAAC.aac?dist=site
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO CNB ORLANDO
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/V22cNPK.jpeg" group-title="RÁDIO",RÁDIO CBN 97.1
+https://live.ojc.com.br/e9cd_3/myStream.m3u8
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/V22cNPK.jpeg" group-title="RÁDIO",RÁDIO CBN Maceió
+http://v3.directradios.com:8229/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/V22cNPK.jpeg" group-title="RÁDIO",RÁDIO CBN Recife 105.7
+https://59f1cbe63db89.streamlock.net:1443/asabrancaradio/_definst_/asabrancaradio/playlist.m3u8
+
+#EXTINF:-1 type="radio" tvg-logo="" group-title="RÁDIO",RÁDIO CNB ORLANDO
 https://ssl.xcast.com.br:8894/;?1655389856677
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ybi04nk.jpg" group-title="RÁDIO",RÁDIO CHARRUA AM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Ybi04nk.jpg" group-title="RÁDIO",RÁDIO CHARRUA AM
 https://cast.youngtech.radio.br/radio/8780/am
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Te5H0bA.jpg" group-title="RÁDIO",RÁDIO CHARRUA FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Te5H0bA.jpg" group-title="RÁDIO",RÁDIO CHARRUA FM
 https://cast.youngtech.radio.br/radio/8780/fm
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNThpNs.png" group-title="RÁDIO",RÁDIO Criativa
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/LNThpNs.png" group-title="RÁDIO",RÁDIO Criativa
 https://ssl.xcast.com.br:9650/mountpoint
 
-#EXTINF:-1 tvg-id="Classicpan.br" tvg-logo="https://i.imgur.com/E4TUv3i.png" group-title="RÁDIO",RÁDIO Classic Pan
+#EXTINF:-1 type="radio" tvg-id="Classicpan.br" tvg-logo="https://i.imgur.com/E4TUv3i.png" group-title="RÁDIO",RÁDIO Classic Pan
 http://ingest1sc.cdn.upx.com:8032/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eb6Rc8d.png" group-title="RÁDIO",RÁDIO Clube FM Bagé
-https://player.painelvox.com/player-ssl/6766/;
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/oSnGBDV.jpeg" group-title="RÁDIO",RÁDIO CV Mais 97.5 FM
+https://ssl1.transmissaodigital.com:20098/;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GdxyMxX.png" group-title="RÁDIO",RÁDIO Difusora de São João Nepomuceno
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/uSYyVz7.jpeg" group-title="RÁDIO",RÁDIO Rádio C4 FM
+https://stm25.srvstm.com:10780/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/GdxyMxX.png" group-title="RÁDIO",RÁDIO Difusora de São João Nepomuceno
 https://live.paineldj.com.br/proxy/difaac?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rUyAYdt.png" group-title="RÁDIO",RÁDIO Difusora Cristal 1450 AM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/rUyAYdt.png" group-title="RÁDIO",RÁDIO Difusora Cristal 1450 AM
 https://stream.jmhost.com.br/radio/8210/stream
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio12549_1514545150.png" group-title="RÁDIO",RÁDIO DIFUSORA 95.3
+#EXTINF:-1 type="radio" tvg-logo="https://img.radios.com.br/radio/lg/radio12549_1514545150.png" group-title="RÁDIO",RÁDIO DIFUSORA 95.3
 https://8026.brasilstream.com.br/stream?1653664485200
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s54874g.png" group-title="RÁDIO",RÁDIO DIFUSORA 98.9
+#EXTINF:-1 type="radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54874g.png" group-title="RÁDIO",RÁDIO DIFUSORA 98.9
 https://8024.brasilstream.com.br/stream?identifica=9859447776200130000&rand=3524600812139154400
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sUshFLCTf6.png" group-title="RÁDIO",RÁDIO DISNEY
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/N5MNVI4.png" group-title="RÁDIO",RÁDIO Difusora Acreana
+http://midia.ac.gov.br/difusora
+
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/difusoraam.png" group-title="RÁDIO",RÁDIO Difusora 920 AM
+http://stm20.srvaudio.com.br:11190/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sUshFLCTf6.png" group-title="RÁDIO",RÁDIO DISNEY
 https://23103.live.streamtheworld.com/DISNEY_BRA_SP_SC?dist=web-radiodisney-disneylatino
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U241Gsq.png" group-title="RÁDIO",RÁDIO Disney
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/U241Gsq.png" group-title="RÁDIO",RÁDIO Disney
 https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5NZX1r5.png" group-title="RÁDIO",RÁDIO Digital FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/5NZX1r5.png" group-title="RÁDIO",RÁDIO Digital FM
 https://ssl.tcmcast.com.br:7050/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SWHhyUhCYU.png" group-title="RÁDIO",RÁDIO DUMONT FM 
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SWHhyUhCYU.png" group-title="RÁDIO",RÁDIO DUMONT FM 
 https://107-151-3-42.webnow.com.br/dumont.aac
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="RÁDIO",RÁDIO DUMONT FM | JUNDIAÍ SP
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="RÁDIO",RÁDIO DUMONT FM | JUNDIAÍ SP
 https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pRcouoR.png" group-title="RÁDIO",RÁDIO Esperança FM Boa Viagem
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/lCvuL1q.png" group-title="RÁDIO",RÁDIO Doru
+https://paineldj6.com.br:20038/stream
+  
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/pRcouoR.png" group-title="RÁDIO",RÁDIO Esperança FM Boa Viagem
 http://51.222.56.196:6230/stream
 
-#EXTINF:-1 tvg-id="Radioeldorado.br" tvg-logo="https://i.imgur.com/TKZ90g5.png" group-title="RÁDIO",RÁDIO Eldorado
+#EXTINF:-1 type="radio" tvg-id="Radioeldorado.br" tvg-logo="https://i.imgur.com/TKZ90g5.png" group-title="RÁDIO",RÁDIO Eldorado
 http://cast4.audiostream.com.br:8652/mp3
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gzEL7UXjWA.png" group-title="RÁDIO",RÁDIO ENERGIA 97 FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gzEL7UXjWA.png" group-title="RÁDIO",RÁDIO ENERGIA 97 FM
 https://audio.97fm.com.br/energia
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="RÁDIO",RÁDIO ENERGIA 97 FM | SANTO ANDRÉ SP
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="RÁDIO",RÁDIO ENERGIA 97 FM | SANTO ANDRÉ SP
 https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/akAyhMsCqH.png" group-title="RÁDIO",RÁDIO ELDORADO FM 107.3
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/aR5ZArY.jpeg" group-title="RÁDIO",RÁDIO Energia Retrô
+http://stream.zeno.fm/qez1mu8dys8uv
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy Energy Antilles 104.4 FM - Fort-de-France / Martinica
+https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy 104.2 FM - Moscow / Russia
+https://pub0101.101.ru/stream/air/aac/64/99
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy 100.3 FM - Paris / França
+https://scdn.nrjaudio.fm/adwz1/fr/30043/aac_64.mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy Sverige 105.1 FM - Estolcomo / Suécia
+https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy Energy 100.6 FM - Oslo / Noruega
+https://nrj.p4groupaudio.com/NRJ_MM
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy Energy 102.6 FM - Pointe a Pitre / Guadalupe
+https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy Energy Réunion 100 FM - Saint-Denis / Reunião
+https://scdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy Energy Leman 103.6 FM - Genebra / Suíça
+https://scdn.nrjaudio.fm/audio1/ch/50001/aac_64.mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="RÁDIO",RÁDIO Energy Energy 93.2 FM - Tallinn / Estónia
+https://stream.skymedia.ee/live/NRJ
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/akAyhMsCqH.png" group-title="RÁDIO",RÁDIO ELDORADO FM 107.3
 https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/index_200_a-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://educadoraonline.com.br/wp/wp-content/uploads/2019/08/cropped-logo2.png" group-title="RÁDIO",RÁDIO EDUCADORA
+#EXTINF:-1, type="radio"tvg-id="13" tvg-name="" tvg-logo="https://educadoraonline.com.br/wp/wp-content/uploads/2019/08/cropped-logo2.png" group-title="RÁDIO",RÁDIO EDUCADORA
 https://5a57bda70564a.streamlock.net/educadoraonline/educadoraonline.stream/media_w1190872290_2817.aac
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="RÁDIO",RÁDIO  EDUCADORA FM | CAMPINAS SP
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="RÁDIO",RÁDIO  EDUCADORA FM | CAMPINAS SP
 https://evpp.mm.uol.com.br/band/educadora/master.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Eldorado FM
+#EXTINF:-1, type="radio"tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Eldorado FM
 http://cast4.audiostream.com.br:8652/mp3
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Express FM
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Express FM
 http://cast4.audiostream.com.br:8648/mp3
 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/IxPqYfa.png" group-title="RÁDIO",RÁDIO Excesso FM 102.1
+https://excessocast.com.br/listen/recife/recife
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJ3GDRP.png" group-title="RÁDIO",RÁDIO Farroupilha
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/esperancaam.png" group-title="RÁDIO",RÁDIO Esperança 850 AM
+https://stm3.srvif.com:7360/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/vE0luX9.jpeg" group-title="RÁDIO",RÁDIO Estância 94.3 FM
+https://r13.ciclano.io:15073/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/jt40ly7.png" group-title="RÁDIO",RÁDIO Express
+http://cast4.audiostream.com.br:8648/mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/tJ3GDRP.png" group-title="RÁDIO",RÁDIO Farroupilha
 https://1592747t.ha.azioncdn.net/primary/far_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bx8NjTk.png" group-title="RÁDIO",RÁDIO Feliz
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Ww8cdYs.jpeg" group-title="RÁDIO",RÁDIO Farol 90.7 FM
+https://04.painelstreaming.com.br:27120/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/60NqpMi.jpeg" group-title="RÁDIO",RÁDIO Folha de Pernambuco 96.7 FM
+https://radio.saopaulo01.com.br/8210/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Bx8NjTk.png" group-title="RÁDIO",RÁDIO Feliz
 https://cloud1.cdnseguro.com:5520/;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cAkXRSG.png" group-title="RÁDIO",RÁDIO Fé Natal
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/cAkXRSG.png" group-title="RÁDIO",RÁDIO Fé Natal
 http://server10.srvsh.com.br:7740/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/enf44qs.png" group-title="RÁDIO",RÁDIO Futebol
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/rCkqprc.png" group-title="RÁDIO",RÁDIO Felicidade 90.3
+http://centova10.ciclanohost.com.br:9230/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/enf44qs.png" group-title="RÁDIO",RÁDIO Futebol
 http://srv1.stms.com.br:10630/stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDmdimN.png" group-title="RÁDIO",RÁDIO FM 96 Muriaé
-http://wz1.dnip.com.br/fm96muriae/fm96muriae.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jt40ly7.png" group-title="RÁDIO",RÁDIO FM Express
-http://cast4.audiostream.com.br:8648/mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QhSS71Q.png" group-title="RÁDIO",RÁDIO FM O Dia
-http://streaming.livespanel.com:20000/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtMmozZ.png" group-title="RÁDIO",RÁDIOFM Premium
-http://cast4.audiostream.com.br:8663/mp3
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO FM Premium
-http://cast4.audiostream.com.br:8663/mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rEXCYFB.png" group-title="RÁDIO",RÁDIO FM Tramandaí
-http://cast4.audiostream.com.br:8658/mp3
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="RÁDIO",RÁDIO GLOBO RJ
-https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RYE2vJwpkp.jpg" group-title="RÁDIO",RÁDIO GAZETA FM 
+  
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RYE2vJwpkp.jpg" group-title="RÁDIO",RÁDIO GAZETA FM 
 https://shout25.crossradio.com.br:18002/1;/stream/1;/stream/1
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LnQzp2wQMU.jpg" group-title="RÁDIO",RÁDIO GAUCHA ZH 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/CwRKTWa.jpeg" group-title="RÁDIO",RÁDIO Gazeta FM
+https://shout25.crossradio.com.br:18002/stream?1653871644022
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LnQzp2wQMU.jpg" group-title="RÁDIO",RÁDIO GAUCHA ZH 
 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_a3ba87cb-6a77-4b6e-9f21-1a48e8fef369.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13176_1628168105.png" group-title="RÁDIO",RÁDIO GAUCHA
+#EXTINF:-1 type="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio13176_1628168105.png" group-title="RÁDIO",RÁDIO GAUCHA
 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_878c0e75-9aba-4a69-a671-c82be47d869b.m3u8
 
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO GAUCHA
+#EXTINF:0, type="radio"tvg-id="" group-title="RÁDIO",RÁDIO GAUCHA
 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_76b0e520-509b-4cae-93a7-0b4ca887efd3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KMnhKeQ.jpg" group-title="RÁDIO",RÁDIO GAUCHA
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/KMnhKeQ.jpg" group-title="RÁDIO",RÁDIO GAUCHA
 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_878c0e75-9aba-4a69-a671-c82be47d869b.m3u8
 
-#EXTINF:-1 tvg-id="Radiogaucha.br" tvg-logo="https://i.imgur.com/RnS39w4.png" group-title="RÁDIO",RÁDIO Gaúcha
+#EXTINF:-1 type="radio" tvg-id="Radiogaucha.br" tvg-logo="https://i.imgur.com/RnS39w4.png" group-title="RÁDIO",RÁDIO Gaúcha
 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RnmHJBy64k.jpg" group-title="RÁDIO",RÁDIO GUAIBA
-http://cast4.audiostream.com.br:8007/site
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/BNoA8I2.png" group-title="RÁDIO",Rádio Gaúcha  93.7 FM
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_57bd4b6c-1f8b-4604-a96f-2ef2c6de8219.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYoGnyj.jpg" group-title="RÁDIO",RÁDIO GUAIBA LIVE
-https://cdn.jmvstream.com/w/LVW-8822/LVW8822_UfBJaoOTXv/chunklist.m3u8
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",RÁDIO Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO GUARA
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/grandefm.png" group-title="RÁDIO",RÁDIO Grande 94.5 FM
+https://player.srvaudio.com.br/player-ssl/9634
+
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/guaribasfm.png" group-title="RÁDIO",RÁDIO Guaribas 98.3 FM
+https://player.srvaudio.com.br/player-ssl/11882
+
+#EXTINF:-1 type="radio" tvg-logo="" group-title="RÁDIO",RÁDIO GUARA
 https://s34.maxcast.com.br:8202/live?id=1655639245525
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uAKgP9Y.jpg" group-title="RÁDIO",RÁDIO GREnal
-http://cast4.audiostream.com.br:8649/mp3
-
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO GRENAL
-http://cast4.audiostream.com.br:8649/mp3
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Guaiba FM
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Guaiba FM
 http://cast4.audiostream.com.br:8007/app
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Grenal FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RnmHJBy64k.jpg" group-title="RÁDIO",RÁDIO GUAIBA
+http://cast4.audiostream.com.br:8007/site
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/BYoGnyj.jpg" group-title="RÁDIO",RÁDIO GUAIBA LIVE
+https://cdn.jmvstream.com/w/LVW-8822/LVW8822_UfBJaoOTXv/chunklist.m3u8
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/uAKgP9Y.jpg" group-title="RÁDIO",RÁDIO GREnal
 http://cast4.audiostream.com.br:8649/mp3
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/V8ssEqpVTV.png" group-title="RÁDIO",RÁDIO GFM Salvador
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LF5EdiH.png" group-title="RÁDIO",Rádio Grenal 95.9 FM
+https://grenal.audiostream.com.br:20000/mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/V8ssEqpVTV.png" group-title="RÁDIO",RÁDIO GFM Salvador
 http://r6.ciclano.io:10009/stream
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Hits FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="RÁDIO",RÁDIO GLOBO RJ
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Jnl6xKg.png" group-title="Canais RÁDIO FM",Rádio Globo RJ 98.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
+
+#EXTINF:-1 type="radio" tvg-id="Rádio Galega" tvg-logo="https://d1oldvcs710rcb.cloudfront.net/content_cards/4865e9de7655447f88e076efffbb5c41.png" group-title="RÁDIO",RÁDIO GALEGA
+https://crtvg-radiogalega-hls.flumotion.cloud/chunks.m3u8
+
+#EXTINF:-1 type="radio" tvg-id="Rádio Galega Música" tvg-logo="https://d1oldvcs710rcb.cloudfront.net/content_cards/54d93a2e2c794edab53684dd3dd3828e.png" group-title="RÁDIO",RÁDIO GALEGA 
+https://crtvg-radiogalega-musica-hls.flumotion.cloud/chunks.m3u8
+
+#EXTINF:-1 type="radio" tvg-id="Son Galicia Rádio" tvg-logo="https://d1oldvcs710rcb.cloudfront.net/content_cards/7e7a2a1eef694dc99e84cd53e9900ed4.png" group-title="RÁDIO",RÁDIO GALICIA 
+https://crtvg-songalicia-hls.flumotion.cloud/chunks.m3u8
+
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Hits FM
 https://ice1.streeemer.com:8020/radio.mp3
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Imbe FM
-http://cast4.audiostream.com.br:8660/mp3
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/63SiYsz.png" group-title="RÁDIO",RÁDIO Hits 106.9 FM
+https://wz7.servidoresbrasil.com:9984/stream
 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/C0HdgsG.png" group-title="RÁDIO",RÁDIO Hunter FM- Hits Brasil
+https://live.hunter.fm/hitsbrasil_normal
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7J4UdpRS3z.png" group-title="RÁDIO",RÁDIO ITAPOAN FM 97.5 
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7J4UdpRS3z.png" group-title="RÁDIO",RÁDIO ITAPOAN FM 97.5 
 http://streaming.livecenter.com.br:9300/;stream/1
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kJ3Cd5nrKX.png" group-title="RÁDIO",RÁDIO ITAPEMA FM 93.7
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kJ3Cd5nrKX.png" group-title="RÁDIO",RÁDIO ITAPEMA FM 93.7
 https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/chunklist_7a9f5a09-2e2b-447b-b222-bd98691e45a2.m3u8
 
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO ITAPEMA FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/xtIGiFX.jpeg" group-title="RÁDIO",RÁDIO ITAPEMA FM
 http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ITATIAIA BELO HORIZONTE
+#EXTINF:0, type="radio"tvg-id="" group-title="RÁDIO",RÁDIO ITAPEMA FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 type="radio" tvg-logo="https://play-lh.googleusercontent.com/VmeRDXS5H3SFBSio5DlAYXqSk-S9tH-GOwQG4qdZ2n14z2vFd6_f-ofoMEUtwbpDToIS" group-title="RÁDIO",RÁDIO ITATIAIA BELO HORIZONTE
 https://8903.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ITATIAIA JUIZ DE FORA
+#EXTINF:-1 type="radio" tvg-logo="https://play-lh.googleusercontent.com/VmeRDXS5H3SFBSio5DlAYXqSk-S9tH-GOwQG4qdZ2n14z2vFd6_f-ofoMEUtwbpDToIS" group-title="RÁDIO",RÁDIO ITATIAIA JUIZ DE FORA
 https://live.paineldj.com.br/proxy/itatiaia?mp=/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ITATIAIA MONTES CLAROS
+#EXTINF:-1 type="radio" tvg-logo="https://play-lh.googleusercontent.com/VmeRDXS5H3SFBSio5DlAYXqSk-S9tH-GOwQG4qdZ2n14z2vFd6_f-ofoMEUtwbpDToIS" group-title="RÁDIO",RÁDIO ITATIAIA MONTES CLAROS
 https://s30.maxcast.com.br:8116/live
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ITATIAIA OURO PRETO
+#EXTINF:-1 type="radio" tvg-logo="https://play-lh.googleusercontent.com/VmeRDXS5H3SFBSio5DlAYXqSk-S9tH-GOwQG4qdZ2n14z2vFd6_f-ofoMEUtwbpDToIS" group-title="RÁDIO",RÁDIO ITATIAIA OURO PRETO
 https://8002.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ITATIAIA VALE DO AÇO
+#EXTINF:-1 type="radio" tvg-logo="https://play-lh.googleusercontent.com/VmeRDXS5H3SFBSio5DlAYXqSk-S9tH-GOwQG4qdZ2n14z2vFd6_f-ofoMEUtwbpDToIS" group-title="RÁDIO",RÁDIO ITATIAIA VALE DO AÇO
 https://radio.saopaulo01.com.br:7000/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO ITATIAIA VARGINHA
+#EXTINF:-1 type="radio" tvg-logo="https://play-lh.googleusercontent.com/VmeRDXS5H3SFBSio5DlAYXqSk-S9tH-GOwQG4qdZ2n14z2vFd6_f-ofoMEUtwbpDToIS" group-title="RÁDIO",RÁDIO ITATIAIA VARGINHA
 https://stm01.virtualcast.com.br:8002/itatiaiasulminas?tid=01GQN8H8MDSGQTH6XCTKPM06GS
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pKN7gvWHjP.png" group-title="RÁDIO",RÁDIO ITATIAIA FM
+#EXTINF:-1 type="radio" tvg-logo="https://play-lh.googleusercontent.com/VmeRDXS5H3SFBSio5DlAYXqSk-S9tH-GOwQG4qdZ2n14z2vFd6_f-ofoMEUtwbpDToIS" group-title="RÁDIO",RÁDIO ITATIAIA FM
 https://8903.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hC90L3k.png" group-title="RÁDIO",RÁDIO Imbé FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/hC90L3k.png" group-title="RÁDIO",RÁDIO Imbé FM
 http://cast4.audiostream.com.br:8660/mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wA9wrgC.png" group-title="RÁDIO",RÁDIO Interativa FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/wA9wrgC.png" group-title="RÁDIO",RÁDIO Interativa FM
 http://suaradio1.dyndns.ws:13551/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FT7IBY8.png" group-title="RÁDIO",RÁDIO Jesus 102.3 FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/o5Wegbk.png" group-title="RÁDIO",RÁDIO Interaudio Light
+https://str1.castradios.com.br/8012/stream
+  
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/FT7IBY8.png" group-title="RÁDIO",RÁDIO Jesus 102.3 FM
 https://stream.appflux.com.br:8048/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN Natal
-https://s02.maxcast.com.br:8082/live
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Jw4W000.jpeg" group-title="RÁDIO",RÁDIO JB 99.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac?dist=radios.com.br
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN http://centova6.ciclanohost.com.br:9256//;stream.mp3
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/sDCmImi.png" group-title="RÁDIO",RÁDIO JERE FM 106.9 JEREMOABO BA
+http://172.82.160.250:8309/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN SP
-https://24253.live.streamtheworld.com/JP_SP_FMAAC_SC
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/KU4WqtU.jpeg" group-title="RÁDIO",RÁDIO J-Hero
+https://stm1.radiojhero.com:18008/;?type=http
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN AM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/0fpOMtV.jpeg" group-title="RÁDIO",RÁDIO Jovem Pan FM - 100.9 FM
+https://stream-166.zeno.fm/c45wbq2us3buv?zs=cd8tw3RUSWmgS67GIjYKcw
+
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN AM
 https://20813.live.streamtheworld.com/JP_SP_AMAAC_SC
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM
-https://24253.live.streamtheworld.com/JP_SP_FMAAC.aac
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN Grande Porto Alegre 90.7
 http://centova6.ciclanohost.com.br:9256//;stream.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM
-http://centova6.ciclanohost.com.br:9256//;stream.mp3V
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN Natal
+https://s02.maxcast.com.br:8082/live
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM Natal
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM Natal
 https://pannatal.jmvstream.com/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM Fortaleza
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM Fortaleza
 https://r10.ciclano.io:15033/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM Florianópolis 
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Jovem_Pan_FM_logo.png" group-title="RÁDIO",RÁDIO JOVEN PAN FM Florianópolis 
 http://sc5.dnip.com.br:12585/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/2560px-Jovem_Pan_logo_2018.svg.png" group-title="RÁDIO",RÁDIO JOVEN PAN NEWS
-https://26643.live.streamtheworld.com/JP_SP_AMAAC.aac
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/a73qUcI.jpeg" group-title="RÁDIO",RÁDIO Jovem Pan Campinas
+http://paineldj2.com.br:8200/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/2560px-Jovem_Pan_logo_2018.svg.png" group-title="RÁDIO",RÁDIO JOVEN PAN NEWS
-https://18693.live.streamtheworld.com/JP_NEWSAAC_SC
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/G8kkR7u.png" group-title="RÁDIO",RÁDIO Jovem Pan 95.9 FM - Recife
+https://c1.audiostream.com.br:20001/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vK3cFjh.png" group-title="RÁDIO",RÁDIO Jornal
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/vK3cFjh.png" group-title="RÁDIO",RÁDIO Jornal
 https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-recife-audio-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRG9z1y.png" group-title="RÁDIO",RÁDIO Jovem Mix
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/FRG9z1y.png" group-title="RÁDIO",RÁDIO Jovem Mix
 http://srv1.stms.com.br:7012/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TBsVcXCdj4.jpg" group-title="RÁDIO",RÁDIO JB FM 99.9
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TBsVcXCdj4.jpg" group-title="RÁDIO",RÁDIO JB FM 99.9
 https://20833.live.streamtheworld.com/JBFMAAC1_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tJUaddjEmy.jpg" group-title="RÁDIO",RÁDIO Jovem POP FM  Top 40/Hits
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tJUaddjEmy.jpg" group-title="RÁDIO",RÁDIO Jovem POP FM  Top 40/Hits
 https://stream.radiojovempop.com/top40/stream_external
-
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yYudecuUpV.png" group-title="RÁDIO",RÁDIO  Kiss FM 
+  
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yYudecuUpV.png" group-title="RÁDIO",RÁDIO  Kiss FM 
 http://cloud2.cdnseguro.com:23538/;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zjDarvl.png" group-title="RÁDIO",RÁDIO Kairós FM Morada Nova
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/zjDarvl.png" group-title="RÁDIO",RÁDIO Kairós FM Morada Nova
 http://stm16.xcast.com.br:9042/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FzvV3QC.png" group-title="RÁDIO",RÁDIO Liberdade 87.7 FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/RZwusYs.png" group-title="RÁDIO",RÁDIO K
+https://ec5.yesstreaming.net:1430/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://img.radios.com.br/radio/lg/radio169925_1683389304.jpg" group-title="RÁDIO",RÁDIO Kpop Hits
+https://paineldj5.com.br:20130/stream
+  
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/FzvV3QC.png" group-title="RÁDIO",RÁDIO Liberdade 87.7 FM
 http://live2.livemus.com.br:28038/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dZXmMaTp5u.jpg" group-title="RÁDIO",RÁDIO LIBERDADE FM 92.9
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dZXmMaTp5u.jpg" group-title="RÁDIO",RÁDIO LIBERDADE FM 92.9
 https://8335.brasilstream.com.br/stream?identifica=9402840667540046000&rand=4317212057886061600
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s130330g.png" group-title="RÁDIO",RÁDIO LIBERDADE FM 104.9
+#EXTINF:-1 type="radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s130330g.png" group-title="RÁDIO",RÁDIO LIBERDADE FM 104.9
 https://hts02.kshost.com.br:12288/livehttps://hts02.kshost.com.br:12288/live
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Liberdade FM
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Liberdade FM
 http://cast4.audiostream.com.br:8655/mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gYfoPKW.png" group-title="RÁDIO",RÁDIO Liderança FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/kY5XaXt.jpeg" group-title="RÁDIO",RÁDIO Liberdade 92.9 FM
+https://8335.brasilstream.com.br/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/gYfoPKW.png" group-title="RÁDIO",RÁDIO Liderança FM
 https://srv1.stms.com.br:7040/;
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO WEB JUAZEIRO
+#EXTINF:-1 type="radio" tvg-logo="" group-title="RÁDIO",RÁDIO WEB JUAZEIRO
 https://s41.maxcast.com.br:8470/live?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zg47X56.png" group-title="RÁDIO",RÁDIO Lopes
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/zg47X56.png" group-title="RÁDIO",RÁDIO Lopes
 http://stm18.xcast.com.br:8174/;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SqgtBcW.png" group-title="RÁDIO",RÁDIO Logos FM Fortaleza
+#EXTINF:-1 type="radio" type="radio" tvg-logo="https://i.imgur.com/SqgtBcW.png" group-title="RÁDIO",RÁDIO Logos FM Fortaleza
 http://centova6.ciclanohost.com.br:9452/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ulpu23hhywdn.png" group-title="RÁDIO",RÁDIO MANIA
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/zSbKRaY.jpeg" group-title="RÁDIO",RÁDIO Lupa 1 FM 94.5
+https://streaming.livespanel.com:9450/lupa1fm
+  
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ulpu23hhywdn.png" group-title="RÁDIO",RÁDIO MANIA
 http://shout35.crossradio.com.br:8086/1/;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yzVawAw.png" group-title="RÁDIO",RÁDIO Mais FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/dBS3SqW.png" group-title="RÁDIO",RÁDIO Maranhão do Sul
+http://hd3.matutos.com.br:8394/stream?1561472887177
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/yzVawAw.png" group-title="RÁDIO",RÁDIO Mais FM
 http://stm2.pousadavirtual.com.br:7110/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CACdFoz.png" group-title="RÁDIO",RÁDIO Mais FM Ibicuitinga
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/CACdFoz.png" group-title="RÁDIO",RÁDIO Mais FM Ibicuitinga
 http://stream.zeno.fm/cdbfeym4b48uv
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/89g6KU8Dj6.png" group-title="RÁDIO",RÁDIO Massa FM Curitiba
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/GiXR1ll.jpeg" group-title="RÁDIO",RÁDIO Massa 94.5 FM
+https://ice.fabricahost.com.br/biancafmpr
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/89g6KU8Dj6.png" group-title="RÁDIO",RÁDIO Massa FM Curitiba
 https://stm01.virtualcast.com.br:8000/live
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png" group-title="RÁDIO",RÁDIO Massa FM 92.9 - São Paulo
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png" group-title="RÁDIO",RÁDIO Massa FM 92.9 - São Paulo
 https://stm01.virtualcast.com.br:8000/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5rNlZDp.png" group-title="RÁDIO",RÁDIO Mega Ribeirão Preto
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/5rNlZDp.png" group-title="RÁDIO",RÁDIO Mega Ribeirão Preto
 http://pontofixo-megasistema.webnow.com.br/mega.aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tV4ZgVhJmx.png" group-title="RÁDIO",RÁDIO METROPOLITANA FM SP
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/V2mZom3.png" group-title="RÁDIO",RÁDIO Metropolitana 98.5 FM
+https://ice.fabricahost.com.br/metropolitana985sp
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tV4ZgVhJmx.png" group-title="RÁDIO",RÁDIO METROPOLITANA FM SP
 http://74.63.237.85:8598/live
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tV4ZgVhJmx.png" group-title="RÁDIO",RÁDIO METROPOLITANA 98.5 FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tV4ZgVhJmx.png" group-title="RÁDIO",RÁDIO METROPOLITANA 98.5 FM
 https://f33.fabricahost.com.br/metropolitana985sp?f=1653518352N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fgwadzwcwgma.png" group-title="RÁDIO",RÁDIO METROPOLITANA Pop
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fgwadzwcwgma.png" group-title="RÁDIO",RÁDIO METROPOLITANA Pop
 https://f31.fabricahost.com.br/metrosppop?f=1653566537N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/p6dfyrt2yqgz.png" group-title="RÁDIO",RÁDIO METROPOLITANA Light 
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/p6dfyrt2yqgz.png" group-title="RÁDIO",RÁDIO METROPOLITANA Light 
 https://f41.fabricahost.com.br/metropolitanasplight?f=1653582890N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJGhTUw.png" group-title="RÁDIO",RÁDIO Metrópole Soft FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/tJGhTUw.png" group-title="RÁDIO",RÁDIO Metrópole Soft FM
 https://audio.cloudecast.com/listen/soft_fm/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ER7OslR.png" group-title="RÁDIO",RÁDIO Melodia Limoeiro
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/ER7OslR.png" group-title="RÁDIO",RÁDIO Melodia Limoeiro
 http://stm9.xcast.com.br:9970/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RBwQwGFWvT.png" group-title="RÁDIO",RÁDIO MIX FM São Paulo
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/meionorte.png" group-title="RÁDIO",RÁDIO Meio Norte 99.9 FM
+https://webradio.amsolution.com.br/radio/8280/meionorte
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RBwQwGFWvT.png" group-title="RÁDIO",RÁDIO MIX FM São Paulo
 https://26643.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC?dist=mix-web-player-radio-ao-vivo
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cFgTZPpJAA.jpeg" group-title="RÁDIO",RÁDIO MIX FM Rio
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/yctVRk3.png" group-title="RÁDIO",RÁDIO Mix 106.3 FM- São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/b5fC5PP.jpeg" group-title="RÁDIO",RÁDIO Mix- Campinas
+https://21933.live.streamtheworld.com/MIXFM_CAMPINASAAC.aac?1649900088068
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/75YRowu.jpeg" group-title="RÁDIO",RÁDIO Mix FM- Porto Alegre
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/BVwZ4hJ.png" group-title="RÁDIO",RÁDIO Mix- Recife 97.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_RECIFE971AAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cFgTZPpJAA.jpeg" group-title="RÁDIO",RÁDIO MIX FM Rio
 https://26603.live.streamtheworld.com/MIXRIOAAC_SC
 
-#EXTINF:-1 tvg-id="RadioMix.br" tvg-logo="https://i.imgur.com/Wzf9yAZ.png" group-title="RÁDIO",RÁDIO Mix FM Natal
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/9VTV7gV.jpeg" group-title="RÁDIO",RÁDIO Mix 102.1 FM- Rio de Janeiro
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC_SC.aac?dist=radioscombr
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/8JWJ3DX.jpeg" group-title="RÁDIO",RÁDIOMix 100.7 FM- Manaus / AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_MANAUSAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/I6OiWpa.png" group-title="RÁDIO",RÁDIO Mix 100.9 FM- Belém / PA
+https://www.bravecenterhost.com:8012/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/2UipLOo.jpeg" group-title="RÁDIO",RÁDIO Mix 102.9 FM- Londrina / PR
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LONDRIN1029AAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/klvDQgf.png" group-title="RÁDIO",RÁDIO Mix 103.3 FM- Arapiraca / AL
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_ARAPIRACAAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/PYlNU4C.png" group-title="RÁDIO",RÁDIO Mix 103.9 FM- Natal / RN
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_NATALAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wmNTd6P.png" group-title="RÁDIO",RÁDIO Ministério Canaã 93.5 FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/CDJ4BCF.png" group-title="RÁDIO",RÁDIO Mix 104.1 FM Sul de Minas- Guaranésia / MG
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SULMG.mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/gzKbK9j.png" group-title="RÁDIO",RÁDIO Mix 104.3 FM- Salvador / BA
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SALVADORAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/wmNTd6P.png" group-title="RÁDIO",RÁDIO Ministério Canaã 93.5 FM
 https://stream1.svrdedicado.org/8006/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fERCMMxtzA.jpg" group-title="RÁDIO",RÁDIO MOTEL
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fERCMMxtzA.jpg" group-title="RÁDIO",RÁDIO MOTEL
 https://usa11.fastcast4u.com/proxy/radiomotel?mp=%2Fstream3
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/G7UNUU6tHT.png" group-title="RÁDIO",RÁDIO MELODIA FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/G7UNUU6tHT.png" group-title="RÁDIO",RÁDIO MELODIA FM
 https://18163.live.streamtheworld.com/MELODIAFMAAC_SC?dist=triton-widget&pname=tdwidgets
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yo37tE.png" group-title="RÁDIO",RÁDIO Monte Mor 95.1 FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/4Yo37tE.png" group-title="RÁDIO",RÁDIO Monte Mor 95.1 FM
 http://stm28.srvaudio.com.br:10606/stream
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13966_1576243816.jpg" group-title="RÁDIO",RÁDIO MODULO FM 96.1
+#EXTINF:-1 type="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio13966_1576243816.jpg" group-title="RÁDIO",RÁDIO MODULO FM 96.1
 https://8086.brasilstream.com.br/stream?identifica=9988564100031371000&rand=6719179586825056000
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EThdKfSxDp.png" group-title="RÁDIO",RÁDIO MUNDO LIVRE FM Curitiba 
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EThdKfSxDp.png" group-title="RÁDIO",RÁDIO MUNDO LIVRE FM Curitiba 
 https://rrdns-continental.webnow.com.br:80/mundolivre.mp3
 
-#EXTINF:-1 tvg-id="Nativa.br" tvg-logo="https://i.imgur.com/SKWy80t.png" group-title="RÁDIO",RÁDIO Nativa FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/gGrEPiL.png" group-title="RÁDIO",RÁDIO Mundo Livre FM Londrina 93,1
+https://rrdns-continental.webnow.com.br/mllondrina.mp3
+
+#EXTINF:-1 type="radio" tvg-id="Nativa.br" tvg-logo="https://i.imgur.com/SKWy80t.png" group-title="RÁDIO",RÁDIO Nativa FM
 https://26593.live.streamtheworld.com/NATIVA_SPAAC/HLS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7f7e5fqddmwr.png" group-title="RÁDIO",RÁDIO NOVA BRASIL 89.7 SP
-https://15123.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qeqs8mbvvrtw.jpg" group-title="RÁDIO",RÁDIO NOVA BRASIL 89.5 RJ
-https://26603.live.streamtheworld.com/NOVABRASIL_RIOAAC_SC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QszLLbD.png" group-title="RÁDIO",RÁDIO Nova Brasil FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/QszLLbD.png" group-title="RÁDIO",RÁDIO Nova Brasil FM
 https://20823.live.streamtheworld.com/NOVABRASIL_SPAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cvHzRir.png" group-title="RÁDIO",RÁDIO Nova FM Ascurra
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7f7e5fqddmwr.png" group-title="RÁDIO",RÁDIO NOVA BRASIL 89.7 SP
+https://15123.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/GOAUkl1.png" group-title="RÁDIO",RÁDIO Nova Brasil RJ 89.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qeqs8mbvvrtw.jpg" group-title="RÁDIO",RÁDIO NOVA BRASIL 89.5 RJ
+https://26603.live.streamtheworld.com/NOVABRASIL_RIOAAC_SC
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/cvHzRir.png" group-title="RÁDIO",RÁDIO Nova FM Ascurra
 https://stm01.virtualcast.com.br:8264/live
 
-#EXTINF:-1 tvg-logo="" group-title="RÁDIO",RÁDIO NOVA NORDESTE
+#EXTINF:-1 type="radio" tvg-logo="" group-title="RÁDIO",RÁDIO NOVA NORDESTE
 https://player.voxhd.com.br/proxy/7690
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1e779bc5318807defee89c91948c71c5.jpg" group-title="RÁDIO",RÁDIO NOVO TEMPO CURITIBA
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/cHwMHNl.jpeg" group-title="RÁDIO",RÁDIO Nova Quilombo 100.9 FM
+https://04.painelstreaming.com.br:27122/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/1a772lG.jpeg" group-title="RÁDIO",RÁDIO Nova Líder 96.7 FM
+http://stm.rodrigoti.com.br:27128/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/kgRI82H.jpeg" group-title="RÁDIO",RÁDIO Nova Campina
+https://stm4.srvvox.com.br:7838/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1e779bc5318807defee89c91948c71c5.jpg" group-title="RÁDIO",RÁDIO NOVO TEMPO CURITIBA
 http://stream.novotempo.com:1935/radio/smil:rntCuritibaPR.smil/playlist.m3u8
 
-#EXTINF:0,tvg-id="" group-title="RÁDIO",RÁDIO NOVO TEMPO FM
+#EXTINF:0, type="radio"tvg-id="" group-title="RÁDIO",RÁDIO NOVO TEMPO FM
 http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClakDxW.png" group-title="RÁDIO",RÁDIO Novo Tempo
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/ClakDxW.png" group-title="RÁDIO",RÁDIO Novo Tempo
 http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MFRkJq4.png" group-title="RÁDIO",RÁDIO Nossa Rádio SP
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/MFRkJq4.png" group-title="RÁDIO",RÁDIO Nossa Rádio SP
 https://servidor24.brlogic.com:8524/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HRs3svE.png" group-title="RÁDIO",RÁDIO Ômega FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/quOdLUa.jpeg" group-title="RÁDIO",RÁDIO NRJ Energy Hits 90
+https://play.global.audio/energy-90s
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/fR0JnYa.jpeg" group-title="RÁDIO",RÁDIO NRJ Gangsta Rap
+https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/wu6IDoF.jpeg" group-title="RÁDIO",RÁDIO NRJ Latin Hits
+https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/NFqs3Tv.png" group-title="RÁDIO",RÁDIO Nikkey
+https://stm8.voxhd.com.br:7996/stream
+  
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/HRs3svE.png" group-title="RÁDIO",RÁDIO Ômega FM
 https://webradio.amsolution.com.br/radio/8000/aac
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PXDSTA9.png" group-title="RÁDIO",RÁDIO Oxente FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/PXDSTA9.png" group-title="RÁDIO",RÁDIO Oxente FM
 http://srv1.stms.com.br:7036/;
 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/ZuCOlEU.png" group-title="RÁDIO",Rádio Okinawa
+https://hts05.kshost.com.br:9080/live
 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/QhSS71Q.png" group-title="RÁDIO",RÁDIO O Dia
+http://streaming.livespanel.com:20000/live
 
-
-
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YpqGCjSqBX.jpeg" group-title="RÁDIO",RÁDIO PAMPA
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YpqGCjSqBX.jpeg" group-title="RÁDIO",RÁDIO PAMPA
 http://cast4.audiostream.com.br:8653/aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SqdYjzyk3W.png" group-title="RÁDIO",RÁDIO PIATÃ FM 94.3
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SqdYjzyk3W.png" group-title="RÁDIO",RÁDIO PIATÃ FM 94.3
 http://192.163.193.115:9992/;
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/br4rdwvbkdx9.jpg" group-title="RÁDIO",RÁDIO POSITIVIDADE FM 
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/picosgospel.png" group-title="RÁDIO",RÁDIO Picos Gospel
+http://stream.zeno.fm/80ng4xm1r5quv
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/br4rdwvbkdx9.jpg" group-title="RÁDIO",RÁDIO POSITIVIDADE FM 
 https://15123.live.streamtheworld.com/POSITIVIDADE_FMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I5y8DaH.png" group-title="RÁDIO",RÁDIO Princesa AM
+#EXTINF:-1 type="radio" tvg-id="portaldoarrocha.br" tvg-logo="https://portaldoarrocha.com.br/imagem/topo.png" group-title="RÁDIO",RÁDIO Portal do arrocha
+https://sonicpanel.oficialserver.com/8202/;,https://sonicpanel.oficialserver.com/8202/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/I5y8DaH.png" group-title="RÁDIO",RÁDIO Princesa AM
 http://cast4.audiostream.com.br:8016/mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/shUYMK2.png" group-title="RÁDIO",RÁDIO RBC FM
-http://paineldj.com.br:8046/live
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/dtMmozZ.png" group-title="RÁDIO",RÁDIO Premium
+http://cast4.audiostream.com.br:8663/mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1UNmHSj.png" group-title="RÁDIO",RÁDIO Rede Brasileira de Rádios
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/rmSoZhw.png" group-title="RÁDIO",RÁDIO Play FM - Birigui
+http://187.17.175.143:3259/stream?1653869498990
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/1zJDubN.jpeg" group-title="RÁDIO",RÁDIO PLUS FM CARIRI 100.5MHz
+http://webradio.amsolution.com.br/radio/8140/cariri
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/3dUwTYy.png" group-title="RÁDIO",Rádio Record 1000 AM
+https://stm10.voxhd.com.br:9702/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/1UNmHSj.png" group-title="RÁDIO",RÁDIO Rede Brasileira de Rádios
 https://webradio.amsolution.com.br/radio/8380/live
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Recife FM
+
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Recife FM
 https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Recife FM
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Recife FM
 http://cloud1.cdnseguro.com:16806/stream/
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/WuKakGmdbq.png" group-title="RÁDIO",RÁDIO SAUDADE FM 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/6BRBCVT.jpeg" group-title="RÁDIO",Rádio RBC Boas Novas 93.3 FM
+https://directradios.net/proxy/rbc2?mp=/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/shUYMK2.png" group-title="RÁDIO",RÁDIO RBC FM
+http://paineldj.com.br:8046/live
+
+#EXTINF:-1 type="radio" tvg-logo="https://reconcavofm.com.br/wp-content/uploads/2021/04/LOGO_RADIO_NOVA.png" group-title="RÁDIO",Rádio Reconcavo FM 98.5 (SAJ)
+https://sc4s.cdn.upx.com:8210/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/WuKakGmdbq.png" group-title="RÁDIO",RÁDIO SAUDADE FM 
 https://26273.live.streamtheworld.com/SAUDADE_FMAAC/HLS/1a7310da-d710-4500-bf2f-eeaebaaa130a/0/1.aac
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VVMYcPc.png" group-title="RÁDIO",RÁDIO Sabor de Manga FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/VVMYcPc.png" group-title="RÁDIO",RÁDIO Sabor de Manga FM
 http://srv1.stms.com.br:7010/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ACWEiUX.png" group-title="RÁDIO",RÁDIO Sagres
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/ACWEiUX.png" group-title="RÁDIO",RÁDIO Sagres
 https://c1.audiostream.com.br:20029/stream
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio22895_1511345544.jpg" group-title="RÁDIO",RÁDIO SERRA NEGRA FM 104
+#EXTINF:-1 type="radio" tvg-logo="https://img.radios.com.br/radio/lg/radio22895_1511345544.jpg" group-title="RÁDIO",RÁDIO SERRA NEGRA FM 104
 http://8052.brasilstream.com.br/stream?identifica=2270579237215488000
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Sertaneja fm
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Sertaneja fm
 https://live.hunter.fm/sertanejo_normal
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQ0l5ta.png" group-title="RÁDIO",RÁDIO Só Forró
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/rQ0l5ta.png" group-title="RÁDIO",RÁDIO Só Forró
 http://srv1.stms.com.br:7038/;
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nsdhabrwaqx5.png" group-title="RÁDIO",RÁDIO SOCIEDADE
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nsdhabrwaqx5.png" group-title="RÁDIO",RÁDIO SOCIEDADE
 https://painel.sintonizar.tv.br:7022/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="RÁDIO",RÁDIO SOCIEDADE  SALVADOR BA
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="RÁDIO",RÁDIO SOCIEDADE  SALVADOR BA
 https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ynShSZnvJj.jpg" group-title="RÁDIO",RÁDIO SUPER RADIO TUPI
-http://srv44.brasilstream.com.br:8923/stream
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sqSufAnQDD.png" group-title="RÁDIO",RÁDIO SULAMERICA PARADISO FM
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sqSufAnQDD.png" group-title="RÁDIO",RÁDIO SULAMERICA PARADISO FM
 https://20813.live.streamtheworld.com/SULAMERICAAAC_SC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tbeZ5GF.png" group-title="RÁDIO",RÁDIO Sucesso FM Goiânia
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/tbeZ5GF.png" group-title="RÁDIO",RÁDIO Sucesso FM Goiânia
 http://cast61.sitehosting.com.br:8446/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tbeZ5GF.png" group-title="RÁDIO",RÁDIO Sucesso FM Jaraguá
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/tbeZ5GF.png" group-title="RÁDIO",RÁDIO Sucesso FM Jaraguá
 http://cast61.sitehosting.com.br:8487/live?1573825310257
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tbeZ5GF.png" group-title="RÁDIO",RÁDIO Sucesso FM Jataí
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/tbeZ5GF.png" group-title="RÁDIO",RÁDIO Sucesso FM Jataí
 https://ice.fabricahost.com.br/redesucessojatai915
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DaJXRHm.png" group-title="RÁDIO",RÁDIO Super Live FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/DaJXRHm.png" group-title="RÁDIO",RÁDIO Super Live FM
 https://stream2.svrdedicado.org/8220/stream
 
-#EXTINF:-1 tvg-id="SuperRadioTupi.br" tvg-logo="https://i.imgur.com/piuWrsL.png" group-title="RÁDIO",RÁDIO Super Rádio Tupi
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ynShSZnvJj.jpg" group-title="RÁDIO",RÁDIO SUPER RADIO TUPI
+http://srv44.brasilstream.com.br:8923/stream
+
+#EXTINF:-1 type="radio" tvg-id="SuperRadioTupi.br" tvg-logo="https://i.imgur.com/piuWrsL.png" group-title="RÁDIO",RÁDIO Super Rádio Tupi
 https://8923.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2CQ92m.png" group-title="RÁDIO",RÁDIO Super Rede Boa Vontade
-https://9000.brasilstream.com.br/stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hcJpGPa.png" group-title="RÁDIO",RÁDIO Super Notícia
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/hcJpGPa.png" group-title="RÁDIO",RÁDIO Super Notícia
 https://9134.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qsIjnbj.jpg" group-title="RÁDIO",RÁDIO Super Hits FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/qsIjnbj.jpg" group-title="RÁDIO",RÁDIO Super Hits FM
 http://srv1.stms.com.br:7046/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hMnpEE6vx2.png" group-title="RÁDIO",RÁDIO TERRA FM
+#EXTINF:-1 type="radio" tvg-logo="https://img.radios.com.br/radio/lg/radio150873_1593609322.jpg" group-title="RÁDIO",Rádio Super Amazônia Brasil
+https://s11.maxcast.com.br:8050/live
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/k2CQ92m.png" group-title="RÁDIO",RÁDIO Super Rede Boa Vontade
+https://9000.brasilstream.com.br/stream
+
+#EXTINF:-1 type="radio" tvg-id="Rádio Saj Net" tvg-logo="https://radiosajnet.com.br/wp-content/uploads/2023/04/cropped-Logo21.png" group-title="RÁDIO",Rádio Saj Net (SAJ)
+https://servidor31-5.brlogic.com:8016/live?source=527
+  
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hMnpEE6vx2.png" group-title="RÁDIO",RÁDIO TERRA FM
 http://12.stmip.net:8956/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zdyejpeywf3m.jpg" group-title="RÁDIO",RÁDIO TRANSAMERICA SP
-https://26513.live.streamtheworld.com/RT_SPAAC_SC?pname=tdwidgets
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SRcVqLbWbs.png" group-title="RÁDIO",RÁDIO TRANSAMERICA CURITIBA
-https://21933.live.streamtheworld.com/RT_CWBAAC_SC
-
-#EXTINF:-1 tvg-logo=https://static.mytuner.mobi/media/tvos_radios/MMhGgetrMa.png"" group-title="RÁDIO",RÁDIO TRANSCONTINENTAL FM
-https://f38.fabricahost.com.br/transcontinentalsp48?f=1653567841N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
-
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio22972_1514309738.jpg" group-title="RÁDIO", RÁDIO TROMBETAS
-http://streamaudio.grupoumbrella.com.br:10059/stream/1/
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5Xf6byECRJ.png" group-title="RÁDIO",RÁDIO TOP FM 104.1
-https://centova.svdns.com.br:20019/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HImamKf.png" group-title="RÁDIO",RÁDIO Top FM
-http://cloud1.cdnseguro.com:8320/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hArcV8KLFk.png" group-title="RÁDIO",RÁDIO TROPICAL 107.9 FM
-https://8199.brasilstream.com.br/stream
-
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/7b/d6/7464/c300.png" group-title="RÁDIO", RÁDIO TOP LATINO
-http://online.radiodifusion.net:8020/latino?1501875071552
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Torres FM
-http://cast4.audiostream.com.br:8661/mp3
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Tramandai FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/rEXCYFB.png" group-title="RÁDIO",RÁDIO Tramandaí
 http://cast4.audiostream.com.br:8658/mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mNToXib.png" group-title="RÁDIO",RÁDIO Trianon
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zdyejpeywf3m.jpg" group-title="RÁDIO",RÁDIO TRANSAMERICA SP
+https://26513.live.streamtheworld.com/RT_SPAAC_SC?pname=tdwidgets
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SRcVqLbWbs.png" group-title="RÁDIO",RÁDIO TRANSAMERICA CURITIBA
+https://21933.live.streamtheworld.com/RT_CWBAAC_SC
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="RÁDIO",Transamérica 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="RÁDIO",Transamérica 92.7 FM - Recife / PE
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RECAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="RÁDIO",Transamérica 88.7 FM - Belo Horizonte / MG
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="RÁDIO",Transamérica 99.7 FM - Balneário Camboriú / SC
+https://radio02.zas.media/proxy/trans99/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="RÁDIO",Transamérica 100.3 FM - Curitiba / PR
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWBAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="RÁDIO",Transamérica 100.1 FM - Brasília / DF
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_DFAAC.aac
+
+#EXTINF:-1 type="radio" tvg-logo=https://static.mytuner.mobi/media/tvos_radios/MMhGgetrMa.png"" group-title="RÁDIO",RÁDIO TRANSCONTINENTAL FM
+https://f38.fabricahost.com.br/transcontinentalsp48?f=1653567841N65a7be1fb500262c7cf24fc5db0cfdf0&r=aHR0cHM6Ly93d3cucmFkaW8tYW8tdml2by5jb20v
+
+#EXTINF:-1 type="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio22972_1514309738.jpg" group-title="RÁDIO",RÁDIO TROMBETAS
+http://streamaudio.grupoumbrella.com.br:10059/stream/1/
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5Xf6byECRJ.png" group-title="RÁDIO",RÁDIO TOP FM 104.1
+https://centova.svdns.com.br:20019/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/HImamKf.png" group-title="RÁDIO",RÁDIO Top FM
+http://cloud1.cdnseguro.com:8320/;
+
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hArcV8KLFk.png" group-title="RÁDIO",RÁDIO TROPICAL 107.9 FM
+https://8199.brasilstream.com.br/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tropical.png" group-title="RÁDIO",Radio Tropical 105.9 FM
+http://stm2.matutos.com.br:10136/stream
+
+#EXTINF:-1 type="radio" tvg-logo="https://br.radio.net/images/broadcasts/7b/d6/7464/c300.png" group-title="RÁDIO", RÁDIO TOP LATINO
+http://online.radiodifusion.net:8020/latino?1501875071552
+
+#EXTINF:-1, type="radio"tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Torres FM
+http://cast4.audiostream.com.br:8661/mp3
+
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Tramandai FM
+http://cast4.audiostream.com.br:8658/mp3
+
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/mNToXib.png" group-title="RÁDIO",RÁDIO Trianon
 http://afiliadamix2.crossradio.com.br:9008/;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mHZqi6i.png" group-title="RÁDIO",RÁDIO Top Gospel FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/mHZqi6i.png" group-title="RÁDIO",RÁDIO Top Gospel FM
 http://srv1.stms.com.br:7042/;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="RÁDIO",RÁDIO UFRGS RS 
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/DfxJ2oh.jpeg" group-title="RÁDIO",Rádio Tribuna 107.9 FM
+https://everest.radionanet.com:1090/stream
+
+#EXTINF:-1 type="radio" tvg-id="" tvg-logo="https://www.tobiasbarretofm.com.br/wp-content/uploads/2016/04/NOVA-LOGO-e1459953043442.png" group-title="RÁDIO",RÁDIO Tobias Barreto FM 87,9MHz- A Rádio de Todos
+http://209.222.97.199:8244/stream
+  
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="RÁDIO",RÁDIO UFRGS RS 
 http://radioaovivo.ufrgs.br:8000/stream.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qae0yxd.png" group-title="RÁDIO",RÁDIO Universitária Natal
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Qae0yxd.png" group-title="RÁDIO",RÁDIO Universitária Natal
 http://radio.fmu.ufrn.br:8000/live.aac
+  
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/mqcFb4K.jpeg" group-title="RÁDIO",RÁDIO Vale Verde
+https://ice.fabricahost.com.br/fmvaleverde
 
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8gvh2z62anhq.png" group-title="RÁDIO",RÁDIO VILLAMIX
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8gvh2z62anhq.png" group-title="RÁDIO",RÁDIO VILLAMIX
 https://r16.ciclano.io:15012/stream
 
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/radioviolacaipira.websitenoar.net/images/slider/user_196600649.jpg" group-title="RÁDIO",RÁDIO VIOLA CAIPIRA
+#EXTINF:-1 type="radio" tvg-logo="https://spaceks.net/sites/radioviolacaipira.websitenoar.net/images/slider/user_196600649.jpg" group-title="RÁDIO",RÁDIO VIOLA CAIPIRA
 https://hts03.kshost.com.br:8544/live
 
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Xangri-La FM
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/abcuRZg.jpeg" group-title="RÁDIO",RÁDIO VIP FM
+https://streaming.inweb.com.br/vipfm1
+  
+#EXTINF:-1, type="radio" tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO",RÁDIO Xangri-La FM
 http://cast4.audiostream.com.br:8659/mp3
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHCwe7w.png" group-title="RÁDIO",Zona Norte FM
+  
+#EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/AHCwe7w.png" group-title="RÁDIO",RÁDIO Zona Norte FM
 http://sv14.hdradios.net:8168/stream
-
-
-
-
 ******************************************************************************************************************************************************************************
 RELIGIOSO
 ******************************************************************************************************************************************************************************

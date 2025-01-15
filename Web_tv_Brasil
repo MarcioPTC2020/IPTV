@@ -2850,16 +2850,13 @@ https://cr7v.short.gy/live3/v/Index.m3u8
 ******************************************************************************************************************************************************************************
 RÁDIO NA TV
 ******************************************************************************************************************************************************************************
-#EXTINF:-1,tvg-id="13" tvg-logo="https://www.radio21.de/typo3conf/ext/ch_radio21/Resources/Public/Assets/radio21_logo.svg" group-title="RÁDIO NA TV",RÁDIO📻 21 TV
-https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w507511044_b2628000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.40grausfm.com.br/assets/img/logo-header.png" group-title="RÁDIO NA TV",RÁDIO📻 40 GRAUS 102.5
 https://radio40graus.brasilstream.com.br/hls/radio40graus/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="RADIO 51 TV" tvg-logo="" group-title="RÁDIO NA TV",RADIO📻 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="RÁDIO NA TV",RÁDIO📻 87,7 FM (TRÊS RIOS)
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="RÁDIO NA TV",RÁDIO📻 87.7 FM (TRÊS RIOS)
 https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="RÁDIO NA TV",RÁDIO📻 94 LIVE (DIVINOPOLIS MG)
@@ -2874,14 +2871,11 @@ https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1824512953.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RÁDIO NA TV",RÁDIO📻 95 FM (BAHIA)
 https://stream01.ouveai.com.br:19360/95fmoficialtv/95fmoficialtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBFBOm0c6Kh9qjUdDyoWwVMYcYwiBumWK-7xcBsKpuMk0-xQu18AsWuRRAudE_oA94Bo&usqp=CAU" group-title="RÁDIO NA TV",RÁDIO📻 96 FM NATAL RN
-https://www.youtube.com/embed/nN0HaHxUWsQ
-
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/3d8e465062113441912777de6350c3f7.jpg" group-title="RÁDIO NA TV",RÁDIO📻 97.9 Q FM
 https://qfm.geraistec.com.br/hlsq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.98live.com.br/images/logo-98.svg" group-title="RÁDIO NA TV",RÁDIO📻 98 LIVE
-https://www.youtube.com/embed/zLiWnU06Phc
+
 
 #EXTINF:-1 tvg-logo="https://98fmnatal.com.br/wp-content/themes/98-fm-jvm/inc/site/assets/images/logo.webp" group-title="RÁDIO NA TV",RÁDIO📻 98 FM NATAL
 https://video04.logicahost.com.br/98fm/98fm/chunklist_w1913853435.m3u8
@@ -2902,22 +2896,20 @@ https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radioatividade.com.br/wp-content/uploads/2023/06/logo-atividade-1.png" group-title="RÁDIO NA TV",RÁDIO📻 ATIVIDADE FM 107.1
-https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
+https://cdn.livespanel.com/radioatividade/live/chunks.m3u8?nimblesessionid=4056293
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oAXmSzGQU54/maxresdefault.jpg" group-title="RÁDIO NA TV",RADIO📻 AURI VERDE BAURU
-https://ythls.armelin.one/channel/UCLHIUIBIid6qpljFBWEOHSw.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://alphafm.com.br/wp-content/uploads/2023/10/Alpha-logo.png" group-title="RÁDIO NA TV",RÁDIO📻 ALPHA FM 101.7
 https://live-b.cf.dmcdn.net/sec2(FDndS0Plde4hi94z0q2B5V-XbpT2aT7JjGwy85_9NUWC4PRTUfB_1xyQhIBk7EGAwSbD3IwBoI1nlnyTk408mRLdumJaxMzj8mMB6lmkf_ykzw8R-nqCQq93gIIfQi63)/dm/3/x82yivf/s/live-1080.m3u8#cell=lcfb
 
-#EXTINF:-1 tvg-logo="https://www.radioastralfm.com.br/wp-content/uploads/elementor/thumbs/cropped-logo-radio-astral-fm-jandira-pcsl7xiusw248am6beiuhiedknh3vd5uw4fff07s6a.png" group-title="RÁDIO NA TV",RÁDIO📻 ASTRAL FM 87.5
+#EXTINF:-1 tvg-logo="https://www.radioastralfm.com.br/wp-content/uploads/elementor/thumbs/cropped-logo-radio-astral-fm-jandira-pcsl7xiusw248am6beiuhiedknh3vd5uw4fff07s6a.png" group-title="RÁDIO NA TV",RÁDIO📻 ASTRAL FM 87.5 off
 https://5a57bda70564a.streamlock.net/astralfm/astralfm.sdp/chunklist_w947216921.m3u8
 
 #EXTINF:-1 tvg-logo="https://freight.cargo.site/t/original/i/9ef958c853361436afe1fdfe73f2ffa78718fae645cc5fc4c7f5c5ad86ad064c/Frame-26.png" group-title="RÁDIO NA TV",RÁDIO📻 BANDEIRANTES (Y)
-https://www.youtube.com/embed/7PkCVUbHBJU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png" group-title="RÁDIO NA TV",RÁDIO📻 BAND NEWS FM (Y)
-https://www.youtube.com/embed/Dj_VpRq7c24
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.birikina.it/wp-content/uploads/2020/02/radio-birikina-logo.png" group-title="RÁDIO NA TV",RADIO📻 BIRIQUINA 
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1014410521.m3u8?fluxustv.m3u8
@@ -2927,7 +2919,7 @@ https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w10144
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="RÁDIO NA TV",RADIO📻BLINK 102 FM
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/chunklist_w1799739845.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://radiocafeviola.com.br/images/radio-cafe-viola.png" group-title="RÁDIO NA TV",RADIO📻 CAFÉ VIOLA
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://radiocafeviola.com.br/images/radio-cafe-viola.png" group-title="RÁDIO NA TV",RADIO📻 CAFÉ VIOLA off
 https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w245670010.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/capital.png" group-title="RÁDIO NA TV",RADIO📻 CAPITAL
@@ -2948,19 +2940,19 @@ https://video01.kshost.com.br/fabio2861/fabio2861/playlist.m3u8?t=1734552354
 #EXTINF:-1 tvg-logo="https://imgur.com/hywBzmx.png" group-title="RÁDIO NA TV",RÁDIO📻 CIDADE FM 104.1
 https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="RÁDIO NA TV",RÁDIO📻 CONEXÃO 1045 FM
+#EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="RÁDIO NA TV",RÁDIO📻 CONEXÃO 1045 FM off
 https://virtues.es:1936/indfm/indfm/chunklist_w368502117.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RÁDIO NA TV",RÁDIO📻 CONTINENTAL AM 590
-https://www.youtube.com/embed/pK0BeDa9GBY
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61UMNKhQr9L.png" group-title="RÁDIO NA TV",RÁDIO📻 COLMEIA NEWS 89.7 FM
-https://www.youtube.com/embed/A5hDVUiaArc
+
 
 #EXTINF:-1 tvg-logo="http://portalclubenews.com/wp-content/uploads/2021/10/logo-pcn.png" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE NEWS FM 90.9 de Teresina PI 
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-13332/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://clubefm92.com.br/hf-conteudo/uploads/layout/logo_d1c4869b1791a2aed224265064f8735c.png" group-title="RÁDIO NA TV",RÁDIO📻CLUBE FM 92.7 (Santo Antônio de Jesus, BA,)
+#EXTINF:-1 tvg-logo="https://clubefm92.com.br/hf-conteudo/uploads/layout/logo_d1c4869b1791a2aed224265064f8735c.png" group-title="RÁDIO NA TV",RÁDIO📻CLUBE FM 92.7 (Santo Antônio de Jesus BA)
 https://a.cdni.live/clubefmsaj/clubefmsaj/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioclube98.com/images/logo_1146086404.png" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE 98.3 (Patos de Minas)
@@ -2972,7 +2964,7 @@ https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_
 #EXTINF:-1 tvg-logo="https://fmclubeteresina.com.br/wp-content/uploads/2024/08/cropped-LOGO-CLUBE-FM-NOVA-150x150-1.png" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE FM 99.1 Teresina
 https://srv6.zcast.com.br/azcastwebtv/azcastwebtv/chunklist_w697218801.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HsqPpTK.png" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE FM 99.7
+#EXTINF:-1 tvg-logo="https://imgur.com/HsqPpTK.png" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE FM 99.7 (Patos de Minas) off
 https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8?token=10372025852618550000
 
 #EXTINF:-1 tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/1/logonova-site.png" group-title="RÁDIO NA TV",RÁDIO📻 CLUBE FM 100.5 (RIBEIRÃO PRETO)
@@ -3005,11 +2997,11 @@ https://videostreamingserver.septecloud.com.br/memfs/901fcb1b-0801-4bf7-9301-0fb
 #EXTINF:-1 tvg-logo="https://radioculturafm.com.br/wp-content/themes/culturafm/img/logo.png" group-title="RÁDIO NA TV",RÁDIO📻 CULTURA FM 95.1 (UBERLANDIA)
 https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11902_1647954248.jpg" group-title="RÁDIO NA TV",RÁDIO📻 CULTURA FM 107.9 (TERESINA)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11902_1647954248.jpg" group-title="RÁDIO NA TV",RÁDIO📻 CULTURA FM 107.9 (TERESINA) off
 https://ssh101-fl.bozztv.com/ssh101/fmculturathe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1024px-CBN_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 CBN SP 90.5
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM2MjkzNzM4LCJpYXQiOjE3MzYyMDczMzgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9udS9mKGJNaW49NTU4OTc2LGR2cj0xMjApL2NibnNwMjRoYS9wbGF5bGlzdC5tM3U4In0.g9fwXoI-iCOCPG7hC3P-1x4xQDDsXJYvog-HpHP3ipyvLD3hZAGRsN6hMHzXMYECSsvi5QrezQTjFHTKkS16a7aFbgFONdyDOvCgYh13zxjFZfqQAk8_ZnRfYcriAVGY9upTNPwugIwwGqzEY27AGAMMQ1Bd456TPRjpSuzaB72H1-5DOcGhcesLSP4Hys21AWOVo67I3rrc-XJlP0UFwYrpkyYLn2N_jgNQxGPCDEVQeW8FYpTTBaVBqtmh0QCWTEaSgKN-soHTCkD8DBd2dR29NuAILkAM2iKVHBNSVncu6O8CKuiDAvDHEMNFuoX1lf80FSDRrgrjUnyGpsarDA/nu/f(bMin=558976,dvr=120)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
+https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM3MDI2MDM0LCJpYXQiOjE3MzY5Mzk2MzQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9udS9mKGJNaW49NTU4OTc2LGR2cj0xMjApL2NibnNwMjRoYS9wbGF5bGlzdC5tM3U4In0.GBJGorx2fBfmnV9_O7OI6QNuJvZ-7iXl4S_i_DYs4hnDAPFc-w9fHXXcyYR0ddP3x0Orksa7qFACCZVCZPy0xZxSJNsUWvxP9RVeTxp54jMXreiLbrbXyVZQUf4pOnvC1rnlMF6E4h_n2CmXUYOtzQgM_GmkG_06VaUvs4UBO59Vliz2U_bwqJGx-wZfQ2eMc8f3c571tMa9earMi4jknOVNhP1a9HGcLvLhU9trCWIMWip0Cx1wP7quCiKWaTQ99o_HzDJmCgnGceotxUGWjnZfvuVAEUhqUR7CXA4eSbIRA6jJh2pNuxpJ84gg0LyGJT7A1om_TFnCCe7dDykcxg/nu/f(bMin=558976,dvr=120)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-logo="https://cvmais.com/wp-content/uploads/2020/08/icone512-radiocvmais975.png" group-title="RÁDIO NA TV",RÁDIO📻 CV MAIS 97.5 FM
 https://59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/chunklist_w1469540211.m3u8
@@ -3041,7 +3033,7 @@ https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeira
 #EXTINF:-1 tvg-logo="https://estudioafm.com/wp-content/uploads/2023/01/logo-1.png" group-title="RÁDIO NA TV",RÁDIO📻 ESTÚDIO A FM 87.5
 https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w428511670.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/AYYFpY3.png" group-title="RÁDIO NA TV",RÁDIO📻 ENCONTRO DAS AGUAS
+#EXTINF:-1 tvg-logo="https://imgur.com/AYYFpY3.png" group-title="RÁDIO NA TV",RÁDIO📻 ENCONTRO DAS AGUAS off
 https://cs1.xcast.com.br/9236/9236/chunklist_w581512732.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61gq36mLQ2L.png" group-title="RÁDIO NA TV",RÁDIO📻 EVANGÉLICA 100.7
@@ -3054,7 +3046,7 @@ https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gzhstories.clicrbs.com.br/wp-content/uploads/2023/04/GAUCHA-COM-CONCEITO-LARANJA-1.png" group-title="RÁDIO NA TV",RÁDIO📻 GAUCHA GHZ
-https://www.youtube.com/embed/5hc5SXshbGM
+
 
 #EXTINF:-1 tvg-id="MIRA RG" tvg-logo="https://d1oldvcs710rcb.cloudfront.net/content_cards/59404cb9d81440b9b8d53f172fea705f.png" group-title="RÁDIO NA TV",RÁDIO📻 GALEGA
 https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8
@@ -3066,19 +3058,19 @@ https://virtues.es:1936/gospel90/gospel90/chunklist_w1703827548.m3u8
 http://lova.me/hls/hit.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="HUILA TV" tvg-logo="" group-title="RÁDIO NA TV",RÁDIO📻 HUILA TV
-https://plataformavideo.com:19360/8020/8020.m3u8
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="RÁDIO NA TV",RÁDIO📻 INTERATIVA FM 94.9
-https://video09.logicahost.com.br/interativafm/interativafm/chunklist_w590148456.m3u8
+https://video09.logicahost.com.br/interativafm/interativafm/chunklist_w1796157755.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://massimoemanuelli.files.wordpress.com/2017/10/radio-italia-tv.jpg" group-title="RÁDIO NA TV",RADIO📻 ITALIA TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://independente.com.br/wp-content/uploads/2017/03/Logotipo_Grupo-Independente-1.png" group-title="RÁDIO NA TV",RÁDIO📻 INDEPENDENTE
-https://livestream.zazerconer.workers.dev/channel/UCpcPTrDqhqKYtliULmn6KrQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://medias.itatiaia.com.br/99/b3/4744058d485095027397c35e93fe/itatiaia-esporte.png" group-title="RÁDIO NA TV",RÁDIO📻 ITATIAIA LIVE
-https://www.youtube.com/embed/kUfg5Q4CwYM
+
 
 #EXTINF:-1 tvg-logo="https://radioiguazu.com/wp-content/uploads/2020/03/radio_yguazu.png" group-title="RÁDIO NA TV",RÁDIO📻 IGUAZU
 https://live.enhdtv.com:8081/radioiguazutv/tracks-v1a1/mono.m3u8
@@ -3089,23 +3081,23 @@ https://video05.logicahost.com.br/inovafm/inovafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="RÁDIO NA TV",RÁDIO📻 JK FM 102.7
 https://srv1.zcast.com.br/jkfm/jkfm/chunklist_w1498145396.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/R%C3%A1dio_Jornal_logo.svg/1200px-R%C3%A1dio_Jornal_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 JORNAL 780 AM 90,3 FM
-https://live-b.cf.dmcdn.net/sec2(p0eGTYeytKEOmbpFF-79hOaO7AYLuZdSQxlG5RSB-T3O1IX0Rr2xMBY_GGfJwmX9PgCvrQCqku0lB4NdO6yJ64yhR0PTBD9gCeOQMh3yFjYesDf78UuchIiIqJqFPXkK)/dm/3/x8xq2p2/d/live-380.m3u8#cell=lcfb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/R%C3%A1dio_Jornal_logo.svg/1200px-R%C3%A1dio_Jornal_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 JORNAL 780 AM 90.3 FM
+https://live-b.cf.dmcdn.net/sec2(46oZP1MqU9PfDFTWti-JIwmn6LWw4EYdpf30lCJbBe_CTxc-798oB7nZAuntIjPuMBtb13VXISSFECDtkTomROZXp-2311ZaENu9CjJtfWDIY7ZauxX_YC0p7F585giJ)/dm/3/x8tkmh4/s/live-720.m3u8#cell=lcfb
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.jovemhits.com.br/public/12644-2024-09-19.png" group-title="RÁDIO NA TV",RÁDIO📻JOVEN HITS
 https://streamlov.alsolnet.com/jovemhits/live/chunklist_w1088247296.m3u8
 
-#EXTINF:-1 tvg-logo="https://lupa1.com.br/images/site/2024/brand-lupa1-fm.png" group-title="RÁDIO NA TV",RÁDIO📻 LUPA 1 FM
+#EXTINF:-1 tvg-logo="https://lupa1.com.br/images/site/2024/brand-lupa1-fm.png" group-title="RÁDIO NA TV",RÁDIO📻 LUPA 1 FM off
 https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w235472248.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RÁDIO NA TV",RÁDIO📻 LA RED AM 910
-https://www.youtube.com/embed/Rh7ScegLEpA
+
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/df/83/df83f4e025d2d4682d46fc65894add74.png" group-title="RÁDIO NA TV",RÁDIO📻LIBERAL FM 87.9
 https://video01.kshost.com.br:4443/abecap6931/abecap6931/chunklist_w2120048605.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kBz6Znn.png" group-title="RÁDIO NA TV",RÁDIO📻 LITORAL FM
-https://5ad482a77183d.streamlock.net/jdubonetgmail.com/jdubonetgmail.com/chunklist_w1244749248.m3u8
+https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/chunklist_w815960785.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="RÁDIO NA TV",RÁDIO📻 MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
@@ -3113,14 +3105,14 @@ https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m
 #EXTINF:-1 tvg-logo="https://radiomarumby.com.br/wp-content/uploads/2021/08/logo-marumby-3.png" group-title="RÁDIO NA TV",RÁDIO📻 MARUMBY
 https://5a2b083e9f360.streamlock.net/marumby/marumby.sdp/chunklist_w368596073.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="RÁDIO NA TV",METROPOLITANA TAUBATÉ
-https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w31794134.m3u8
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="RÁDIO NA TV",RÁDIO📻 METROPOLITANA TAUBATÉ
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w394294620.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="RÁDIO NA TV",RÁDIO📻METROPOLITANA GUARATINGUETÁ 
-https://cdn.cdnseguro.com/metroguara/metroguara/chunklist_w225835756.m3u8
+https://cdn.cdnseguro.com/metroguara/metroguara/chunklist_w1139308946.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P2U5o2wC9ViSIY6uMGHBr5xx9qFnytUTT0mo8Fs8lFG7n1foRiGbdndmCyE1t-kgNr0" group-title="RÁDIO NA TV",RÁDIO📻 MITRE
-https://www.youtube.com/embed/KYOGt-HvGPg
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_Mirante_FM.png" group-title="RÁDIO NA TV",RÁDIO📻 MIRANTE FM 96.1 (São Luís)
 https://cdn.live.br1.jmvstream.com/w/LVW-16711/LVW16711_819YMhvQy4/chunklist.m3u8
@@ -3177,13 +3169,13 @@ https://stmv1.srvsite.com/onda/onda/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8258/8258/chunklist_w1487697632.m3u8
 
 #EXTINF:-1 tvg-logo="https://ouroverdefm.com.br/wp-content/uploads/2022/12/ouroverde-1.svg" group-title="RÁDIO NA TV",RÁDIO📻 OURO VERDE FM 105.5
-https://www.youtube.com/embed/FkUdFPz6zGI
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/507809bb4d141e7486317b4ced00e8d1.webp" group-title="RÁDIO NA TV",RÁDIO📻Radio Ovacion
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w418348153.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://positivafm.com.br/storage/uploads/logo/51999e79-60a2-45be-ac95-fe8a536dfc88.png" group-title="RÁDIO NA TV",RÁDIO📻 POSITIVA 99.1
-https://video02.logicahost.com.br/positivafm/positivafm/chunklist_w713204643.m3u8
+https://video02.logicahost.com.br/positivafm/positivafm/chunklist_w1726200671.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="RÁDIO NA TV",RÁDIO📻 PLANALTO FM 105.9
 https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
@@ -3196,9 +3188,6 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="RÁDIO NA TV",RÁDIO📻 REDENTOR
 https://virtues.es:1936/redentor/redentor/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="RÁDIO NA TV",RÁDIO📻 REDE CLUBE
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/a0/60/139910/1/c300.png" group-title="RÁDIO NA TV",RÁDIO📻 REDE BLITZ
 https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w977563972.m3u8
@@ -3227,7 +3216,7 @@ https://ztnr.rtve.es/ztnr/6782425.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 ᴴᴰ 🇮🇹
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 News ᴴᴰ 🇮🇹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 News ᴴᴰ 🇮🇹🎧
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 BEST 🇮🇹
@@ -3237,7 +3226,7 @@ https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OE
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b2816000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 CALIENTE 🇮🇹
-https://streamcdnb3-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b2816000.m3u8
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b4521984.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",RÁDIO📻 RTL 102.5 DOC 🇮🇹
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b2816000.m3u8
@@ -3252,7 +3241,7 @@ https://stmv1.srvif.com/rtvabais/rtvabais/chunklist_w1059888617.m3u8
 https://stream.rdstv.radio/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://back.ww-cdn.com/apiv3/cdn/1298119/apiv3/release/iphone/12/photo/root_swipe_header_elements_149806945021_image@iphone6plus.png?v=1555941274" group-title="RÁDIO NA TV",RÁDIO📻 SOCIEDADE
-https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w98903025.m3u8
+https://painel.sintonizar.tv.br:19360/sociedadevideo/sociedadevideo.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="RÁDIO NA TV",RÁDIO📻 SUPRA FM 
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
@@ -3279,10 +3268,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-19064/LVW19064_SkS5KoFxo2/chunklist.m3u
 https://stmv8.samcast.com.br/grupoterrafm/grupoterrafm/chunklist_w1605363568.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N4ccQ7_g0ragpFxHHKq0XTgcfcyGRPtD18LeuYdyZmoA2M6hNNEQVkpx-5UDB2hqvM4=w600-h300-pc0xffffff-pd" group-title="RÁDIO NA TV",RÁDIO📻 TUPI FM 96.5 (Y)
-https://www.youtube.com/embed/-SJ4j7oTkqI
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rede_Transam%C3%A9rica_logo.png/640px-Rede_Transam%C3%A9rica_logo.png" group-title="RÁDIO NA TV",RÁDIO📻 TRANSAMÉRICA ESPORTES
-https://ythls.armelin.one/channel/UC7COFHIM1-Osm9Sm0qIz-xQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.rtmbrasil.org.br/logo-negativo.png" group-title="RÁDIO NA TV",RÁDIO📻 TRANS MUNDIAL
 https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8
@@ -3297,10 +3284,10 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://cdn1.str.srv.br/CM7002/CM7002/chunklist_w1843507793.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://tropicalfm89.com.br/storage/config/1529582023022263f65f2649e46.png" group-title="RÁDIO NA TV",RÁDIO📻 TROPICAL FM 89.9
-https://serv3.videovox.pw/tropicalfm/tropicalfm/chunklist_w1748829310.m3u8
+https://s1.tvr.ovh/tropicalfm/tropicalfm/chunklist_w1699144645.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://radiotropicalvix.com.br/wp-content/uploads/2023/09/Logo_R-dio_Tropical-1037-branco.png" group-title="RÁDIO NA TV",RÁDIO📻 TROPICAL 103.7
-https://5a57bda70564a.streamlock.net/tropicalvix/tropicalvix.sdp/chunklist_w125544279.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/lc0oi6ih/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="RÁDIO NA TV",RÁDIO📻 UIRAPURU
 https://video09.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8

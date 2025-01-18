@@ -2689,6 +2689,9 @@ https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=2
 #EXTINF:-1 tvg-logo="https://www.vuepilot.com/images/logo/leadstory-symbol.png" group-title="NOTICIAS",🗞LeadSTORY
 https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="NOTICIAS",🗞 MEXIQUENSE NOTICIAS 34.2
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-color-1680x840.png" group-title="NOTICIAS",🗞MSNBC News 1
 https://nbcnewslive.akamaized.net/hls/live/2093245/nbc_live3/index.m3u8
 

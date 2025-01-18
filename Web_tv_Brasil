@@ -2660,7 +2660,7 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cyprusinno.com/wp-content/uploads/2022/05/france24.png" group-title="NOTICIAS",🗞FRANCE 24 
-https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+https://marine2.miplay.cl/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" group-title="NOTICIAS",🗞FOX NEWS 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -2802,6 +2802,9 @@ http://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIqlKGq212IVR-X8gOBARG9ezpaj-FJUGqg&s" group-title="NOTICIAS",🗞TCM10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Noticias_Univision_logo_2019.svg/1280px-Noticias_Univision_logo_2019.svg.png" group-title="NOTICIAS",🗞 UNIVISION NOTICIAS 
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 ******************************************************************************************************************************************************************************
 NOVELAS
 ******************************************************************************************************************************************************************************

@@ -2674,6 +2674,9 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" group-title="NOTICIAS",🗞FOX NEWS 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 ,tvg-logo="https://l1nq.com/qziHm" group-title="NOTICIAS",🗞FOX News NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/WHBQ-TV_logo.png/150px-WHBQ-TV_logo.png" group-title="NOTICIAS",🗞FOX 13 Memphis NOW
 https://amg02104-imagicommcommun-whbqbreaking-newson-46m1s.amagi.tv/playlist.m3u8
 

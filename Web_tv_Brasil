@@ -7432,56 +7432,35 @@ http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://pa-str.srvsite.com/arquivos/4655/cabecalho-4655-20201119141633.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",FC WEB TV
 https://5a0c3936c25c8.streamlock.net/8218/8218/chunklist_w881441805.m3u8
  
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO  AM
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/530
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO DF
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/51
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO ES 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1089
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO ES
-http://15.235.15.230:14450/
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO MG 
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO MS
-http://15.235.15.230:14504/
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO PR 
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO PE (TV Asa Branca)
-http://15.235.15.230:14492/
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO PR (RPC Curitiba)
-http://15.235.15.230:14487/
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO RJ 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO RJ 
+#EXTINF:-1 tvg-logo="https://logo#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO RJ 
 https://stream1.freetv.fun/globo-rj-1.ctv
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO RS
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO SP 
+http://czcdn.vood.top/hls/289881_.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO RS (BS TV)
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO SP 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO  SP 
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO SP 
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO SP (TV Santos)
-http://15.235.15.230:14488/
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO ʀᴊᶠᴴᴰ
+http://ezcdn.vood.top/hls/2376_.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO SP (TV TEM SP)
-http://15.235.15.230:14492/
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO ʙᴀ
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO SC (NSC TV)
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/515
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBOo ᴍı 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+#EXTVLCOPT:http-origin=https://embedstream.org/
+#EXTVLCOPT:http-referrer=https://embedstream.org/
+https://anonstream.zip/globomg-globominas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GLOBO tv Santosᴸᴼᵂ
+http://15.235.15.230:14513/GloboSantos
+
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://pa-str.srvsite.com/arquivos/6757/cabecalho-6757-20210726005928.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",GUARANTÂ RADIO TV
 https://stmv1.samcast.com.br/guarantaradiotv/guarantaradiotv/chunklist_w376620990.m3u8

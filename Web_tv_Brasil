@@ -2862,11 +2862,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBuIJnUHZZy29ddzhQ0bEZSVMoUxzZWRhR0fkpLrjpAg&s" group-title="NOVELAS",🟢TNT Novelas
 http://super-cdn.link/tntnovelas/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Rede TVT" tvg-logo="https://pbs.twimg.com/media/F_uFapZWcAAw7xa?format=png&name=large" group-title="NOVELAS",🟢ViVA HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
+#EXTINF:-1 tvg-id="ext" tvg-name="Rede TVT" tvg-logo="https://pbs.twimg.com/media/F_uFapZWcAAw7xa?format=png&name=large" group-title="NOVELAS",🟢ViVA 
+https://0002-dtvott.o5uftzrqlf.workers.dev/https://live-as-02-16.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMTYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM2NzYwNDY0LCJpYXQiOjE3MzY2NzQwNjQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNjFlMTBhNmYtNDRhNi00MmQ5LThiMjEtMmQ1ZTkyOTc3NzdmIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0yMDAwKS92aXZhMjRoYS9wbGF5bGlzdC5tM3U4In0.ZKrNKKj0kGdnFX-m-aNG7alsHp0k0KtE_R5xrRPgn0_OEb6YmwC9263SJewyWbUfvqUpEiBn6wzyiVs44NsAcv5LZgNuSBy-KcaZKTIfQe9l-dU3iXQ_ty43YMvNPFj4bp3zdcv1vZ1vWsR26poDtWDyr2Y08xjfm2LPigymQuRSSUrhmqPv54W9SFlR5-ZArsq370gzoZ1cF9FrIEFr1voQ-Z3jE7VWnmCWF8JGsmKRRDkmxUo9-38KydK_oyDMPF8SZrN9oB-yGa8gH_kkkd3_f2iGlR5vL_f0V2JdumKTQzrysC-VM-HbQSumh9b8gPOhUOJRAcIeRIdwlo7IFg/live/f(bMin=2000)/viva24ha/viva24ha-audio_1=96000-video=3442944.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Rede TVT" tvg-logo="https://pbs.twimg.com/media/F_uFapZWcAAw7xa?format=png&name=large" group-title="NOVELAS",🟢ViVA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Rede TVT" tvg-logo="https://pbs.twimg.com/media/F_uFapZWcAAw7xa?format=png&name=large" group-title="NOVELAS",🟢ViVA 
 https://cr7v.short.gy/live3/v/Index.m3u8
+
+#EXTINF:-1 cuid="335" tvg-chno="335" tvg-name="Viva 🇧🇷" tvg-id="VIVA" tvg-logo="https://pbs.twimg.com/media/F_uFapZWcAAw7xa?format=png&name=large" group-title="NOVELAS",🟢ViVA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.club/viva/index.m3u8
+
+#EXTINF:-1 cuid="335" tvg-chno="335" tvg-name="Viva 🇧🇷" tvg-id="VIVA" tvg-logo="https://pbs.twimg.com/media/F_uFapZWcAAw7xa?format=png&name=large" group-title="NOVELAS",🟢ViVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://embedstream.org/
+https://anonstream.zip/viva/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/4694.svg/revision/latest/scale-to-width-down/200?cb=20221122012746" group-title="NOVELAS",🟢VIVE KANAL D DRAMA
 https://amg01602-themahqfrance-vivekanalddrama-runtimeusa-k7wf8.amagi.tv/playlist/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=37.120.142.231&ads.ip=37.120.142.231

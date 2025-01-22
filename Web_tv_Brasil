@@ -332,6 +332,9 @@ https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfc6J7cVNVrcFBM7OJOXcMK0_nmRPnMa6Bo27417gmg&s" group-title="ESPORTE",⚽Manchester United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/473dc750652d9ae1930de51f914033d7.webp" group-title="ESPORTE",⚽MLB Network
+https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="ESPORTE",⚽NFLᴴᴰ 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
 

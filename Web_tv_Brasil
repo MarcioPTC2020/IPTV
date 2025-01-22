@@ -7190,6 +7190,17 @@ https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w1382488545.m3u8
 #EXTINF:-1 tvg-logo="http://baianafm.com.br/wp/wp-content/uploads/2017/05/novo-baiana-logo.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",BAHIANA TV  (TV BRASIL)
 https://stmv1.srvstm.com/radio9815/radio9815/chunklist_w843791817.m3u8
 
+#EXTINF:-1 tvg-logo="http://baianafm.com.br/wp/wp-content/uploads/2017/05/novo-baiana-logo.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",BAHIANA TV  (TV BRASIL)
+https://stmv1.srvstm.com/radio9815/radio9815/chunklist_w843791817.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/1200px-Band_Marca.svg.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",BAND
+http://fzcdn.vood.top/hls/255465_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/1200px-Band_Marca.svg.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",BAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com
+https://embedcanaistv.club/bandsp/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/1200px-Band_Marca.svg.png" group-title="🔰  cᴀɴᴀis 🇧🇷  🔰",BAND SP
 https://super-cdn.link/band/index.m3u8
 

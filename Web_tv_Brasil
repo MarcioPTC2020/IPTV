@@ -1665,6 +1665,9 @@ http://24hrs.homelinux.com/24H-Jiraya/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" group-title="INFANTIL",🦸TOON GOGGLES 
 https://stream.ads.ottera.tv/cl/250104ctsl801e1mkdn8ef4u1g/1280x720_3071200_0_f.m3u8?i=475_274
 
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="INFANTIL",🦸Toonz Kids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="INFANTIL",🦸TV RA TIM BUM 
 http://cdn-1.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8
 

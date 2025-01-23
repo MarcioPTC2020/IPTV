@@ -8809,31 +8809,43 @@ https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:ADN 40 
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ADN40/20-hls/live-media.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZ CORAZON
-https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA Internacional 
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZ MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Azteca Internacionalᶠᴴᴰ 🇲🇽
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZ CLIP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Aztecaᴸᴼᵂ 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA 7
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA CORAZON
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA MUNDO
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA CLIP
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA NOROESTE 
 https://live.info7.mx/info7/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA UNO 1.1 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA UNO 
 http://187.249.112.44:9981/stream/channelid/1290009922?profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA 7
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA Internacional 
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Azteca Uno 
+http://181.78.105.146:2000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AZTECA GUATE 
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -8844,16 +8856,67 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:AMX NOTICIAS 34.2
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Anger Managment
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtespanol-runtimelatam/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:BUAP
 https://tvenvivo.buap.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:BJGTJME 
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL 5
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 5 
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS CD MEXICO (480p)
+http://181.78.105.146:2000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS CD MEXICO
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS MTYMULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS MTY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS LAGUNA
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS LAGUNA
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS MONTERREY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS GUADALAJARA
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS PUEBLA
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS BAJIO
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 6 MULTIMEDIOS SALTILLO
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL 7 SLP
 https://mvtvstream.com:444/live/667ec6d70825c/index.m3u8
 
-#EXTINF:-1 ,tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 10 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 8 HD
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 10 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL 10 Y HERALDO Tv 
@@ -8865,11 +8928,20 @@ https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/chunklis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/tvlive1/chunklist_w1681399340.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL DIEZ CHIAPAS
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w350967554.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:HGO CANALDIEZ.TV
-https://canaldiez.tv/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 10 RTQ
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL 11.1
+https://vivo.Canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 11.1
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL CATORCE 
 http://187.249.112.44:9981/stream/channelid/1995729245?profile=pass
@@ -8883,14 +8955,32 @@ https://video.cdmx.gob.mx/redes/stream.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL 26 AGUASCALIENTES 
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 28 NL
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 57 US
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal 71 Celaya
 https://stream.ontvmx.com/ontv/zqlQBcV1Ey6od9bDi3/chunklist_w127689832_vo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal Info TV 9
 https://stream.ontvmx.com/ontv/q4fl3zyakOtmYI6QXS/chunklist_w744694998_vo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CGTN ESPAÑOL 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal del Congreso México 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal del Congreso México 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Canal del Congreso México 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CGTN 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CGTN
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CINECANAL
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
@@ -8898,11 +8988,11 @@ https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CINEMAX
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL DEL CONGRESO 45.1
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Cine Familiar 🇲🇽
+http://190.13.81.218:18000/play/a005
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CANAL DEL CONGRESO 45.2
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Cine Hispano 🇲🇽
+http://190.13.81.218:18000/play/a006
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:CDMX CANAL 6.1
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
@@ -8919,6 +9009,12 @@ https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:DEPELICULA
 http://200.115.120.1:8000/play/ca030/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:DHE
+http://181.78.105.146:8800/play/a04x
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:EXPRESA TV CELAYA 
 https://5ca9af4645e15.streamlock.net:443/teleradio/smil:teleradio.smil/playlist.m3u8
 
@@ -8928,6 +9024,15 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:EL FINANCEIRO BLOOMBERG TV
 https://live-b.cf.dmcdn.net/sec2(H1Am8ES03x__Xb1qD1BrlZs7iLvgheP-xlpH9oDBBtmbCebik3tZeveyh8ebaKBUPVdEl-nOqV1pJmBAI09svD-m80VT07GztDAOJkfM5prMInkg62EdlIO_nQ_xrBtf)/dm/3/x90qe0k/d/live-720.m3u8#cell=lcfb
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Estrella TV
+https://pubads.g.doubleclick.net/ssai/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Estrella News
+https://pubads.g.doubleclick.net/ssai/event/y1Zjs_6rS3-ltPqmaNLQDQ/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:ESTRELLA NEWS 
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FORO 4.1
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
@@ -8936,6 +9041,54 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FX
 https://streamer1.nexgen.bz/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FRANCE 24 HD 
+https://marine2.miplay.cl/france24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FRANCE 24 HD 
+https://is.gd/OREb6o
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FRANCE 24 SD  
+https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FRANCE 24 SD  
+http://45.228.232.205:16000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV 8.2
+https://freetv.stream.olympusatmedia.com/index.m3u8
+         
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV Live
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=&genre=&ic=&us_privacy=1YNY&coppa=1&user_id=&ip=&ipv6=&c_duration=3600&c_producer=chiquilines&c_rating=TV-G&c_lang=es&ua=&hls_marker=1&content_channel=Chiquilines&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120&terminate=true&sid=&deviceDNT=0&advertisingId=&deviceLat=0&deviceLon=0&deviceModel=&deviceVersion=&embedPartner=freetv&serverSideAds=true&appName=freetv&deviceId=&appVersion=&deviceType=&deviceMake=&includeDeviceUA=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV Drama
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV Sureno
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV Hits
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV Terror
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV Familia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV Banda
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV SABER MÁS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:FreeTV SABER MÁS 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Galavision Miami 🇲🇽🇺🇸
+http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=hd&.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Galavision West 🇲🇽🇺🇸
+http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:GTO TV4.1 
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
@@ -8957,6 +9110,9 @@ https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:GTO CANAL 6.1 
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:HGO CANALDIEZ.TV
+https://canaldiez.tv/live/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:H&H
 http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
@@ -9018,6 +9174,15 @@ http://187.249.112.44:9981/stream/channelid/1354356530?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:LAS ESTRELLAS 2.1 
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Las Estrellas 
+http://181.78.105.146:2000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Las Estrellas
+http://181.78.105.146:8800/play/las4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Las Estrellas (Mx)
+http://181.78.105.146:2000/play/a00g/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:LIFETIME
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
@@ -9035,6 +9200,9 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:MEXIQUENSE TV
 https://5f1af61612fb5.streamlock.net/mexiquense/videomexiquense/chunklist_w947016690.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDI1IDU6MTQ6NDQgUE0maGFzaF92YWx1ZT05Sk9qeVc5SUFxM3lLZFpSR3ZWS0lBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDEyOjI5OjU3IEFNJmhhc2hfdmFsdWU9ZnhGekR3a0ZiQm1GOE1lNjFjRVRFZz09JnZhbGlkbWludXRlcz01JmlkPQ==
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:MX FAMILY
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
@@ -9071,9 +9239,6 @@ https://live-c.cf.dmcdn.net/sec2(bDaCQpqYJ3Ct-orip15ghn5SdtHAkuM6LuMbCu_ua4AWfe6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:MVS NOTICIAS
 https://live-b.cf.dmcdn.net/sec2(_H2oP1EicIUdR1RCpUjBnOfbJ3f2TJeBnbpDF9T39jfGJgbpAVtJ_gtlLhCvhvNE-aw9DWhSV4Uo3asX1R_ine2lm1FtazKM0Pt5jEfgCIr3y_-8VALdKWQvfKNSxxl-)/dm/3/x6t7n6t/s/live-1080.m3u8#cell=lcfb
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:NUEVE
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:NAT GEO
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
@@ -9089,6 +9254,15 @@ https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal10/chunklist_w7661
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:NOWMEDIA TELEVISION
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24/chunklist_w1816566330.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:N+ MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:NUEVE TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:NUEVE TV
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:ONCE.3 Señal Digital 
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
 
@@ -9103,6 +9277,9 @@ http://181.78.105.146:2000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:ONCE NIÑOS 
 http://181.78.105.146:2000/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:PELIMEX
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:POPCORN CENTRAL 6.4
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
@@ -9131,11 +9308,32 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playli
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:SQCS
 https://video0.rogohosting.com:19360/4982/4982.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:SMRTV
+https://s5.mexside.net:1936/enlinea/enlinea/chunklist_w882957131.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TNT
+http://181.78.105.146:8800/play/a060
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Tamazula de Gordiano
 https://stream.ontvmx.com/ontv/bciQwPZ4sY8WTuCHSg/chunklist_w1975079469_vo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TELEVISA NOVELAS 
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Telemundo 
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium131/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Telemundoᶠᴴᴰ
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TELEMUNDO 51 MIAMI
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Telemundo 
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TASTEMADE
 https://amg00047-tastemade-tastemadees16international24i-ono-h4pdz.amagi.tv/playlist/amg00047-tastemade-tastemadees16international24i-ono/cb513d177b6c638c84cb3678d1d3d091a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600e66413e1ad668db7907b2ce08ed0868280811fa99c365db9a1309b2dd112a2ab4710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e4835cc9ca1abc87dc459d4a960bae46c4cea59bb041d4d7d33ab652b163470b743fddd57d919f04b78c9b243bce702c0b4f04e3a5defc193e870a4759feac9aea35a94b978a71b39d56d176f09f0b8aeb11c83a91a32585a1fbec434d2fa5c0547355d88fc2a4da45fe39fb99d884f37c6e8dfe54594acc7fd1212a42e3952aaf3ea267fa85228bf45a1c34d69041948ff0c4875036f0fd57a8f4c7e241664b730510925caf9f63cf269d7cad8e2020520d77ac9643c582d64c7a021dcfe85aa578ce7fc22c8a942e423077e798ab4deffb4f1fed39696eec2ef8d51960b6150b89233cff5727baf69dd2ec948ad4ff0f37b9df8817b13faffd26dbf817b1367c780cb7e02356410c2c84b5263e1d34e210b185efa1551c09e0f382cbf00219496b44035cdbb7a920cbd99b690a0088130770641c12a101d442d61406557d9e5080fa493cae2e1500caeb7f5153679388968484ddc50df549d6ddee3020351637f363450566c1b9805cb269182f340dce593314e549091baab8c6e7908c6b8eaf65ac39701d2c90a3400f5a04010e60fcb166d34ced9a19cbf99b08b6afe775768431b0141e99a2bb5ff9e092d24108d2c67a16659edf22854325c819d121eb83298da834e67d86b4ec18e8b569a5e3a2b80530c43835f6d0022220/195/1920x1080_4716800/index.m3u8
@@ -9157,6 +9355,9 @@ https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TELEMAR
 https://live-c.cf.dmcdn.net/sec2(wneaeLMWTs4CmrML-MufBuTEC3_y-FMmQlHHlGhWhmEUE59zrPItC5EhdW53T-AcmsqnsWZOnMo2ND5jYYWIBkBP44jejXdKWf635kzx_VIEg7aVKFgBG9xMy5m283Nb)/dm/3/x80bl3l/s/live-480.m3u8#cell=lcfc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Teleritmo TV
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=45MYCp5K2CGOq5jC2f1ipUphtqkkTnUR&sid=CaRPmFmzUvqCdRQatlPmuDWR4ZznqxoS&pid=XV70sQg0Xq2yER2E3uTn5CxgDoLLSNtO&an=screen&at=web-app&av=v5.2.295&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=312x156&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TUDN Usa
 http://200.115.120.1:8000/play/ca039/index.m3u8
@@ -9181,6 +9382,9 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TV MAR
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/chunklist_w1415964430_b3428000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TV Mar
+https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TV Guanajuato
 https://stream.ontvmx.com/ontv/HjghelocFyE7mkGdBx/chunklist_w944282459_vo.m3u8
@@ -9221,18 +9425,68 @@ https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:TRC TELEVISION
 https://5f1af61612fb5.streamlock.net/trc/videotrc/chunklist_w321121252.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Universal Premiereᶠᴴᴰ 🇺🇾
+http://181.78.105.146:8800/play/a068
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Universal Premiereᶠᴴᴰ 🇺🇾
+http://38.191.90.2:8000/play/a04o/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Universal Comedyᶠᴴᴰ 🇺🇾
+http://181.78.105.146:8800/play/a06b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Universal Comedyᶠᴴᴰ 🇺🇾
+http://38.191.90.2:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Universal Realityᶠᴴᴰ 🇺🇾
+http://181.78.105.146:8800/play/a069
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Universal Realityᶠᴴᴰ 🇺🇾
+http://38.191.90.2:8000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Universal Crimeᶠᴴᴰ 🇺🇾
+http://181.78.105.146:8800/play/a06a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Universal Crimeᶠᴴᴰ 🇺🇾
+http://38.191.90.2:8000/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Univision Miami 🇺🇸🇲🇽 🥎⚽️
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Univision East 🇺🇸🇲🇽 🥎⚽️
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=hd&.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:UNIVISION 
+https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:UNIVISION NOTICIAS VX
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:UNIVISION NOTICIAS 
+https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Unimas Miami 🇲🇽🇺🇸 🥎⚽️
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Unimas West 🇲🇽🇺🇸 🥎⚽️
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASWEST&calidad=hd&.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:USA
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:USA
 http://200.115.120.1:8000/play/ca125/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:UNIVISION 
-https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:UNIFE TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:UJAT TV
+https://5fe2654d6127d.streamlock.net/ujat/videoujat/chunklist_w2101405305.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDI1IDQ6MDA6MTIgUE0maGFzaF92YWx1ZT05TDJVbi9EbWZ1cmJoYWhaNHE1bEN3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:ULTRA FM 
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:VA+
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w1588113297_b1428000_sleng.m3u8
 ******************************************************************************************************************************************************************************
 
 ******************************************************************************************************************************************************************************

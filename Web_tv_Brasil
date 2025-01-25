@@ -2536,6 +2536,9 @@ http://super-cdn.link/bandnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png" group-title="NOTICIAS",🗞BAND NEWS
 https://cdn-2.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="NOTICIAS",🗞BLOOMBERG BR
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="NOTICIAS",🗞BLOOMBERG Europe
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 

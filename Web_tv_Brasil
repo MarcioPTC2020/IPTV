@@ -1923,6 +1923,9 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-12934/playlist/chunklist.m3u8
 #EXTINF:0 tvg-id="ext"tvg-logo="https://www.christiantruthcenter.com/wp-content/uploads/2015/10/gospel-music.jpg" group-title="MUSICA",🎶GOSPEL MUSIC
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w878490286.m3u8
 
+#EXTINF:0 tvg-id=""tvg-logo="" group-title="MUSICA",🎶Gold TV
+https://srv4.zcast.com.br/goldtv/goldtv/chunklist_w984540021.m3u8
+
 #EXTINF:-1 tvg-logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2023/09/HALLO-music-fundo-transparente.png" group-title="MUSICA",HALLO MUSIC
 https://cdn-1.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 

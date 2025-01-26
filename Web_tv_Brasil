@@ -9384,6 +9384,15 @@ http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:PELIMEX
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:PELIMEX
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:PELIMEX
+https://telecine-pelimex-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:PELIMEX
+https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:POPCORN CENTRAL 6.4
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 

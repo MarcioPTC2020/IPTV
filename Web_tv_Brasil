@@ -342,6 +342,9 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,N
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTE",⚽OFF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:http-referrer=https://embedstream.org/player5/canaloff.html
+https://anonstream.zip/canaloff/index.m3u8
 
 #EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRaa-OuxvU0GZgfIIsC-rMVG--3EM5I5wGsdoiTESNdrpikwFUNfCLF8-XtAEtTx_Ul0o&usqp=CAU" group-title="ESPORTE",⚽ONE GOLF (USA)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8

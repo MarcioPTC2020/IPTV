@@ -8798,6 +8798,15 @@ COLOMBIA
 #EXTINF:-1 ,tvg-logo="https://logodownload.org/wp-content/uploads/2023/05/bandeira-colombia-flag.png" group-title="🔰  cᴀɴᴀis latino 🔰",VC MÉDIOS
 #EXTINF:-1 ,tvg-logo="https://logodownload.org/wp-content/uploads/2023/05/bandeira-colombia-flag.png" group-title="🔰  cᴀɴᴀis latino 🔰",CANAL 9 DE MI TIERRA
 #EXTINF:-1 ,tvg-logo="https://logodownload.org/wp-content/uploads/2023/05/bandeira-colombia-flag.png" group-title="🔰  cᴀɴᴀis latino 🔰",TELE PASTO
+
+#EXTINF:-1 ,tvg-logo="https://logodownload.org/wp-content/uploads/2023/05/bandeira-colombia-flag.png" group-title="🔰  cᴀɴᴀis latino 🔰",RCN Mas+ -TCL
+https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 ,tvg-logo="https://logodownload.org/wp-content/uploads/2023/05/bandeira-colombia-flag.png" group-title="🔰  cᴀɴᴀis latino 🔰",RCN Mas+ .CA -TCL
+https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 ,tvg-logo="https://logodownload.org/wp-content/uploads/2023/05/bandeira-colombia-flag.png" group-title="🔰  cᴀɴᴀis latino 🔰",RCN Mas+ .MX -TCL
+https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
 #############################################################################################################################################################################
 COSTA RICA
 #############################################################################################################################################################################
@@ -9408,14 +9417,23 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w1087252827
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Radar TV 71
 https://stream.ontvmx.com/ontv/nHIzwOckX5rvJjoUtW/chunklist_w1447795063_vo.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:SABER MÁS 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Sony Canal Competencias 
+https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Sony One Sharktank 
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:Sony One Novelas 
+https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:STAR 
 http://50.7.137.106:8080/FOX/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:STAR CHANNEL CENTRAL AMERICA
 https://streamer1.nexgen.bz/STAR/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:SABER MÁS 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2023/04/bandeira-mexico-flag-0.png" group-title="🔰  cᴀɴᴀis latino 🔰",MX:SQCS
 https://video0.rogohosting.com:19360/4982/4982.m3u8

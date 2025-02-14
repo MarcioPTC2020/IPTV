@@ -403,6 +403,18 @@ https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" group-title="ESPORTE",⚽LA LIGA
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD3600001Q1
 
+#EXTINF:-1 tvg-id="Paramount+1.br" tvg-name="PARAMOUNT+ 1" tvg-logo="https://i.imgur.com/O4qMxo7.png" group-title="ESPORTE",LIBERTADORES (PARAMOUNT+ 1)
+http://84.16.252.219:2082/Tourobox1-Mo01HsWrzW/TdLMbaD0av/1151
+
+#EXTINF:-1 tvg-id="Paramount+2.br" tvg-name="PARAMOUNT+ 2" tvg-logo="https://i.imgur.com/O4qMxo7.png" group-title="ESPORTE",LIBERTADORES (PARAMOUNT+ 2)
+http://84.16.252.219:2082/Tourobox1-Mo01HsWrzW/TdLMbaD0av/1152
+
+#EXTINF:-1 tvg-id="Paramount+3.br" tvg-name="PARAMOUNT+ 3" tvg-logo="https://i.imgur.com/O4qMxo7.png" group-title="ESPORTE",LIBERTADORES (PARAMOUNT+ 3)
+http://84.16.252.219:2082/Tourobox1-Mo01HsWrzW/TdLMbaD0av/1153
+
+#EXTINF:-1 tvg-id="Paramount+4.br" tvg-name="PARAMOUNT+ 4" tvg-logo="https://i.imgur.com/O4qMxo7.png" group-title="ESPORTE",LIBERTADORES (PARAMOUNT+ 4)
+http://84.16.252.219:2082/Tourobox1-Mo01HsWrzW/TdLMbaD0av/1154
+
 #EXTINF:-1 tvg-id="ext" tvg-name="LIVRE TV" tvg-logo="" group-title="ESPORTE",⚽LIVRE TV
 https://video02.logicahost.com.br/livretv/livretv/chunklist_w479223410.m3u8
 

@@ -3158,6 +3158,7 @@ https://qfm.geraistec.com.br:4433/hlsq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.98live.com.br/images/logo-98.svg" group-title="RÁDIO NA TV",📻RÁDIO 98 LIVE
 
+
 #EXTINF:-1 tvg-logo="https://98fmnatal.com.br/wp-content/themes/98-fm-jvm/inc/site/assets/images/logo.webp" group-title="RÁDIO NA TV",📻RÁDIO 98 FM NATAL
 https://video04.logicahost.com.br/98fm/98fm/chunklist_w1913853435.m3u8
 
@@ -3180,6 +3181,7 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 https://a.cdni.live/radioatividade/radioatividade/chunklist_w2084559684.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oAXmSzGQU54/maxresdefault.jpg" group-title="RÁDIO NA TV",📻RADIO AURI VERDE BAURU
+
 
 #EXTINF:-1 tvg-logo="https://alphafm.com.br/wp-content/uploads/2023/10/Alpha-logo.png" group-title="RÁDIO NA TV",📻RÁDIO ALPHA FM 101.7
 https://live-c.cf.dmcdn.net/sec2(L8sj4Hn_R8WFOpjkl5mKRFSKjvbhr8_iZNJVBuPcqTduTgrppUWoXJf8ub49llLlr7376K-NGR7MSrccK9cCDIaT7yGdyaKHTfzfPyMre4EiXKmEudOiYwsO1ebysVgj)/dm/3/x82yivf/s/live-1080.m3u8#cell=lcfc
@@ -3225,6 +3227,9 @@ https://virtues.es:1936/indfm/indfm/chunklist_w368502117.m3u8
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RÁDIO NA TV",📻RÁDIO CONTINENTAL AM 590
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61UMNKhQr9L.png" group-title="RÁDIO NA TV",📻RÁDIO COLMEIA NEWS 89.7 FM
+
+#EXTINF:-1 tvg-logo="https://rdplanalto.com/wp-content/webp-express/webp-images/uploads/2022/10/CONECTA.png.webp" group-title="RÁDIO NA TV",📻RÁDIO CONECTA
+https://cdn-planaltoam.ciclano.io:1443/planaltoam/planaltoam/chunklist_w1489099763.m3u8
 
 #EXTINF:-1 tvg-logo="http://portalclubenews.com/wp-content/uploads/2021/10/logo-pcn.png" group-title="RÁDIO NA TV",📻RÁDIO CLUBE NEWS FM 90.9 de Teresina PI 
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-13332/playlist/chunklist.m3u8
@@ -3324,6 +3329,7 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gzhstories.clicrbs.com.br/wp-content/uploads/2023/04/GAUCHA-COM-CONCEITO-LARANJA-1.png" group-title="RÁDIO NA TV",📻RÁDIO GAUCHA GHZ
 
+
 #EXTINF:-1 tvg-id="MIRA RG" tvg-logo="https://d1oldvcs710rcb.cloudfront.net/content_cards/59404cb9d81440b9b8d53f172fea705f.png" group-title="RÁDIO NA TV",📻RÁDIO GALEGA
 https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8
 
@@ -3375,10 +3381,10 @@ https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/chunklist_w81596
 #EXTINF:-1 tvg-logo="https://radiomarumby.com.br/wp-content/uploads/2021/08/logo-marumby-3.png" group-title="RÁDIO NA TV",📻RÁDIO MARUMBY
 https://5a2b083e9f360.streamlock.net/marumby/marumby.sdp/chunklist_w368596073.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://redemetropolitana.com.br/wp-content/uploads/2016/03/logometro.png" group-title="RÁDIO NA TV",📻RÁDIO METROPOLITANA TAUBATÉ
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="http://redemetropolitana.com.br/wp-content/uploads/2016/12/logo-metropolitana-rodape.png" group-title="RÁDIO NA TV",📻RÁDIO METROPOLITANA TAUBATÉ
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w394294620.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://redemetropolitana.com.br/wp-content/uploads/2016/03/logometro.png" group-title="RÁDIO NA TV",📻RÁDIO METROPOLITANA GUARATINGUETÁ 
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="http://redemetropolitana.com.br/wp-content/uploads/2016/12/logo-metropolitana-rodape.png" group-title="RÁDIO NA TV",📻RÁDIO METROPOLITANA GUARATINGUETÁ 
 https://cdn.cdnseguro.com/metroguara/metroguara/chunklist_w1139308946.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P2U5o2wC9ViSIY6uMGHBr5xx9qFnytUTT0mo8Fs8lFG7n1foRiGbdndmCyE1t-kgNr0" group-title="RÁDIO NA TV",📻RÁDIO MITRE
@@ -3444,7 +3450,7 @@ https://video02.logicahost.com.br/positivafm/positivafm/chunklist_w1726200671.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="RÁDIO NA TV",📻RÁDIO PLANALTO FM 105.9
 https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-title="RÁDIO NA TV",📻RÁDIO PLANALTO NEWS 92.1
+#EXTINF:-1 tvg-logo="https://rdplanalto.com/wp-content/webp-express/webp-images/uploads/2024/01/news-horizontal-Copia.png.webp" group-title="RÁDIO NA TV",📻RÁDIO PLANALTO NEWS 92.1
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Q-music_logo.png" group-title="RÁDIO NA TV",📻RÁDIO Q MUSIC
@@ -3485,7 +3491,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",📻RÁDIO RTL 102.5 BEST 🇮🇹
 https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",📻RÁDIORTL 102.5 BRO&SIS 🇮🇹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",📻RÁDIO RTL 102.5 BRO&SIS 🇮🇹
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b2816000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/768px-RTL_102.5_logo.svg.png" group-title="RÁDIO NA TV",📻RÁDIO RTL 102.5 CALIENTE 🇮🇹
@@ -3540,7 +3546,7 @@ https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="RÁDIO NA TV",📻RÁDIO TRANS JOVEM
 https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="RADIO TROPICAL TARAPOTO" tvg-logo="" group-title="RÁDIO NA TV",📻RÁDIO TROPICAL TARAPOTO
+#EXTINF:-1 tvg-id="ext" tvg-name="RADIO TROPICAL TARAPOTO" tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="RÁDIO NA TV",📻RÁDIO TROPICAL TARAPOTO
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/61ZR8hph74L.png" group-title="RÁDIO NA TV",📻RÁDIO TROPICAL FM 87.5

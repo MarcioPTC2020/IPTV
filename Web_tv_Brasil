@@ -4563,6 +4563,7 @@ http://cast4.hoost.com.br:8594/live
 #EXTINF:-1, type="radio" tvg-id="13" tvg-name="https://m.media-amazon.com/images/I/51jbtDWPJFL.png" tvg-logo="" group-title="RÁDIO",Rádio Ativa 87.9 FM Bom Despacho / MG
 http://148.72.158.239:8036/live
 
+
 #EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://www.ativafmonline.com.br/painel/upload/logo.png?v=1740418492090" group-title="RÁDIO",Rádio Ativa 87.9 FM Vera Cruz do Oeste / PR
 https://srv.andradedeveloper.net/listen/radioativafm/radio.mp3
 

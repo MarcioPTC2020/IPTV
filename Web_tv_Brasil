@@ -4208,7 +4208,7 @@ http://sv10.hdradios.net:7022/stream
 #EXTINF:-1 type="radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qcvxct6jqj5f.png" group-title="RÁDIO",RÁDIO 89 FM
 http://centova10.ciclanohost.com.br:9019/stream
 
-#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/mlgMxlD.jpeg" group-title="Canais RÁDIO FM",A RADIO ROCK 89 FM- São Paulo
+#EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/mlgMxlD.jpeg" group-title="RÁDIO",A RADIO ROCK 89 FM- São Paulo
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
 
 #EXTINF:-1 type="radio"  tvg-logo="https://i.imgur.com/7NLh2kU.jpeg" group-title="RÁDIO",RÁDIO 89- A Radio Rock de Goiania

@@ -4513,6 +4513,133 @@ https://r16.ciclano.io:15004/stream
 
 #EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/2xVhThV.png" group-title="RÁDIO",RÁDIO AMC
 https://radioamc.com.br/stream/amc
+
+ 
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio246881_1718984050.png" group-title="RÁDIO",Rádio Ativa FM São Paulo / SP
+https://stm1.seconectaja.com.br:7004/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio246881_1718984050.png" group-title="RÁDIO",Rádio Ativa FM Oficial Mauá / SP
+https://stm1.seconectaja.com.br:7002/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio101789_1689192815.jpg" group-title="RÁDIO",Rádio Ativa FM Barra D'Alcântara / PI
+http://stm20.srvaudio.com.br:9166/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio202048_1656603699.png" group-title="RÁDIO",Rádio Ativa FM Cesário Lange / SP
+https://stm2.pousadavirtual.com.br:7106/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio244664_1715103085.png" group-title="RÁDIO",Rádio Ativa FM Viçosa do Ceará / CE
+https://stm17.voxhd.com.br:9622/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio246785_1718903602.png" group-title="RÁDIO",Rádio Ativa FM Porto Alegre / RS
+https://stm3.xcast.com.br:12222/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio102129_1714409608.jpg" group-title="RÁDIO",Rádio Ativa FM  Recife / PE
+http://stm22.painelcast.com:7350/;
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="http://www.ativafmmatinhos.com.br/images/logo-black.png" group-title="RÁDIO",RÁDIO Ativa 87.5 FM Matinhos / PR
+http://148.72.158.239:8014/live
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://www.ativafmms.com.br/front/assets/images/logo.png" group-title="RÁDIO",Rádio Ativa 96.5 FM Ivinhema / MS
+http://radio01.logicahost.com.br:7392/stream
+ 
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://spaceks.net/sites/ativafm96.com.br/images/logo/logo.png" group-title="RÁDIO",Rádio Ativa 96.7 FM Santa Terezinha de Goiás / GO
+http://hts07.kshost.com.br:9762/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://public-rf-upload.minhawebradio.net/10239/logo/b30f5d1fa85de54d0ab5b6d4376d9c52.jpeg" group-title="RÁDIO",Rádio Ativa 100.3 FM Pato Branco / PR
+https://servidor26.brlogic.com:8264/live
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://www.portalfunave.com.br/imagens/radios/ativa.png" group-title="RÁDIO",Rádio Ativa 103.1 FM Campina das Missões / RS
+https://sv16.hdradios.net:7960/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://www.redeativafm107.com.br/imagens/banner.jpg" group-title="RÁDIO",Rádio Ativa 107.3 FM Pitangui / MG
+http://wz2.dnip.com.br/pitangui/pitangui.stream/playlist.m3u8
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3y3tqAdPg_8O9G7q_NGmdXVgs6DMs68OapA&s" group-title="RÁDIO",Rádio Ativa 87.9 FM Jaguaré / ES
+http://linux1.rd8.com.br:8109/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="http://www.ativa.fm.br/files/2017/08/logo2.png" group-title="RÁDIO",Rádio Ativa 87.9 FM Vila Lângaro / RS
+http://cast4.hoost.com.br:8594/live
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="https://m.media-amazon.com/images/I/51jbtDWPJFL.png" tvg-logo="" group-title="RÁDIO",Rádio Ativa 87.9 FM Bom Despacho / MG
+http://148.72.158.239:8036/live
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://www.ativafmonline.com.br/painel/upload/logo.png?v=1740418492090" group-title="RÁDIO",Rádio Ativa 87.9 FM Vera Cruz do Oeste / PR
+https://srv.andradedeveloper.net/listen/radioativafm/radio.mp3
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio16294_1633121382.jpg" group-title="RÁDIO",Rádio Ativa 87.9 FMSão Luís de Montes Belos / GO
+https://ssl1.transmissaodigital.com:20141/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://www.radioativafm.com/images/logotipo.png" group-title="RÁDIO",Rádio Ativa 87.9 FM Nova Prata / RS
+https://vp090.voope.com.br/8034/;
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://public-rf-upload.minhawebradio.net/1790/fbplayer/63310f021ea5d2eacfae0674411d9e4c.png" group-title="RÁDIO",Rádio Ativa 87.9 FM Guaraí / TO
+http://servidor33.brlogic.com:8224/live
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://www.ativaabadia.com.br/files/2024/08/Logotipo-SITE-R%C3%A1dio-Ativa-FM.png" group-title="RÁDIO",Rádio Ativa 87.9 FM Abadia dos Dourados / MG
+https://cast4.hoost.com.br:20288/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/H2S86c5TnTtN-XdwKTHA6FvCU4uHk0S9grMZdT9Ydwg3p9hyijdceM0Twq17ciY0i2Q=w600-h300-pc0xffffff-pd" group-title="RÁDIO",Rádio Ativa 87.9 FM Joviânia / GO
+https://server2.webradios.com.br:19132/9132
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/9505/cabecalho-9505-20240109193713.png" group-title="RÁDIO",Rádio Ativa 87.9 FM São João da Barra / RJ
+https://srv3.braudio.com.br:7368/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio36850_1662652623.jpg" group-title="RÁDIO",Rádio Ativa 87.9 FM Ibaiti / PR
+https://stm20.voxhd.com.br:11444/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio221468_1689620812.jpg" group-title="RÁDIO",Rádio Ativa 87.9 FM Ivaí / PR
+https://stm1.aovivodigital.com.br:11348/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio77970_1739173435.jpg" group-title="RÁDIO",Rádio Ativa 87.9 FM Itabatã / BA
+https://stm21.voxhd.com.br:11858/;
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio145283_1649948997.png" group-title="RÁDIO",Rádio Ativa 87.9 FM Padre Bernardo / GO
+http://stm25.srvaudio.com.br:11802/;
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio69159_1656524431.jpg" group-title="RÁDIO",Rádio Ativa 87.9 FM Betim / MG
+https://stm27.xcast.com.br:8212/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio189698_1664983885.jpg" group-title="RÁDIO",Rádio Ativa 90.1 FM de Itambé/ BA
+http://srv8.ipstm.net:27406/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://spaceks.net/sites/ativafm.net/images/logo/logo_248869586.png" group-title="RÁDIO",Rádio Ativa 92.7 FM Eunápolis / BA
+http://hts02.kshost.com.br:10710/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio108235_1557238095.png" group-title="RÁDIO",Rádio Ativa 97.9 FM São José dos Quatro Marcos / MT 
+https://ssl.xcast.com.br:11420/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipWs-ksxbH-max4IwfzFX2bZY8FoRzxZUrw&s" group-title="RÁDIO",Rádio Ativa 98.1 FM Samambaia / DF
+https://stream.comandohost.com.br:8010/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://fb.paineladmin.com.br/arquivos/4110/logo_face-4110-20161202193529.png" group-title="RÁDIO",Rádio Ativa 98.7 FM Borda da Mata / MG
+https://stm1.aovivodigital.com.br:10838/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio48896_1633462508.jpg" group-title="RÁDIO",Rádio Ativa 98.7 FM Duque de Caxias / RJ
+https://hts05.brascast.com:10616/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://ativa99.com.br/gerenciador/upload/imagem/2024/11/673509a336bce.png" group-title="RÁDIO",Rádio Ativa 99.7 FM Barra do Bugres / MT
+https://stream.splug.com.br:8443/Radio19
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://ps-str.srvsite.com/arquivos/6839/cabecalho-6839-20200813200721.jpg" group-title="RÁDIO",Rádio Ativa 104.5 FM Itaqui / RS
+https://stm1.aovivodigital.com.br:9758/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio40279_1643636061.jpg" group-title="RÁDIO",Rádio Ativa 104.9 FM Piracuruca / PI
+https://ssl.srvstm.com:10764/steam
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj7PSzFxM-V74_iyZSu5c2AAA4BxCnnQbL18g-G47SNQWxtSmDSeOTuoSEv7bVGeRappxQnTNvcB-HdLUnACgCI38om2BF1_V1LGNJQq9STFsj5JqeMZUBqEWTNPPSXbJXzRaio4gczWgz5Uwx4R3QjzKezJ8TRf4W3Thw5KNyDyiApS0ohxhjZXEHM=s200" group-title="RÁDIO",Rádio Ativa 104.9 FM Novo Mundo / MT
+http://stream.zeno.fm/0ywsp51v338uv
+
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.ativafm.com/files/2020/10/LOGO-OK-COM-SITE-SEM-FUNDO.png" group-title="RÁDIO",Rádio Ativa 104.9 FM São José do Vale do Rio Preto / RJ
+https://cast3.hoost.com.br:20148/stream
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/mhJ-AJMCQTWhsvKL69XZRkcAhwzxBxyGwv6y1AnNZcyTp58TYywsk99AQLteWDoR97Ku=w600-h300-pc0xffffff-pd" group-title="RÁDIO",Rádio Ativa 104.9 FM Ponta Grossa / PR
+https://servidor18.brlogic.com:7018/live
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio222386_1732170092.png" group-title="RÁDIO",Rádio Ativa 104.9 FM Camaquã / RS
+https://stream.zeno.fm/ad8wzq016bhvv
+
+#EXTINF:-1, type="radio" tvg-id="13" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio18389_1708690955.png" group-title="RÁDIO",Rádio Ativa 106.3 FM Santo Antônio do Jardim / SP
+https://centova4.transmissaodigital.com:20116/stream
   
 #EXTINF:-1 type="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f5/Logotipo_da_R%C3%A1dio_Bandeirantes.png" group-title="RÁDIO",RÁDIO Bandeirantes Campinas 1170 AM
 https://stm23.xcast.com.br:11284/stream

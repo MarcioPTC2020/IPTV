@@ -123,10 +123,6 @@ https://stmv2.voxtvhd.com.br/floridatv/floridatv/chunklist_w499139862.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Animes|TV",🦸Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-
-
-#EXTINF:-1 type="video" tvg-id="" tvg-name="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latinokids.online%2F&psig=AOvVaw1OYRCSKFAjtqzAHBUuKjL7&ust=1709479600308000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjRhfPx1YQDFQAAAAAdAAAAABAE" group-title="Animes|TV",🦸LATINO KIDS
-
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-title="Animes|TV",🦸LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w40306791.m3u8
 
@@ -148,7 +144,7 @@ https://stream1.freetv.fun/nick-jr-19.ctv
 #EXTINF:-1 tvg-logo="https://imgur.com/P481Z9Y.png" group-title="Animes|TV",🦸NICK CLASSICO (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="INFANTIL",🦸OTAKU SIGN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="Animes|TV",🦸OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w841739559.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="Animes|TV",🦸PEQUERADIO TV​ 
@@ -261,7 +257,7 @@ http://24hrs.homelinux.com:80/24H-hantaro/video.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Animes|Séries",🦸Hunter x Hunter 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="INFANTIL",🦸Animes|Séries (PLUTO TV)
+#EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="Animes|TV",🦸Icarly (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/hQA9rUw.png" group-title="Animes|Séries",🦸Jojo's Bizarre adventure (PLUTO TV)
@@ -619,7 +615,7 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP058-Em_busca_de_u
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP059-Encrencas_do_pernalonga.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Animes|Séries",Looney Tunes S01E60-Enganados_por_um_rato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP060-Enganados_por_um_rato.mkv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="LAnimes|Séries",Looney Tunes S01E61-Era_filho_de_um_acrobata
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Animes|Séries",Looney Tunes S01E61-Era_filho_de_um_acrobata
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP061-Era_filho_de_um_acrobata.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Animes|Séries",Looney Tunes S01E62-Escalando_o_pico
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP062-Escalando_o_pico.mkv

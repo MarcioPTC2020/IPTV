@@ -1,5 +1,5 @@
 ****************************************************************************************************************************************
-4K
+4k
 ****************************************************************************************************************************************
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/58dc416615d5db9eb5acf3a2/1497397110112-KW1KAWRHZZ5ID21OLMHT/Bloomberg-Logo.png" group-title="4K",Bloomberg+ 4K
 https://bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8
@@ -24,7 +24,7 @@ https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
 ****************************************************************************************************************************************
 Animes|TV
 ****************************************************************************************************************************************
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Animes|TV",🦸Animax
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/350?cb=20180730143228" group-title="Animes|TV",🦸Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-mmrUo8losoA/YTePF5v0zKI/AAAAAAAAFck/wGhL6qo2FuMTTN9R3tnHyBZKPwIAVMxoQCLcBGAsYHQ/w1200-h630-p-k-no-nu/ANIME%2BTV.webp" group-title="Animes|TV",🦸ANIME TV
@@ -45,21 +45,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIME STATION TV" tvg-logo="https://static.wixstatic.com/media/01ee40_df225c10a9dc48e5973ef91816be1a1f~mv2.png/v1/fill/w_366,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png" group-title="Animes|TV",🦸ANIME STATION TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w948376476.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YX13GV0.png" group-title="Animes|TV",🦸Baby TV
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/342
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YX13GV0.png" group-title="Animes|TV",🦸Baby TV 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/767
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-1.png" group-title="Animes|TV",🦸CARTOON NETWORK
-https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Animes|TV",🦸CARTOONITO
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/345
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Animes|TV",🦸CARTOONITO
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/344
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/clouding.png" group-title="Animes|TV",🦸Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
 
@@ -69,19 +54,7 @@ https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 #EXTINF: -1 tvg-logo="https://nxplay-images.comets.com.br/resize/652db57a40e3f_a6a99a7a24171166b2bc5d12e3726104.png" group-title="Animes|TV",🦸DE CRIANÇA PARA CRIANÇA
 https://cdn-5.nxplay.com.br/dcpc/tracks-v2a1/mono.m3u8?token=317ed945c8136a0d8c80d945ef86f282cc41acaf-675716e30ff666437e1b3ac60a7cefb4-1731470422-1731427222
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="Animes|TV",🦸DISCOVERY KIDS 
-https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Animes|TV",🦸DISNEY CHANNEL
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Animes|TV",🦸DISNEY CHANNEL
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/352
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Animes|TV",🦸DISNEY CHANNEL
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Animes|TV",🦸DCPC Infantil 
+#EXTINF: -1 tvg-logo="https://nxplay-images.comets.com.br/resize/652db57a40e3f_a6a99a7a24171166b2bc5d12e3726104.png" group-title="Animes|TV",🦸DE CRIANÇA PARA CRIANÇA
 https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBShICKRPyTMDi2cxUyxPZjkCtLUKFUxqomSOEj3_IpO140OwPIaSYw9HsWKqO7AtDyRY&usqp=CAU" group-title="Animes|TV",🦸DM KIDS TV
@@ -105,9 +78,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Animes|TV",🦸Hallo Anime 
 https://cdn-1.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Animes|TV",🦸Hallo Anime 
-https://cdn-2.nxplay.com.br/HALLOANIME/index.m3u8
-
 #EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="Animes|TV",🦸Kids TV Show
 https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/chunklist_w2000012651.m3u8
 
@@ -116,9 +86,6 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w6228770
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="Animes|TV",🦸Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://i.ytimg.com/vi/oVb_3-lHT3U/maxresdefault.jpg" group-title="Animes|TV",🦸Florida Brasil TV News
-https://stmv2.voxtvhd.com.br/floridatv/floridatv/chunklist_w499139862.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Animes|TV",🦸Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -134,12 +101,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934e
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animes|TV",🦸 NICK JR CLUB (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animes|TV",🦸 NICK JR
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/364
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animes|TV",🦸 NICK JR
-https://stream1.freetv.fun/nick-jr-19.ctv
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P481Z9Y.png" group-title="Animes|TV",🦸NICK CLASSICO (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -164,9 +125,6 @@ https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w338783700.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Animes|TV",🦸TOONCAST
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMqOmz5kiRRsRVpYIE_EqwluFgNqW3IuZB_eb76x2foPjygL6evKTpGDawc21o3koJlY&usqp=CAU" group-title="Animes|TV",🦸TokuSato Plus 
-http://24hrs.homelinux.com/24H-Jiraya/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" group-title="Animes|TV",🦸TOON GOGGLES 
 https://stream.ads.ottera.tv/cl/250104ctsl801e1mkdn8ef4u1g/1280x720_3071200_0_f.m3u8?i=475_274
@@ -194,9 +152,6 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1080743876.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="Animes|TV",🦸,ZooMooᴴᴰ 
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="Animes|TV",🦸,ZooMooᴴᴰ 🇺🇸
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 ****************************************************************************************************************************************
 Animes|Séries
 ****************************************************************************************************************************************

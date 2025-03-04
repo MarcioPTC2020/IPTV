@@ -1933,7 +1933,7 @@ https://5a0c3936c25c8.streamlock.net/8010/8010/chunklist_w1851614629.m3u8
 #EXTINF:-1,tvg-id="" type="live tv" tvg-logo="https://rwtv.com.br/wp-content/uploads/2023/04/Rede-Web-TV-bordado.png" group-title="FILMES",📽️REDE WEB TV
 https://cdn.jmvstream.com/w/AVJ-15086/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES",📽️RUNTIME TV 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES",📽️RUNTIME TV
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 
 #EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES",📽️RUNTIME AÇÃO 

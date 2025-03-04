@@ -6453,7 +6453,10 @@ http://radioaovivo.ufrgs.br:8000/stream.mp3
 
 #EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/Qae0yxd.png" group-title="RÁDIO",RÁDIO Universitária Natal
 http://radio.fmu.ufrn.br:8000/live.aac
-  
+
+#EXTINF:-1 type="radio" tvg-logo="https://ultrafm.com.br/wp-content/uploads/2024/08/ultra-fm-site-1.png" group-title="RÁDIO",RÁDIO ULTRA FM
+https://servidor30.brlogic.com:7070/live
+
 #EXTINF:-1 type="radio" tvg-logo="https://i.imgur.com/mqcFb4K.jpeg" group-title="RÁDIO",RÁDIO Vale Verde
 https://ice.fabricahost.com.br/fmvaleverde
 

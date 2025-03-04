@@ -1870,13 +1870,13 @@ http://dzcdn.vood.top/hls/695_.m3u8
 #EXTINF:0,tvg-id="" type="live tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Prime_Box_Brazil.png/revision/latest?cb=20150726135811" group-title="FILMES",📽️PRIME BOX BRASIL
 http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE CLASSICOS
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE CLASSICOS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viac
 
-#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE CRIME
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE CRIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE COMÉDIA ROMANTICA
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE COMÉDIA ROMANTICA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE DRAMA
@@ -1885,34 +1885,34 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE FAMÍLIA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viac
 
-#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE INSPIRAÇÃO
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE INSPIRAÇÃO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE ROMANCE
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE ROMANCE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viac
 
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE TERROR
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE TERROR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viac
 
-#EXTINF:-1 tvg-id="6001f3018502100007f528ac" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV COMÉDIA
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV COMÉDIA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viac
 
-#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV FILMES AÇÃO
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV FILMES AÇÃO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV FICÇÃO CIENTÍFICA
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV FICÇÃO CIENTÍFICA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV FILMES NACIONAL
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV FILMES NACIONAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV RETRÔ SÉRIES
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV RETRÔ SÉRIES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&t
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV LIVRE 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV LIVRE 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV SUSPENSE
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV SUSPENSE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viac
 
 #EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323" group-title="FILMES",📽️RBTV

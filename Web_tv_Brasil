@@ -1936,11 +1936,11 @@ https://cdn.jmvstream.com/w/AVJ-15086/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES",📽️RUNTIME TV 
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES",📽️RUNTIME TV (PLUTO TV)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
 #EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES",📽️RUNTIME AÇÃO 
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" type="live tv" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES",📽️RUNTIME TV (PLUTO TV)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/DXHLIcK.png" group-title="FILMES",📽️SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8

@@ -1879,10 +1879,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878df
 #EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE COMÉDIA ROMANTICA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE DRAMA
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE DRAMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viac
 
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="PLUTO TV",🎬PLUTO TV CINE FAMÍLIA
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE FAMÍLIA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viac
 
 #EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" type="live tv" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/278-3.png" group-title="FILMES",🎬PLUTO TV CINE INSPIRAÇÃO

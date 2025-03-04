@@ -7912,6 +7912,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e2
 #EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://cdn.worldvectorlogo.com/logos/masterchef.svg" group-title="SERIES|24H",🎬MASTERCHEF
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="SERIES|24H",🎬 MasterChef (PLUTO TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-id="62b5c5a064163d0007b2efe6" type="live tv" tvg-logo="" group-title="SERIES|24H",🎬MISTÉRIOS SEM SOLUÇÃO (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 

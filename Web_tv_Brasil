@@ -7873,13 +7873,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" type="live tv" tvg-logo="" group-title="SERIES|24H",🎬BET (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/BatygW5.png" group-title="SERIES|24H",🎬Chapolin Colorado 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://corridadochapolin.com.br/wp-content/uploads/2019/12/selo_chapolin.png" group-title="SERIES|24H",🎬Chapolin Colorado 
 http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/BatygW5.png" group-title="SERIES|24H",🎬Chaves 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="SERIES|24H",🎬Chaves 
 http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="SERIES|24H",🎬Chaves 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="SERIES|24H",🎬Chaves 
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
 
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" type="live tv" tvg-logo="https://imgur.com/ZGcDVFC.png" group-title="SERIES|24H",🎬COMEDY CENTRAL (PLUTO TV)
@@ -7906,7 +7906,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" type="live tv" tvg-logo="https://imgur.com/l0HGYhe.png" group-title="SERIES|24H",🎬KENAN E KEL (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="" group-title="SERIES|24H",🎬MASTERCHEF
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://cdn.worldvectorlogo.com/logos/masterchef.svg" group-title="SERIES|24H",🎬MASTERCHEF
 https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="62b5c5a064163d0007b2efe6" type="live tv" tvg-logo="" group-title="SERIES|24H",🎬MISTÉRIOS SEM SOLUÇÃO (PLUTO TV)
@@ -7921,10 +7921,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 #EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" type="live tv" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SERIES|24H",🎬O Homem que veio do Céu  (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-id="5f36f2346ede750007332d11" type="live tv" channel-id="porta-dos-fundos" tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="SERIES|24H",🎬PORTA DOS FUNDOS (PLUTO TV)
+#EXTINF:0 tvg-id="5f36f2346ede750007332d11" type="live tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UIXZxz3WWmoMwpUWfMjVyVXERfbzriepGN-Zm9KHxggpb3a9YiNnnWZ7K6-4yjQZfSA&usqp=CAU" group-title="SERIES|24H",🎬PORTA DOS FUNDOS (PLUTO TV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-id="5f36f2346ede750007332d11" type="live tv" channel-id="porta-dos-fundos" tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="SERIES|24H",🎬PORTA DOS FUNDOS (PLUTO TV)
+#EXTINF:0 tvg-id="5f36f2346ede750007332d11" type="live tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UIXZxz3WWmoMwpUWfMjVyVXERfbzriepGN-Zm9KHxggpb3a9YiNnnWZ7K6-4yjQZfSA&usqp=CAU" group-title="SERIES|24H",🎬PORTA DOS FUNDOS (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 tvg-id="6474ab5cdc7a760008745008" type="live tv" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="SERIES|24H",🎬Pluto TV Séries Criminais

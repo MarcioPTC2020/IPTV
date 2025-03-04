@@ -11,25 +11,25 @@ Clouddy,DreamTV,LazerPLay,IPTV+,Vu Player Pro,Ibo Pro Player
 ****************************************************************************************************************************************
 4k
 ****************************************************************************************************************************************
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/58dc416615d5db9eb5acf3a2/1497397110112-KW1KAWRHZZ5ID21OLMHT/Bloomberg-Logo.png" group-title="4K",Bloomberg+ 4K
+#EXTINF:-1 type="live tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/58dc416615d5db9eb5acf3a2/1497397110112-KW1KAWRHZZ5ID21OLMHT/Bloomberg-Logo.png" group-title="4K",Bloomberg+ 4K
 https://bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVBrazil.fr" tvg-logo="https://i.imgur.com/bXEJshW.png" group-title="4K",Fashion TV 4K
+#EXTINF:-1 type="live tv" tvg-id="FashionTVBrazil.fr" tvg-logo="https://i.imgur.com/bXEJshW.png" group-title="4K",Fashion TV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IX8RH5P.png" group-title="4K", FIREPLACE 4K
+#EXTINF:-1 type="live tv" tvg-logo="https://imgur.com/IX8RH5P.png" group-title="4K", FIREPLACE 4K
 https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="4K", LOVE NATURE 4K 
+#EXTINF:-1 type="live tv" tvg-logo="https://imgur.com/RrCqjeU.png" group-title="4K", LOVE NATURE 4K 
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-logo="https://imgur.com/mUGyKmS.png" group-title="4K", LOUPE 4K 
+#EXTINF:-1 type="live tv" tvg-logo="https://imgur.com/mUGyKmS.png" group-title="4K", LOUPE 4K 
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="4K",QUIETUDE 4K
+#EXTINF:-1, type="live tv"tvg-id="13" tvg-name="" tvg-logo="" group-title="4K",QUIETUDE 4K
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22930&ads.content_duration=18000&ads.episode_id=51848&ads.show_id=1685&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Quietude%204K&ads.episodetitle=Quietude%204K&ads.keywords=screen%20saver%2Cnature%2Cviews%2Ccalming%2Cchill%2Cbackground%20video%2CQuietude%204K&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=quietude&ads.islive=1&ads.streamtype=live
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="4K",QUIETUDE 4K
+#EXTINF:-1, type="live tv"tvg-id="13" tvg-name="" tvg-logo="" group-title="4K",QUIETUDE 4K
 https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
 ****************************************************************************************************************************************
 Animes|TV

@@ -7936,7 +7936,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb
 #EXTINF:-1 tvg-id="65f060d84e01740008d7421f " type="live tv" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="SERIES|24H",🎬Pluto TV Séries Drama
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="SERIES|24H",🎬Pluto TV Séries Comédia
+#EXTINF:-1 tvg-id="655e5bc94261ca000810cb17" type="live tv" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="SERIES|24H",🎬Pluto TV Séries Comédia
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 #EXTINF:-1 tvg-id="655e5bc94261ca000810cb17" type="live tv" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="SERIES|24H",🎬Pluto TV Séries Comédia

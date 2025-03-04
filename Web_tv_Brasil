@@ -1,3 +1,13 @@
+#EXTM3U 
+size="Medium" ATUALIZAÇAO 04-03-2025
+##Não sou responsável pelos Canais.
+##Só pesquiso na Internet, separo e Indexo.
+##DOAÇÃO PIX: 
+📺📺📺📺📺📺📺📺📺 
+👉Lista IPTV para os seguintes APPs
+Clouddy,DreamTV,LazerPLay,IPTV+,Vu Player Pro,Ibo Pro Player
+
+
 ****************************************************************************************************************************************
 4k
 ****************************************************************************************************************************************
@@ -24,959 +34,960 @@ https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
 ****************************************************************************************************************************************
 Animes|TV
 ****************************************************************************************************************************************
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/350?cb=20180730143228" group-title="Animes|TV",🦸Animax
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/350?cb=20180730143228" group-title="Animes|TV",🦸Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSDumzlxKREPdG7me7Aj2q6-Bms3dLL-oZRRYDFQvNfW5fONEsm7dkN8lB-GNzDTNYYyRitOb6t5YyAUqQdUDd5oqnenOvq8ZkhPsd6qzf21RC2r__4NqUyQspI7U3i3v462JIsgAa9nZUeeacR3VnZgTPM_Dh6MdhuUDCkOt8NBzwGoPDnFtS5KSYvo/w1200-h630-p-k-no-nu/ANIME%20TV.webp" group-title="Animes|TV",🦸ANIME TV
+#EXTINF:-1, tvg-id="" type="live tv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSDumzlxKREPdG7me7Aj2q6-Bms3dLL-oZRRYDFQvNfW5fONEsm7dkN8lB-GNzDTNYYyRitOb6t5YyAUqQdUDd5oqnenOvq8ZkhPsd6qzf21RC2r__4NqUyQspI7U3i3v462JIsgAa9nZUeeacR3VnZgTPM_Dh6MdhuUDCkOt8NBzwGoPDnFtS5KSYvo/w1200-h630-p-k-no-nu/ANIME%20TV.webp" group-title="Animes|TV",🦸ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="Animes|TV",🦸ANIME TV (PLUTO TV)
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" type="live tv" tvg-logo="https://imgur.com/eRLW03d.png" group-title="Animes|TV",🦸ANIME TV (PLUTO TV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="Animes|TV",🦸ANIME TV (PLUTO TV)
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" type="live tv" tvg-logo="https://imgur.com/eRLW03d.png" group-title="Animes|TV",🦸ANIME TV (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="Animes|TV",🦸ANIME ACAO (PLUTO TV)
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" type="live tv" tvg-logo="https://imgur.com/eRLW03d.png" group-title="Animes|TV",🦸ANIME AÇAO (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4qIdqVn.png" group-title="Animes|TV",🦸ANIME ACAO (PLUTO TV)
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" type="live tv" tvg-logo="https://imgur.com/4qIdqVn.png" group-title="Animes|TV",🦸ANIME AÇAO (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIME STATION TV" tvg-logo="https://static.wixstatic.com/media/01ee40_df225c10a9dc48e5973ef91816be1a1f~mv2.png/v1/fill/w_366,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png" group-title="Animes|TV",🦸ANIME STATION TV
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="(no tvg-id)" tvg-name="ANIME STATION TV" tvg-logo="https://static.wixstatic.com/media/01ee40_df225c10a9dc48e5973ef91816be1a1f~mv2.png/v1/fill/w_366,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png" group-title="Animes|TV",🦸ANIME STATION TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w948376476.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/clouding.png" group-title="Animes|TV",🦸Clouding
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/clouding.png" group-title="Animes|TV",🦸Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
 
-#EXTINF: -1 tvg-logo="https://nxplay-images.comets.com.br/resize/652db57a40e3f_a6a99a7a24171166b2bc5d12e3726104.png" group-title="Animes|TV",🦸DE CRIANÇA PARA CRIANÇA
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://nxplay-images.comets.com.br/resize/652db57a40e3f_a6a99a7a24171166b2bc5d12e3726104.png" group-title="Animes|TV",🦸DE CRIANÇA PARA CRIANÇA
 https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://nxplay-images.comets.com.br/resize/652db57a40e3f_a6a99a7a24171166b2bc5d12e3726104.png" group-title="Animes|TV",🦸DE CRIANÇA PARA CRIANÇA
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://nxplay-images.comets.com.br/resize/652db57a40e3f_a6a99a7a24171166b2bc5d12e3726104.png" group-title="Animes|TV",🦸DE CRIANÇA PARA CRIANÇA
 https://cdn-5.nxplay.com.br/dcpc/tracks-v2a1/mono.m3u8?token=317ed945c8136a0d8c80d945ef86f282cc41acaf-675716e30ff666437e1b3ac60a7cefb4-1731470422-1731427222
 
-#EXTINF: -1 tvg-logo="https://nxplay-images.comets.com.br/resize/652db57a40e3f_a6a99a7a24171166b2bc5d12e3726104.png" group-title="Animes|TV",🦸DE CRIANÇA PARA CRIANÇA
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://nxplay-images.comets.com.br/resize/652db57a40e3f_a6a99a7a24171166b2bc5d12e3726104.png" group-title="Animes|TV",🦸DE CRIANÇA PARA CRIANÇA
 https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBShICKRPyTMDi2cxUyxPZjkCtLUKFUxqomSOEj3_IpO140OwPIaSYw9HsWKqO7AtDyRY&usqp=CAU" group-title="Animes|TV",🦸DM KIDS TV
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBShICKRPyTMDi2cxUyxPZjkCtLUKFUxqomSOEj3_IpO140OwPIaSYw9HsWKqO7AtDyRY&usqp=CAU" group-title="Animes|TV",🦸DM KIDS TV
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w1927654157.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="Animes|TV",🦸Gaming por Ubisoft (PLUTO TV)
+#EXTINF:-1 tvg-id="64c815e8a1c6130008fef928
+" type="live tv" tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="Animes|TV",🦸Gaming por Ubisoft (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://geekdot.live/wp-content/uploads/2023/01/cropped-New_Project_26.jpg" group-title="Animes|TV",🦸Geekdot
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://geekdot.live/wp-content/uploads/2023/01/cropped-New_Project_26.jpg" group-title="Animes|TV",🦸Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="Animes|TV",🦸GLOOBINHO 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="Animes|TV",🦸GLOOBINHO 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/360
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zrj9k4l.png" group-title="Animes|TV",🦸GOSPEL CARTOON
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://i.imgur.com/zrj9k4l.png" group-title="Animes|TV",🦸GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w708227904.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/jy888YnXiR9L0HAuDTzHuUCOpGCVD9pSTgg-yqO2umVXk80i3f-fYhb2r1_hiIQL4XA" group-title="Animes|TV",🦸GOGOPLAY TV
+#EXTINF:-1,tvg-id="" type="live tv" tvg-logo="https://play-lh.googleusercontent.com/jy888YnXiR9L0HAuDTzHuUCOpGCVD9pSTgg-yqO2umVXk80i3f-fYhb2r1_hiIQL4XA" group-title="Animes|TV",🦸GOGOPLAY TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Animes|TV",🦸Hallo Anime 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Animes|TV",🦸Hallo Anime 
 https://cdn-1.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="Animes|TV",🦸Kids TV Show
+#EXTINF:-1,tvg-id="" type="live tv" tvg-logo="" group-title="Animes|TV",🦸Kids TV Show
 https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/chunklist_w2000012651.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="" group-title="Animes|TV",🦸Kids Mais
+#EXTINF:-1,tvg-id="" type="live tv" tvg-logo="" group-title="Animes|TV",🦸Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w622877036.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="Animes|TV",🦸Kuriakos Kids
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="Animes|TV",🦸Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Animes|TV",🦸Fox Kids
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Animes|TV",🦸Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 type="video" tvg-id="" tvg-name="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latinokids.online%2F&psig=AOvVaw1OYRCSKFAjtqzAHBUuKjL7&ust=1709479600308000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjRhfPx1YQDFQAAAAAdAAAAABAE" group-title="Animes|TV",🦸LATINO KIDS
+#EXTINF:-1 tvg-id="" type="live tv" tvg-name="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latinokids.online%2F&psig=AOvVaw1OYRCSKFAjtqzAHBUuKjL7&ust=1709479600308000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjRhfPx1YQDFQAAAAAdAAAAABAE" group-title="Animes|TV",🦸LATINO KIDS
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-title="Animes|TV",🦸LOADING
+#EXTINF:-1,tvg-id="" type="live tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-title="Animes|TV",🦸LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w40306791.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/_dQEmmIu9E15_p1arRpeBcay_v8zqahMxlddyr7s9LMTwe4p_Um2AtNrDfSDajdlcSRK7XbL7pyVNx7x3xayrsw=w16383" group-title="Animes|TV",🦸Mylouᴴᴰ
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://lh6.googleusercontent.com/_dQEmmIu9E15_p1arRpeBcay_v8zqahMxlddyr7s9LMTwe4p_Um2AtNrDfSDajdlcSRK7XbL7pyVNx7x3xayrsw=w16383" group-title="Animes|TV",🦸Mylouᴴᴰ
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bRDW0yb.png" group-title="Animes|TV",🦸 JUNIOR (PLUTO TV)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animes|TV",🦸 NICK JR (PLUTO TV)
+#EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" type="live tv" tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animes|TV",🦸 NICK JR (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animes|TV",🦸 NICK JR (PLUTO TV)
+#EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" type="live tv" tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animes|TV",🦸 NICK JR (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P481Z9Y.png" group-title="Animes|TV",🦸NICK CLASSICO (PLUTO TV)
+#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" type="live tv" tvg-logo="https://imgur.com/P481Z9Y.png" group-title="Animes|TV",🦸NICK CLASSICO (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P481Z9Y.png" group-title="Animes|TV",🦸NICK CLASSICO (PLUTO TV)
+#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" type="live tv" tvg-logo="https://imgur.com/P481Z9Y.png" group-title="Animes|TV",🦸NICK CLASSICO (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="Animes|TV",🦸OTAKU SIGN TV
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="Animes|TV",🦸OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w841739559.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="Animes|TV",🦸PEQUERADIO TV​ 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="Animes|TV",🦸PEQUERADIO TV​ 
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png" group-title="Animes|TV",🦸RETRO CARTOON 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png" group-title="Animes|TV",🦸RETRO CARTOON 
 https://stmv1.srvif.com:443/retrotv/retrotv/chunklist_w1171135282.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvalegria.com.br/public/88526-2024-03-13.png" group-title="Animes|TV",🦸TV ALEGRIA
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.tvalegria.com.br/public/88526-2024-03-13.png" group-title="Animes|TV",🦸TV ALEGRIA
 https://video01.logicahost.com.br/alegriatv/alegriatv/chunklist_w292995398.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kuriakos-kids.com/wp-content/uploads/2018/03/banner_top_v8.png" group-title="Animes|TV",🦸TV Kuriakos KIDS
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-name="" tvg-logo="http://kuriakos-kids.com/wp-content/uploads/2018/03/banner_top_v8.png" group-title="Animes|TV",🦸TV Kuriakos KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1294436332_b3048000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.portalvoxhd.com.br/estacoes/webtv-16.png" group-title="Animes|TV",🦸TV MINISTÉRIO INFANTIL
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.portalvoxhd.com.br/estacoes/webtv-16.png" group-title="Animes|TV",🦸TV MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w338783700.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Animes|TV",🦸TOONCAST
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Animes|TV",🦸TOONCAST
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" group-title="Animes|TV",🦸TOON GOGGLES 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-name="" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" group-title="Animes|TV",🦸TOON GOGGLES 
 https://stream.ads.ottera.tv/cl/250104ctsl801e1mkdn8ef4u1g/1280x720_3071200_0_f.m3u8?i=475_274
 
-#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="Animes|TV",🦸Toonz Kids
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="Animes|TV",🦸Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Animes|TV",🦸TV RA TIM BUM 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Animes|TV",🦸TV RA TIM BUM 
 http://cdn-1.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://ligasolidaria.org.br/site/wp-content/uploads/2017/09/sbt-logo-1.png" group-title="Animes|TV",🦸TV ZYNK 
+#EXTINF:-1,tvg-id="" type="live tv" tvg-logo="https://ligasolidaria.org.br/site/wp-content/uploads/2017/09/sbt-logo-1.png" group-title="Animes|TV",🦸TV ZYNK 
 https://cc-5w3mfvzg9saoi.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Animes|TV",🦸TRU TV
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Animes|TV",🦸TRU TV
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/148
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.global-fibra.com/_nuxt/img/urban_kids_logo.07a841b.png" group-title="Animes|TV",🦸URBAN KIDS 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-name="" tvg-logo="https://www.global-fibra.com/_nuxt/img/urban_kids_logo.07a841b.png" group-title="Animes|TV",🦸URBAN KIDS 
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wording.com.br/wp-content/uploads/sites/36/2023/04/cropped-Site-2-1024x768.png" group-title="Animes|TV",🦸WORDING TV
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://www.wording.com.br/wp-content/uploads/sites/36/2023/04/cropped-Site-2-1024x768.png" group-title="Animes|TV",🦸WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1080743876.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="Animes|TV",🦸,ZooMooᴴᴰ 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="Animes|TV",🦸,ZooMooᴴᴰ 
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 ****************************************************************************************************************************************
 Animes|Séries
 ****************************************************************************************************************************************
-#EXTINF:-1 tvg-logo="https://imgur.com/muj2sTq.png" group-title="Animes|Séries",🦸AS TARTARUGAS NINJAS (PLUTO TV)
+#EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" type="live tv"  tvg-logo="https://imgur.com/muj2sTq.png" group-title="Animes|Séries",🦸AS TARTARUGAS NINJAS (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VRxtpeS.png" group-title="Animes|Séries",🦸BABYFIRST (PLUTO TV)
+#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" type="live tv" tvg-logo="https://imgur.com/VRxtpeS.png" group-title="Animes|Séries",🦸BABYFIRST (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hz5X4Un.png" group-title="Animes|Séries",🦸BEYBLADE (PLUTO TV)
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" type="live tv" tvg-logo="https://imgur.com/hz5X4Un.png" group-title="Animes|Séries",🦸BEYBLADE (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hz5X4Un.png" group-title="Animes|Séries",🦸BEYBLADE (PLUTO TV)
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" type="live tv" tvg-logo="https://imgur.com/hz5X4Un.png" group-title="Animes|Séries",🦸BEYBLADE (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MOWXnxd.png" group-title="Animes|Séries",🦸BOB ESPONJA (PLUTO TV)
+#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" type="live tv" tvg-logo="https://imgur.com/MOWXnxd.png" group-title="Animes|Séries",🦸BOB ESPONJA (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MOWXnxd.png" group-title="Animes|Séries",🦸BOB ESPONJA (PLUTO TV)
+#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" type="live tv" tvg-logo="https://imgur.com/MOWXnxd.png" group-title="Animes|Séries",🦸BOB ESPONJA (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/571723b316068db62c1677f4560baddc.webp" group-title="Animes|Séries",🦸Boing
+#EXTINF: -1 tvg-id="" type="live tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/571723b316068db62c1677f4560baddc.webp" group-title="Animes|Séries",🦸Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VfqenLo.png" group-title="Animes|Séries",🦸CAPTAIN TSUBASA (PLUTO TV)
+#EXTINF:-1 tvg-id="646663b01593940008990a57" type="live tv" tvg-logo="https://imgur.com/VfqenLo.png" group-title="Animes|Séries",🦸CAPTAIN TSUBASA (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VfqenLo.png" group-title="Animes|Séries",🦸CAPTAIN TSUBASA (PLUTO TV)
+#EXTINF:-1 tvg-id="646663b01593940008990a57" type="live tv" tvg-logo="https://imgur.com/VfqenLo.png" group-title="Animes|Séries",🦸CAPTAIN TSUBASA (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/14/South-Park-Sign-Logo-PNG-Images-HD.png" group-title="Animes|Séries",🦸COMEDY CENTRAL SOUTH PARK (PLUTO TV)
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" type="live tv" tvg-logo="https://www.pngplay.com/wp-content/uploads/14/South-Park-Sign-Logo-PNG-Images-HD.png" group-title="Animes|Séries",🦸COMEDY CENTRAL SOUTH PARK (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/g7RCejA.png" group-title="Animes|Séries",🦸COCORICO (PLUTO TV)
+#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" type="live tv" tvg-logo="https://imgur.com/g7RCejA.png" group-title="Animes|Séries",🦸COCORICO (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/g7RCejA.png" group-title="Animes|Séries",🦸COCORICO (PLUTO TV)
+#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" type="live tv" tvg-logo="https://imgur.com/g7RCejA.png" group-title="Animes|Séries",🦸COCORICO (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://occ-0-1567-1123.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSChWT7MLowwLu1RYH7h6PR9OL04TR-Oex894_Oje1bkfaMnl6xYXQMA47gkCtThIdn-ATqWgTT2ZApH7O6vZP_d1408I7TFkHFMhUpNqVAn.png?r=aa5" group-title="Animes|Séries",🦸DEATH NOTE (PLUTO TV)
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" type="live tv" tvg logo="https://occ-0-1567-1123.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSChWT7MLowwLu1RYH7h6PR9OL04TR-Oex894_Oje1bkfaMnl6xYXQMA47gkCtThIdn-ATqWgTT2ZApH7O6vZP_d1408I7TFkHFMhUpNqVAn.png?r=aa5" group-title="Animes|Séries",🦸DEATH NOTE (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://occ-0-1567-1123.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSChWT7MLowwLu1RYH7h6PR9OL04TR-Oex894_Oje1bkfaMnl6xYXQMA47gkCtThIdn-ATqWgTT2ZApH7O6vZP_d1408I7TFkHFMhUpNqVAn.png?r=aa5" group-title="Animes|Séries",🦸DEATH NOTE (PLUTO TV)
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" type="live tv" tvg-logo="https://occ-0-1567-1123.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSChWT7MLowwLu1RYH7h6PR9OL04TR-Oex894_Oje1bkfaMnl6xYXQMA47gkCtThIdn-ATqWgTT2ZApH7O6vZP_d1408I7TFkHFMhUpNqVAn.png?r=aa5" group-title="Animes|Séries",🦸DEATH NOTE (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="656e28dd57fe4a0008819c3d" tvg-logo="https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png" group-title="Animes|Séries",🦸Dora Aventureira | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Animes|Séries",🦸Dragon Ball 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Animes|Séries",🦸Dragon Ball 
 http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dragon_Ball_Z_logo.svg" group-title="Animes|Séries",🦸Dragon Ball Z 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dragon_Ball_Z_logo.svg" group-title="Animes|Séries",🦸Dragon Ball Z 
 http://24hrs.homelinux.com:80/24H-dragon.ball.z/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Dragon_Ball_Z_Kai_%28Alternate%29.png/revision/latest/scale-to-width-down/1200?cb=20210726211421" group-title="Animes|Séries",🦸Dragon Ball Z Kai 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Dragon_Ball_Z_Kai_%28Alternate%29.png/revision/latest/scale-to-width-down/1200?cb=20210726211421" group-title="Animes|Séries",🦸Dragon Ball Z Kai 
 http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dragonball/images/2/26/DBGT.png/revision/latest?cb=20150718135658&path-prefix=fr" group-title="Animes|Séries",🦸Dragon Ball Gt 
 http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="Animes|Séries",🦸Dragon Ball Super 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="Animes|Séries",🦸Dragon Ball Super 
 http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Animes|Séries",🦸Geek e Tech (PLUTO TV)
+#EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" type="live tv" tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Animes|Séries",🦸Geek e Tech (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://eaicasal.wordpress.com/wp-content/uploads/2015/01/ohtsp3.png " group-title="Animes|Séries",🦸Hantaro 2
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://eaicasal.wordpress.com/wp-content/uploads/2015/01/ohtsp3.png " group-title="Animes|Séries",🦸Hantaro 2
 http://24hrs.homelinux.com:80/24H-hantaro/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Animes|Séries",🦸Hunter x Hunter 
+#EXTINF:-1 tvg-id="65d9167818036500080e8780" type="live tv" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Animes|Séries",🦸Hunter x Hunter (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="Animes|Séries",🦸Icarly (PLUTO TV)
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/Wc94C6y.png" group-title="Animes|Séries",🦸Icarly (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Jojos-Bizarre-Adventure-anime-Logo-2014.png" group-title="Animes|Séries",🦸Jojo's Bizarre adventure (PLUTO TV)
+#EXTINF:-1 tvg-id="66c7982f6838ee00085f0d24" type="live tv" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Jojos-Bizarre-Adventure-anime-Logo-2014.png" group-title="Animes|Séries",🦸Jojo's Bizarre adventure (PLUTO TV)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5be06ad6620b851a5e88a137/1541439421227-E8LIJ948YVOVLP6BU4T0/LEL_MARCA_PRINCIPAL.png" group-title="Animes|Séries",🦸Léo e Lully
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5be06ad6620b851a5e88a137/1541439421227-E8LIJ948YVOVLP6BU4T0/LEL_MARCA_PRINCIPAL.png" group-title="Animes|Séries",🦸Léo e Lully
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5be06ad6620b851a5e88a137/1541439421227-E8LIJ948YVOVLP6BU4T0/LEL_MARCA_PRINCIPAL.png" group-title="Animes|Séries",🦸Léo e Lully
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5be06ad6620b851a5e88a137/1541439421227-E8LIJ948YVOVLP6BU4T0/LEL_MARCA_PRINCIPAL.png" group-title="Animes|Séries",🦸Léo e Lully
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/tracks-v1a1/mono.m3u8?token=9267fc0520cb18dabfbcd2d0948b9ac39ffa1fae-32e7e90790d141bea7d9880974db3e1b-1731470422-1731427222
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ANjsVWA.png" group-title="Animes|Séries",🦸MORANGUINHO (PLUTO TV)
+#EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" type="live tv" tvg-logo="https://imgur.com/ANjsVWA.png" group-title="Animes|Séries",🦸MORANGUINHO (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/boOKDzw.png" group-title="Animes|Séries",🦸Naruto 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/boOKDzw.png" group-title="Animes|Séries",🦸Naruto 
 http://24hrs.homelinux.com:80/24H-naruto.txt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/boOKDzw.png" group-title="Animes|Séries",🦸NARUTO (PLUTO TV)
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" type="live tv" tvg-logo="https://imgur.com/boOKDzw.png" group-title="Animes|Séries",🦸NARUTO (PLUTO TV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://imgur.com/boOKDzw.png" group-title="Animes|Séries",🦸NARUTO (PLUTO TV)
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" type="live tv" tvg-logo="https://imgur.com/boOKDzw.png" group-title="Animes|Séries",🦸NARUTO (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Animes|Séries",🦸Naruto Shippuden 
+#EXTINF:-1 tvg-id="64c92f965580090008084968" type="live tv" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Animes|Séries",🦸Naruto Shippuden 
 http://24hrs.homelinux.com:80/24H-narutoshippuden.txt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Animes|Séries",🦸Naruto Shippuden (PLUTO TV)
+#EXTINF:-1 tvg-id="64c92f965580090008084968" type="live tv" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Animes|Séries",🦸Naruto Shippuden (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Animes|Séries",🦸Boruto: Naruto Next Generations (PLUTO TV)
+#EXTINF:-1 tvg-id="656f389c3944b60008e5bdab" type="live tv" tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Animes|Séries",🦸Boruto: Naruto Next Generations (PLUTO TV)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Animes|Séries",🦸Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-id="656f389c3944b60008e5bdab" type="live tv" tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Animes|Séries",🦸Boruto: Naruto Next Generations
 http://24hrs.homelinux.com:80/24H-boruto/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C5qWG1y.png" group-title="Animes|Séries",🦸OGGY E AS BARATAS (PLUTO TV)
+#EXTINF:-1 tvg-id="63221bafdc6e110007b50270" type="live tv" tvg-logo="https://imgur.com/C5qWG1y.png" group-title="Animes|Séries",🦸OGGY E AS BARATAS (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tkxMhCr.png" group-title="Animes|Séries",🦸 O REINO INFANTIL (PLUTO TV)
+#EXTINF:-1 tvg-id="5f5c216df68f920007888315" type="live tv" tvg-logo="https://imgur.com/tkxMhCr.png" group-title="Animes|Séries",🦸 O REINO INFANTIL (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Animes|Séries",🦸One Piece (PLUTO TV)
+#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" type="live tv" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Animes|Séries",🦸One Piece (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/27/91/e6/2791e6ced1430267d42ecaf8a235f75f.png" group-title="Animes|Séries",🦸OS JETSONS
+#EXTINF:-1 tvg-id="" type="live tv" tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/27/91/e6/2791e6ced1430267d42ecaf8a235f75f.png" group-title="Animes|Séries",🦸OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1935859742.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/LiSnCh7.png" group-title="Animes|Séries",🦸OS PADRINHOS MAGICOS (PLUTO TV)
+#EXTINF:-1 tvg-id="63221e41af69b500076f84e7" type="live tv" tvg-logo="https://imgur.com/LiSnCh7.png" group-title="Animes|Séries",🦸OS PADRINHOS MAGICOS (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/LiSnCh7.png" group-title="Animes|Séries",🦸OS PADRINHOS MAGICOS (PLUTO TV)
+#EXTINF:-1 tvg-id="63221e41af69b500076f84e7" type="live tv" tvg-logo="https://imgur.com/LiSnCh7.png" group-title="Animes|Séries",🦸OS PADRINHOS MAGICOS (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="Animes|Séries",🦸Os Cavaleiros Do Zodiaco 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://seeklogo.com/images/C/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="Animes|Séries",🦸Os Cavaleiros Do Zodiaco 
 http://24hrs.homelinux.com:80/24H-cavaleiros/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="Animes|Séries",PicaPau 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="Animes|Séries",PicaPau 
 http://45.134.141.161:2200/BRX/24HS_Pica-Pau_O_novo_show/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/fHutaGN.png" group-title="Animes|Séries",🦸KIDS (PLUTO TV)
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f
+" type="live tv" tvg-logo="https://imgur.com/fHutaGN.png" group-title="Animes|Séries",🦸KIDS (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/fHutaGN.png" group-title="Animes|Séries",🦸KIDS (PLUTO TV)
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f
+" type="live tv" tvg-logo="https://imgur.com/fHutaGN.png" group-title="Animes|Séries",🦸KIDS (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4Y8zjpm.png" group-title="Animes|Séries",🦸ROCKET POWER (PLUTO TV)
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/4Y8zjpm.png" group-title="Animes|Séries",🦸ROCKET POWER (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8GvhfOr.png" group-title="Animes|Séries",🦸RUGRATS (PLUTO TV)
+#EXTINF:-1 tvg-id="61f2c6969fcc3800076ef8af" type="live tv" tvg-logo="https://imgur.com/8GvhfOr.png" group-title="Animes|Séries",🦸RUGRATS (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8GvhfOr.png" group-title="Animes|Séries",🦸RUGRATS (PLUTO TV)
+#EXTINF:-1 tvg-id="61f2c6969fcc3800076ef8af" type="live tv" tvg-logo="https://imgur.com/8GvhfOr.png" group-title="Animes|Séries",🦸RUGRATS (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TSvJ3Dt.png" group-title="Animes|Séries",🦸SUPER ONZE (PLUTO TV)
+#EXTINF:-1 tvg-id="63988c2750108d00072e2686" type="live tv" tvg-logo="https://imgur.com/TSvJ3Dt.png" group-title="Animes|Séries",🦸SUPER ONZE (PLUTO TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Animes|Séries",🦸SOUTH PARK (PLUTO TV)
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Animes|Séries",🦸SOUTH PARK (PLUTO TV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/57/Teletubbies_logo.png" group-title="Animes|Séries",🦸TELETUBBIES (PLUTO TV)
+#EXTINF:-1 tvg-id="64e50055286f6b000838c067
+" type="live tv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/57/Teletubbies_logo.png" group-title="Animes|Séries",🦸TELETUBBIES (PLUTO TV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Animes|Séries",🦸Turma da Mônicaᴴᴰ 🇧🇷 
+#EXTINF:-1 tvg-id="" type="live tv" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Animes|Séries",🦸Turma da Mônicaᴴᴰ 🇧🇷 
 https://bit.ly/3cXQNoL?profile=inspirationlivetv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Animes|Séries",🦸Turma da Mônicaᴴᴰ 🇧🇷 
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" type="live tv" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Animes|Séries",🦸Turma da Mônicaᴴᴰ 🇧🇷 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E01
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E01
 https://lightspeedst.net/s2/mp4/chainsaw-man-dublado/sd/1.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E02
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E02
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/2.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E03
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E03
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/3.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E04
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E04
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/4.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E05
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E05
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/5.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E06
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E06
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/6.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E07
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E07
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/7.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E08
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E08
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/8.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E09
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E09
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/9.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E10
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E10
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/10.mp4
-##EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E11
+##EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E11
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/11.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E12
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/81EyGIrto3L.jpg" group-title="Animes|Séries",CHAINSAW MAN S01E12
 https://lightspeedst.net/s5/mp4/chainsaw-man-dublado/sd/12.mp4
 
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E01
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E01
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/1.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E02
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E02
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/2.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E03
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E03
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/3.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E04
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E04
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/4.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E05
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E05
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/5.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E06
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E06
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/6.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E07
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E07
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/7.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E08
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E08
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/8.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E09
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E09
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/9.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E10
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E10
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/10.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E11
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E11
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/11.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E12
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E12
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/12.mp4
-#EXTINF:0 type="video" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E13
+#EXTINF:0 type="series" tvg-logo="https://imusic.b-cdn.net/images/item/original/447/5022366773447.jpg" group-title="Animes|Séries",HORIMIYA S01E13
 https://lightspeedst.net/s1/mp4/horimiya-dublado/sd/13.mp4
 
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E01
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E01
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/1.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E02
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E02
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/2.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E03
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E03
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/3.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E04
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E04
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/4.mp4
 #EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E05
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/5.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E06
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E06
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/6.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E07
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E07
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/7.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E08
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E08
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/8.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E09
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E09
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/9.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E10
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E10
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/10.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E11
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E11
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/11.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E12
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/811Vw07xTPL.jpg" group-title="Animes|Séries",HANAKO KUN S01E12
 https://lightspeedst.net/s1/mp4/jibaku-shounen-hanako-kun-dublado/sd/12.mp4
 
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E01
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E01
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/1.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E02
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E02
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/2.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E03
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E03
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/3.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E04
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E04
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/4.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E05
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E05
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/5.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E06
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E06
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/6.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E07
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E07
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/7.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E08
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E08
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/8.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E09
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E09
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/9.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E10
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E10
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/10.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E11
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E11
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/11.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E12
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E12
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/12.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E13
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E13
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/13.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E14
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E14
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/14.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E15
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E15
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/15.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E16
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E16
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/16.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E17
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E17
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/17.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E18
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E18
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/18.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E19
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E19
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/19.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E20
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E20
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/20.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E21
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E21
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/21.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E22
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E22
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/22.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E23
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E23
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/23.mp4
-#EXTINF:0 type="video" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E24
+#EXTINF:0 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Jujutsu_Kaisen_Cover.png" group-title="Animes|Séries",JUJUTSU KAISEN S01E24
 https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/sd/24.mp4
 
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E01
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E01
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/1.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E02
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E02
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/2.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E03
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E03
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/3.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E04
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E04
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/4.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E05
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E05
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/5.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E06
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E06
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/6.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E07
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E07
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/7.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E08
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E08
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/8.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E09
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E09
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/9.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E10
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E10
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/10.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E11
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E11
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/11.mp4
-#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E12
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/I/61Vy74wnrAS._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",KOMI SAN S01E12
 https://lightspeedst.net/s4/mp4/komi-san-wa-comyushou-desu-2nd-season-dublado/sd/12.mp4
 
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E000_Abertura
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E000_Abertura
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/Abertura%20A%20Hora%20Warner.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E001-Adoro_receber_ordens_de_voce
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E001-Adoro_receber_ordens_de_voce
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP001-Adoro_receber_ordens_de_voce.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E002-Agua_por_todos_os_lados
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E002-Agua_por_todos_os_lados
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP002-Agua_por_todos_os_lados.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E003-Alimentando_a_cria
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E003-Alimentando_a_cria
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP003-Alimentando_a_cria.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E004-Alucinacao_coletiva
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E004-Alucinacao_coletiva
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP004-Alucinacao_coletiva.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E005-Amigos_amigos_ratos_a_parte
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E005-Amigos_amigos_ratos_a_parte
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP005-Amigos_amigos_ratos_a_parte.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E006-Amor_e_pragas
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E006-Amor_e_pragas
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP006-Amor_e_pragas.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E007-As_aparencias_enganam
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E007-As_aparencias_enganam
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP007-As_aparencias_enganam.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E008-As_peripecias_de_patolino
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E008-As_peripecias_de_patolino
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP008-As_peripecias_de_patolino.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E009-As_suas_ordens_madame
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E009-As_suas_ordens_madame
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP009-As_suas_ordens_madame.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E10-Ataque_aereo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E10-Ataque_aereo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP010-Ataque_aereo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E11-Ataque_ao_forte_do_patolino
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E11-Ataque_ao_forte_do_patolino
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP011-Ataque_ao_forte_do_patolino.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E12-Atras_do_papa_leguas
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E12-Atras_do_papa_leguas
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP012-Atras_do_papa_leguas.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E13-Auto_magnetismo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E13-Auto_magnetismo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP013-Auto_magnetismo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E14-Azar_de_coiote
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E14-Azar_de_coiote
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP014-Azar_de_coiote.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E15-A_eterna_cacada
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E15-A_eterna_cacada
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP015-A_eterna_cacada.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E16-A_infancia_do_pernalonga
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E16-A_infancia_do_pernalonga
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP016-A_infancia_do_pernalonga.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E17-A_ingenuidade_de_frangolino
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E17-A_ingenuidade_de_frangolino
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP017-A_ingenuidade_de_frangolino.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E18-A_message_to_gracias
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E18-A_message_to_gracias
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP018-A_message_to_gracias.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E19-A_parada_dos_pinguins
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E19-A_parada_dos_pinguins
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP019-A_parada_dos_pinguins.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E20-A_raposa_e_o_pato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E20-A_raposa_e_o_pato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP020-A_raposa_e_o_pato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E21-A_vida_atras_das_grades
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E21-A_vida_atras_das_grades
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP021-A_vida_atras_das_grades.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E22-Baba_por_um_dia
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E22-Baba_por_um_dia
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP022-Baba_por_um_dia.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E23-Bancando_a_isca
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E23-Bancando_a_isca
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP023-Bancando_a_isca.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E24-Banho_de_coelho
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E24-Banho_de_coelho
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP024-Banho_de_coelho.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E25-Bruxa_shakesperiana
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E25-Bruxa_shakesperiana
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP025-Bruxa_shakesperiana.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E26-Cacando_o_rato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E26-Cacando_o_rato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP026-Cacando_o_rato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E27-Camundongos_travessos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E27-Camundongos_travessos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP027-Camundongos_travessos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E28-Cancando_de_apanhar
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E28-Cancando_de_apanhar
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP028-Cancando_de_apanhar.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E29-Cangooro_e_frajola_em_papai_sabe_tudo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E29-Cangooro_e_frajola_em_papai_sabe_tudo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP029-Cangooro_e_frajola_em_papai_sabe_tudo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E30-Canguroo_em_um_rato_no_farol
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E30-Canguroo_em_um_rato_no_farol
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP030-Canguroo_em_um_rato_no_farol.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E31-Carrinho_valente
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E31-Carrinho_valente
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP031-Carrinho_valente.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E32-Cavaleiro_pernalonga
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E32-Cavaleiro_pernalonga
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP032-Cavaleiro_pernalonga.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E33-Centro_de_rosquinhas_que_buraco
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E33-Centro_de_rosquinhas_que_buraco
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP033-Centro_de_rosquinhas_que_buraco.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E34-Chuva_de_verao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E34-Chuva_de_verao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP034-Chuva_de_verao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E35-Coelho_18_quilates
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E35-Coelho_18_quilates
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP035-Coelho_18_quilates.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E36-Coelho_cacado
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E36-Coelho_cacado
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP036-Coelho_cacado.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E37-Coelho_feat
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E37-Coelho_feat
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP037-Coelho_feat.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E38-Coelho_heroico
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E38-Coelho_heroico
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP038-Coelho_heroico.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E39-Coelho_para_cima
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E39-Coelho_para_cima
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP039-Coelho_para_cima.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E40-Coelho_selvagem
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E40-Coelho_selvagem
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP040-Coelho_selvagem.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E41-Coelho_selvagem_do_velho_oeste
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E41-Coelho_selvagem_do_velho_oeste
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP041-Coelho_selvagem_do_velho_oeste.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E42-Coelho_sem_lar
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E42-Coelho_sem_lar
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP042-Coelho_sem_lar.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E43-Coiote_em_usando_novos_invento
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E43-Coiote_em_usando_novos_invento
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP043-Coiote_em_usando_novos_invento.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E44-Colegio_catnip
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E44-Colegio_catnip
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP044-Colegio_catnip.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E45-Como_reconhecer_uma_galinha
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E45-Como_reconhecer_uma_galinha
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP045-Como_reconhecer_uma_galinha.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E46-Como_se_casar_com_um_galo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E46-Como_se_casar_com_um_galo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP046-Como_se_casar_com_um_galo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E47-Complexo_de_Napoleao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E47-Complexo_de_Napoleao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP047-Complexo_de_Napoleao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E48-Compre_veja_e_preste_atencao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E48-Compre_veja_e_preste_atencao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP048-Compre_veja_e_preste_atencao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E49-Concerto_sem_do
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E49-Concerto_sem_do
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP049-Concerto_sem_do.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E50-Corn_on_the_cop
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E50-Corn_on_the_cop
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP050-Corn_on_the_cop.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E51-De_cara_na_parede
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E51-De_cara_na_parede
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP051-De_cara_na_parede.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E52-De_pai_para_filhos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E52-De_pai_para_filhos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP052-De_pai_para_filhos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E53-Dia_de_cao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E53-Dia_de_cao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP053-Dia_de_cao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E54-Diversao_na_neve
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E54-Diversao_na_neve
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP054-Diversao_na_neve.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E55-Doce_sioux
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E55-Doce_sioux
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP055-Doce_sioux.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E56-Dois_corvos_e_um_gafanhoto
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E56-Dois_corvos_e_um_gafanhoto
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP056-Dois_corvos_e_um_gafanhoto.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E57-Elmert_o_ingrato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E57-Elmert_o_ingrato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP057-Elmert_o_ingrato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E58-Em_busca_de_um_lar
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E58-Em_busca_de_um_lar
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP058-Em_busca_de_um_lar.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E59-Encrencas_do_pernalonga
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E59-Encrencas_do_pernalonga
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP059-Encrencas_do_pernalonga.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E60-Enganados_por_um_rato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E60-Enganados_por_um_rato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP060-Enganados_por_um_rato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E61-Era_filho_de_um_acrobata
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E61-Era_filho_de_um_acrobata
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP061-Era_filho_de_um_acrobata.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E62-Escalando_o_pico
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E62-Escalando_o_pico
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP062-Escalando_o_pico.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E63-Esporte_dos_campeoes
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E63-Esporte_dos_campeoes
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP063-Esporte_dos_campeoes.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E64-Fabrica_de_bebes
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E64-Fabrica_de_bebes
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP064-Fabrica_de_bebes.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E65-Falando_do_tempo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E65-Falando_do_tempo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP065-Falando_do_tempo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E66-Ferias_aereas
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E66-Ferias_aereas
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP066-Ferias_aereas.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E67-Filho_de_rato_ratinho_e
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E67-Filho_de_rato_ratinho_e
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP067-Filho_de_rato_ratinho_e.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E68-Folga_do_sapateiro
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E68-Folga_do_sapateiro
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP068-Folga_do_sapateiro.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E69-Frajola_o_heroi
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E69-Frajola_o_heroi
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP069-Frajola_o_heroi.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E70-Frangolino_bom_de_briga
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E70-Frangolino_bom_de_briga
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP070-Frangolino_bom_de_briga.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E71-Frangolino_chocando_ovo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E71-Frangolino_chocando_ovo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP071-Frangolino_chocando_ovo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E72-Frangolino_em_aprendendo_a_ser_frango
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E72-Frangolino_em_aprendendo_a_ser_frango
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP072-Frangolino_em_aprendendo_a_ser_frango.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E73-Frangolino_em_raposa_medrosa
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E73-Frangolino_em_raposa_medrosa
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP073-Frangolino_em_raposa_medrosa.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E74-Frangolino_em_sirva-se_fuinha
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E74-Frangolino_em_sirva-se_fuinha
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP074-Frangolino_em_sirva-se_fuinha.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E75-Frangolino_em_uma_fuinha_infernal
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E75-Frangolino_em_uma_fuinha_infernal
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP075-Frangolino_em_uma_fuinha_infernal.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E76-Frangolino_tudo_por_um_calor_galinaceo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E76-Frangolino_tudo_por_um_calor_galinaceo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP076-Frangolino_tudo_por_um_calor_galinaceo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E77-Frango_a_moda_sulista
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E77-Frango_a_moda_sulista
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP077-Frango_a_moda_sulista.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E78-Fugindo_do_inferno
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E78-Fugindo_do_inferno
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP078-Fugindo_do_inferno.mkv
 #EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E79-Gaguinho_em_castelo_dos_doendes
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP079-Gaguinho_em_castelo_dos_doendes.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E80-Gaguinho_e_Patolino_em_cobertura_total
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E80-Gaguinho_e_Patolino_em_cobertura_total
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP080-Gaguinho_e_Patolino_em_cobertura_total.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E81-Gaguinho_e_patolino_em_descanso_merecido
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E81-Gaguinho_e_patolino_em_descanso_merecido
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP081-Gaguinho_e_patolino_em_descanso_merecido.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E82-Gatos_e_explosivos_nao_se_mistiram
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E82-Gatos_e_explosivos_nao_se_mistiram
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP082-Gatos_e_explosivos_nao_se_mistiram.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E083-Guerra_e_guerra
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E083-Guerra_e_guerra
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP083-Guerra_e_guerra.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E84-Historias_da_mamae_ganso
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E84-Historias_da_mamae_ganso
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP084-Historias_da_mamae_ganso.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E85-Historia_natural
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E85-Historia_natural
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP085-Historia_natural.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E86-Ideia_de_genio
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E86-Ideia_de_genio
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP086-Ideia_de_genio.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E87-Kitty_kornered
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E87-Kitty_kornered
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP087-Kitty_kornered.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E88-Lagarta_de_sorte
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E88-Lagarta_de_sorte
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP088-Lagarta_de_sorte.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E89-Lagrima_de_crocodilos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E89-Lagrima_de_crocodilos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP089-Lagrima_de_crocodilos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E90-Ligeirinho_em_prato_mexicano
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E90-Ligeirinho_em_prato_mexicano
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP090-Ligeirinho_em_prato_mexicano.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E91-Ligeirinho_salva_a_cidade
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E91-Ligeirinho_salva_a_cidade
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP091-Ligeirinho_salva_a_cidade.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E92-Little_red_walking_hood
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E92-Little_red_walking_hood
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP092-Little_red_walking_hood.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E93-Lobo_na_pele_de_ovelha
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E93-Lobo_na_pele_de_ovelha
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP093-Lobo_na_pele_de_ovelha.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E94-Louvre_de_volta_a_mim
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E94-Louvre_de_volta_a_mim
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP094-Louvre_de_volta_a_mim.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E95-Mamae_galo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E95-Mamae_galo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP095-Mamae_galo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E96-Manda_bala
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E96-Manda_bala
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP096-Manda_bala.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E97-Marcianos_invadem_a_terra
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E97-Marcianos_invadem_a_terra
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP097-Marcianos_invadem_a_terra.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E98-Meu_pato_favorito
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E98-Meu_pato_favorito
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP098-Meu_pato_favorito.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E99-Moby_duck_ligeirinho_e_patolino
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E99-Moby_duck_ligeirinho_e_patolino
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP099-Moby_duck_ligeirinho_e_patolino.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E100-Mostra_de_caes
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E100-Mostra_de_caes
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP100-Mostra_de_caes.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E101-Mudanca_de_vida
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E101-Mudanca_de_vida
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP101-Mudanca_de_vida.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E102-Mudanca_rapida
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E102-Mudanca_rapida
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP102-Mudanca_rapida.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E103-Muito_trabalho_para_nada
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E103-Muito_trabalho_para_nada
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP103-Muito_trabalho_para_nada.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E104-Mundo_do_futebol
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E104-Mundo_do_futebol
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP104-Mundo_do_futebol.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E105-Musica_perambulante
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E105-Musica_perambulante
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP105-Musica_perambulante.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E106-Nao_abandone_as_ovelhas
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E106-Nao_abandone_as_ovelhas
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP106-Nao_abandone_as_ovelhas.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E107-Nao_ha_dinheiro_que_nao_pague
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E107-Nao_ha_dinheiro_que_nao_pague
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP107-Nao_ha_dinheiro_que_nao_pague.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E108-Nasce_uma_estrela
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E108-Nasce_uma_estrela
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP108-Nasce_uma_estrela.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E109-Na_compania_do_patolino
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E109-Na_compania_do_patolino
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP109-Na_compania_do_patolino.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E110-No_caminho_do_progresso
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E110-No_caminho_do_progresso
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP110-No_caminho_do_progresso.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E111-Oeste_selvagem
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E111-Oeste_selvagem
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP111-Oeste_selvagem.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E112-Operacao_coelho
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E112-Operacao_coelho
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP112-Operacao_coelho.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E113-Os_tres_porquinhos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E113-Os_tres_porquinhos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP113-Os_tres_porquinhos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E114-Ouro_de_coelho
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E114-Ouro_de_coelho
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP114-Ouro_de_coelho.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E115-O_abominavel_coelho_das_neves
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E115-O_abominavel_coelho_das_neves
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP115-O_abominavel_coelho_das_neves.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E116-O_alegre_passeio_mexicano
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E116-O_alegre_passeio_mexicano
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP116-O_alegre_passeio_mexicano.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E117-O_aprendiz_de_papa_galinhas
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E117-O_aprendiz_de_papa_galinhas
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP117-O_aprendiz_de_papa_galinhas.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E118-O_aristogato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E118-O_aristogato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP118-O_aristogato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E119-O_artista_patolino
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E119-O_artista_patolino
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP119-O_artista_patolino.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E120-O_cacador_de_coelhos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E120-O_cacador_de_coelhos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP120-O_cacador_de_coelhos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E121-O_coelho_boxer
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E121-O_coelho_boxer
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP121-O_coelho_boxer.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E122-O_coelho_de_wackiki
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E122-O_coelho_de_wackiki
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP122-O_coelho_de_wackiki.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E123-O_coelho_do_dia
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E123-O_coelho_do_dia
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP123-O_coelho_do_dia.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E124-O_coelho_que_veio_para_jantar
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E124-O_coelho_que_veio_para_jantar
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP124-O_coelho_que_veio_para_jantar.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E125-O_dia_da_marmota
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E125-O_dia_da_marmota
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP125-O_dia_da_marmota.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E126-O_esperto_e_excentrico_pato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E126-O_esperto_e_excentrico_pato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP126-O_esperto_e_excentrico_pato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E127-O_estupido_cupido
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E127-O_estupido_cupido
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP127-O_estupido_cupido.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E128-O_fim_secreto
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E128-O_fim_secreto
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP128-O_fim_secreto.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E130-O_galo_atrapalhado
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E130-O_galo_atrapalhado
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP130-O_galo_atrapalhado.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E131-O_gato_sai_e_os_ratos_fazem_a_festa
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E131-O_gato_sai_e_os_ratos_fazem_a_festa
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP131-O_gato_sai_e_os_ratos_fazem_a_festa.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E132-O_gaviao_exigente
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E132-O_gaviao_exigente
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP132-O_gaviao_exigente.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E133-O_hipinotizador_de_gatos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E133-O_hipinotizador_de_gatos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP133-O_hipinotizador_de_gatos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E134-O_indio_joe
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E134-O_indio_joe
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP134-O_indio_joe.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E135-O_lobo_chocado
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E135-O_lobo_chocado
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP135-O_lobo_chocado.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E136-O_melhor_amigo_do_cao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E136-O_melhor_amigo_do_cao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP136-O_melhor_amigo_do_cao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E137-O_mundo_e_dos_mais_vivos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E137-O_mundo_e_dos_mais_vivos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP137-O_mundo_e_dos_mais_vivos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E138-O_oscar_vai_para_pernalonga
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E138-O_oscar_vai_para_pernalonga
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP138-O_oscar_vai_para_pernalonga.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E139-O_osso
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E139-O_osso
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP139-O_osso.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E140-O_pequeno_cao_orfao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E140-O_pequeno_cao_orfao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP140-O_pequeno_cao_orfao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E141-O_pica_pau_ouconsciencia
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E141-O_pica_pau_ouconsciencia
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP141-O_pica_pau_ouconsciencia.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E142-O_rato_destruidor
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E142-O_rato_destruidor
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP142-O_rato_destruidor.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E143-O_refugio
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E143-O_refugio
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP143-O_refugio.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E144-O_resfriado
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E144-O_resfriado
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP144-O_resfriado.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E145-O_sonho_de_jack
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E145-O_sonho_de_jack
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP145-O_sonho_de_jack.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E146-O_terror_do_deserto
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E146-O_terror_do_deserto
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP146-O_terror_do_deserto.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E147-O_treinador_de_frajola
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E147-O_treinador_de_frajola
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP147-O_treinador_de_frajola.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E148-O_ultimo_gato_faminto
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E148-O_ultimo_gato_faminto
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP148-O_ultimo_gato_faminto.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E149-O_ultimo_moicano
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E149-O_ultimo_moicano
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP149-O_ultimo_moicano.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E150-O_vigia_noturno
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E150-O_vigia_noturno
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP150-O_vigia_noturno.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E151-O_vilao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E151-O_vilao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP151-O_vilao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E152-Paixoes_de_rato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E152-Paixoes_de_rato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP152-Paixoes_de_rato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E153-Panchicho_vanila
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E153-Panchicho_vanila
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP153-Panchicho_vanila.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E154-Parabens_voce_e_pai
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E154-Parabens_voce_e_pai
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP154-Parabens_voce_e_pai.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E155-Passeio_pelo_hawaii
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E155-Passeio_pelo_hawaii
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP155-Passeio_pelo_hawaii.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E156-Patolino_detetive
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E156-Patolino_detetive
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP156-Patolino_detetive.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E157-Patolino_em_hollywood
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E157-Patolino_em_hollywood
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP157-Patolino_em_hollywood.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E158-Patolino_em_nao_me_coma
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E158-Patolino_em_nao_me_coma
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP158-Patolino_em_nao_me_coma.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E159-Patolino_em_o_bebe_da_cegonha
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E159-Patolino_em_o_bebe_da_cegonha
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP159-Patolino_em_o_bebe_da_cegonha.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E160-Patolino_e_seus_truques
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E160-Patolino_e_seus_truques
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP160-Patolino_e_seus_truques.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E161-Patolino_no_velho_oeste
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E161-Patolino_no_velho_oeste
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP161-Patolino_no_velho_oeste.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E162-Pato_pasmo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E162-Pato_pasmo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP162-Pato_pasmo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E163-Pato_superior
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E163-Pato_superior
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP163-Pato_superior.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E164-Pepe_le_pew_em_amor_selvagem
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E164-Pepe_le_pew_em_amor_selvagem
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP164-Pepe_le_pew_em_amor_selvagem.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E165-Pepe_le_pew_em_aventura_inesquecivel
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E165-Pepe_le_pew_em_aventura_inesquecivel
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP165-Pepe_le_pew_em_aventura_inesquecivel.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E166-Pepe_le_pew_em_romance_nos_alpes
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E166-Pepe_le_pew_em_romance_nos_alpes
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP166-Pepe_le_pew_em_romance_nos_alpes.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E167-Pepe_le_pew_na_legiao_estrangeira
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E167-Pepe_le_pew_na_legiao_estrangeira
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP167-Pepe_le_pew_na_legiao_estrangeira.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E168-Perdidos_na_ilha
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E168-Perdidos_na_ilha
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP168-Perdidos_na_ilha.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E169-Perdido_e_orfao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E169-Perdido_e_orfao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP169-Perdido_e_orfao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E170-Pernalonga_a_descoberta_da_america
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E170-Pernalonga_a_descoberta_da_america
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP170-Pernalonga_a_descoberta_da_america.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E171-Pernalonga_em_coelho_do_deserto
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E171-Pernalonga_em_coelho_do_deserto
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP171-Pernalonga_em_coelho_do_deserto.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E172-Pernalonga_em_contatos_imediatos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E172-Pernalonga_em_contatos_imediatos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP172-Pernalonga_em_contatos_imediatos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E173-Pernalonga_em_frente_e_marche
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E173-Pernalonga_em_frente_e_marche
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP173-Pernalonga_em_frente_e_marche.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",S01E174-Pernalonga_em_gorila_dos_meus_sonhos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",S01E174-Pernalonga_em_gorila_dos_meus_sonhos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP174-Pernalonga_em_gorila_dos_meus_sonhos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E175-Pernalonga_em_marte
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E175-Pernalonga_em_marte
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP175-Pernalonga_em_marte.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E176-Pernalonga_em_o_coelho_espacial
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E176-Pernalonga_em_o_coelho_espacial
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP176-Pernalonga_em_o_coelho_espacial.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E177-Pernalonga_em_o_ouro_da_cobica
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E177-Pernalonga_em_o_ouro_da_cobica
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP177-Pernalonga_em_o_ouro_da_cobica.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E178-Pernalonga_em_rasgando_o_contrato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E178-Pernalonga_em_rasgando_o_contrato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP178-Pernalonga_em_rasgando_o_contrato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E180-Pernalonga_e_o_lobo_mau
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E180-Pernalonga_e_o_lobo_mau
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP180-Pernalonga_e_o_lobo_mau.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E181-Pernalonga_e_o_marciano
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E181-Pernalonga_e_o_marciano
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP181-Pernalonga_e_o_marciano.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E182-Pernalonga_e_o_pe_de_feijao
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E182-Pernalonga_e_o_pe_de_feijao
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP182-Pernalonga_e_o_pe_de_feijao.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E183-Pesadelo_de_coelho
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E183-Pesadelo_de_coelho
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP183-Pesadelo_de_coelho.mkv
 #EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E184-Piu_piu_em_frajola_na_gaiola
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP184-Piu_piu_em_frajola_na_gaiola.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E185-Piu_piu_em_novos_vizinhos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E185-Piu_piu_em_novos_vizinhos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP185-Piu_piu_em_novos_vizinhos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E186-Piu_piu_em_passaro_indigesto
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney TunesS01E186-Piu_piu_em_passaro_indigesto
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP186-Piu_piu_em_passaro_indigesto.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E187-Piu_piu_e_frajola_a_historia_de_piu_piu
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E187-Piu_piu_e_frajola_a_historia_de_piu_piu
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP187-Piu_piu_e_frajola_a_historia_de_piu_piu.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E188-Piu_piu_e_frajola_em_visitando_o_zoologico
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E188-Piu_piu_e_frajola_em_visitando_o_zoologico
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP188-Piu_piu_e_frajola_em_visitando_o_zoologico.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E189-Piu_piu_e_frajola_presos_na_nevasca
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E189-Piu_piu_e_frajola_presos_na_nevasca
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP189-Piu_piu_e_frajola_presos_na_nevasca.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E190-Pocos_do_texa
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E190-Pocos_do_texa
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP190-Pocos_do_texa.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E191-Porcos_e_porcos
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E191-Porcos_e_porcos
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP191-Porcos_e_porcos.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E192-Praga_de_rato
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E192-Praga_de_rato
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP192-Praga_de_rato.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E193-Quem_ri_por_ultimo_ri_melhor
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E193-Quem_ri_por_ultimo_ri_melhor
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP193-Quem_ri_por_ultimo_ri_melhor.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E194-Que_opera_velhinho
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E194-Que_opera_velhinho
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP194-Que_opera_velhinho.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E195-Que_pedrada
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E195-Que_pedrada
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP195-Que_pedrada.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E196-Rapoza_de_prata
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E196-Rapoza_de_prata
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP196-Rapoza_de_prata.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E197-Ratinhos_brincalhoes
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E197-Ratinhos_brincalhoes
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP197-Ratinhos_brincalhoes.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E198-Rato_quinta_coluna
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E198-Rato_quinta_coluna
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP198-Rato_quinta_coluna.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E199-Rato_tamanho_familia
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E199-Rato_tamanho_familia
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP199-Rato_tamanho_familia.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E200-Razoes_sentimentais
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E200-Razoes_sentimentais
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP200-Razoes_sentimentais.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E201-Rhapsody_in_rivets
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E201-Rhapsody_in_rivets
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP201-Rhapsody_in_rivets.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E202-Roedorzinho_vermelho
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E202-Roedorzinho_vermelho
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP202-Roedorzinho_vermelho.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E203-Romance_no_gelo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E203-Romance_no_gelo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP203-Romance_no_gelo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E204-Romeu_sentimental
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E204-Romeu_sentimental
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP204-Romeu_sentimental.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E205-Sniffles_bells_the_cat
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E205-Sniffles_bells_the_cat
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP205-Sniffles_bells_the_cat.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E206-Sniffles_takes_a_trip
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E206-Sniffles_takes_a_trip
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP206-Sniffles_takes_a_trip.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E207-Sobrevivencia_na_floresta_com_frangolino
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E207-Sobrevivencia_na_floresta_com_frangolino
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP207-Sobrevivencia_na_floresta_com_frangolino.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E208-Sono_espacial
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E208-Sono_espacial
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP208-Sono_espacial.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E209-Sr_e_sra_e_o_nome
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E209-Sr_e_sra_e_o_nome
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP209-Sr_e_sra_e_o_nome.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E210-Super_coelho
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E210-Super_coelho
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP210-Super_coelho.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E211-Swooner_crooner
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E211-Swooner_crooner
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP211-Swooner_crooner.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E212-Tentando_hibernar
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E212-Tentando_hibernar
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP212-Tentando_hibernar.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E213-Tentando_tudo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E213-Tentando_tudo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP213-Tentando_tudo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E214-Toquinho_vai_acampanhar
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E214-Toquinho_vai_acampanhar
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP214-Toquinho_vai_acampanhar.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E215-Uma_cacada_no_cartoon
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E215-Uma_cacada_no_cartoon
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP215-Uma_cacada_no_cartoon.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E216-Uma_festa_em_malibu
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E216-Uma_festa_em_malibu
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP216-Uma_festa_em_malibu.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E217-Uma_noite_com_os_astros
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E217-Uma_noite_com_os_astros
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP217-Uma_noite_com_os_astros.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",S01E218-Um_chapeuzinho_vermelho_diferente
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",S01E218-Um_chapeuzinho_vermelho_diferente
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP218-Um_chapeuzinho_vermelho_diferente.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E219-Um_gato_bem_informado
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E219-Um_gato_bem_informado
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP219-Um_gato_bem_informado.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E220-Um_moco_em_bagda
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E220-Um_moco_em_bagda
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP220-Um_moco_em_bagda.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E221-Uniao_em_perigo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E221-Uniao_em_perigo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP221-Uniao_em_perigo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E222-Valeu_bicho
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E222-Valeu_bicho
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP222-Valeu_bicho.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E223-Vamos_tocar
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E223-Vamos_tocar
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP223-Vamos_tocar.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E224-Vida_de_cachorro
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E224-Vida_de_cachorro
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP224-Vida_de_cachorro.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E225-Vida_de_gato_e_fogo
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E225-Vida_de_gato_e_fogo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP225-Vida_de_gato_e_fogo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E226-Vida_selvagem
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E226-Vida_selvagem
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP226-Vida_selvagem.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E227-Visita_indesejada
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/I/71nynbosQCL._AC_UF1000,1000_QL80_.jpg" group-title="Animes|Séries",Looney Tunes S01E227-Visita_indesejada
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP227-Visita_indesejada.mkv
 
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E01
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E01
 https://lightspeedst.net/s5/mp4/oshi-no-ko/sd/1.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E02
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E02
 https://s2.lightspeedst.net/s1/mp4/oshi-no-ko/sd/2.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E03
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E03
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/3/480p.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E04
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E04
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/4/480p.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E05
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E05
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/5/480p.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E06
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E06
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/6/480p.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E07
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E07
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/7/480p.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E08
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E08
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/8/480p.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E09
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E09
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/9/480p.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E10
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E10
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/10/480p.mp4
-#EXTINF:0 type="serie" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E11
+#EXTINF:0 type="series" tvg-logo="https://a.storyblok.com/f/178900/2865x4047/501b5563cc/oshi-no-ko-staffel-2-visual.jpeg/m/filters:quality(95)format(webp)" group-title="Animes|Séries",OSHI NO KO S01E11
 https://s2.lightspeedst.net/s1/mp4_temp/oshi-no-ko/11/480p.mp4
 
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E01
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E01
 https://lightspeedst.net/s4/mp4/sentouin-hakenshimasu-dublado/sd/1.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E02
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E02
 https://lightspeedst.net/s2/mp4/sentouin-hakenshimasu/sd/2.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E03
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E03
 https://lightspeedst.net/s4/mp4/sentouin-hakenshimasu-dublado/sd/3.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E04
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E04
 https://lightspeedst.net/s4/mp4/sentouin-hakenshimasu-dublado/sd/4.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E05
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E05
 https://lightspeedst.net/s4/mp4/sentouin-hakenshimasu-dublado/sd/5.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E06
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E06
 https://lightspeedst.net/s4/mp4/sentouin-hakenshimasu-dublado/sd/6.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E07
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E07
 https://lightspeedst.net/s2/mp4/sentouin-hakenshimasu-dublado/sd/7.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E08
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E08
 https://lightspeedst.net/s2/mp4/sentouin-hakenshimasu-dublado/sd/8.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E09
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E09
 https://lightspeedst.net/s4/mp4/sentouin-hakenshimasu/sd/9.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E10
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E10
 https://lightspeedst.net/s1/mp4/sentouin-hakenshimasu-dublado/sd/10.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E11
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E11
 https://s2.lightspeedst.net/s2/mp4/sentouin-hakenshimasu-dublado/sd/11.mp4
-#EXTINF:0 type="serie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E12
+#EXTINF:0 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDYwODEtN2ViYi00M2YyLWJhZjUtNjE2NTk0YjdkMTA3XkEyXkFqcGc@._V1_.jpg" group-title="Animes|Séries",SENTOUIN S01E12
 https://s2.lightspeedst.net/s2/mp4/sentouin-hakenshimasu-dublado/sd/12.mp4
 
-#EXTINF:-1 type="serie" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Super%20Mario%20World%20logo.jpeg" group-title="Animes|Séries",Super Mario World Venda de Fogo
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Super%20Mario%20World%20logo.jpeg" group-title="Animes|Séries",Super Mario World Venda de Fogo
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Super%20Mario%20World%20-%2001%20Venda%20de%20Fogo.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Super%20Mario%20World%20logo.jpeg" group-title="Animes|Séries",Super Mario World A Roda
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Super%20Mario%20World%20logo.jpeg" group-title="Animes|Séries",Super Mario World A Roda
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Super%20Mario%20World%20-%2002%20A%20Roda.mkv
-#EXTINF:-1 type="serie" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Super%20Mario%20World%20logo.jpeg" group-title="Animes|Séries",Super Mario World Que Venha o Palhaço
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Super%20Mario%20World%20logo.jpeg" group-title="Animes|Séries",Super Mario World Que Venha o Palhaço
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Super%20Mario%20World%20-%2003%20Que%20Venha%20o%20Palha%C3%A7o.mkv
 
 ****************************************************************************************************************************************
